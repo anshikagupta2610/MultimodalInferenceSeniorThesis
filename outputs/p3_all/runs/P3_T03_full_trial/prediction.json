@@ -1,0 +1,41 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so there's a blue brick that's on the bottom left and bottom right. So it goes horizontally. So blue brick, bottom left, bottom right. And then on the bottom left, there's one red brick and then another red brick on top of it. So blue brick here, and then red brick, red brick. So bottom left, bottom right, blue brick, and then bottom left, red brick, bottom left, red brick.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "HPHxarbJFNX_sbwPlNCP0AE",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": null,
+    "blocks": [
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 1.0,
+        "z": 2.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 2.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "there's a blue brick that's on the bottom left and bottom right. So it goes horizontally.",
+      "on the bottom left, there's one red brick and then another red brick on top of it."
+    ]
+  },
+  "validation_error": null
+}

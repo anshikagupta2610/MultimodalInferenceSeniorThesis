@@ -1,0 +1,45 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, we're making the sort of tree shape again in the bottom left quadrant. So here it's going to be red, the green pointing out towards you, and then the blue on top of that perpendicular to the green. So again, red, green, blue in the bottom left quadrant.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "xUDxavehOKTdsbwPlpGfoAw",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "TREE",
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 0.0,
+        "y": 4.0,
+        "z": 1.0
+      },
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": -1.0,
+        "y": 5.0,
+        "z": 2.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "Okay, we're making the sort of tree shape again",
+      "in the bottom left quadrant.",
+      "So here it's going to be red,",
+      "the green pointing out towards you,",
+      "and then the blue on top of that perpendicular to the green.",
+      "So again, red, green, blue in the bottom left quadrant."
+    ]
+  },
+  "validation_error": null
+}

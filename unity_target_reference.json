@@ -1,0 +1,784 @@
+{
+  "schema": "gta-unity-v2-proxy-reference-v1",
+  "source": "ConventionsGestureTracking_Data/level0 from user-uploaded compiled Unity viewer; 12 tower GameObjects; extracted from GroundTruthTowerList",
+  "measured": "Tower hierarchy, block colors from GameObject names, Unity local positions (pivots), rotations and scales",
+  "inferred": [
+    "Viewer-grid V2 X center = (Unity pivot X / 0.008) + 2; viewer-grid V2 Z center = 2 - (Unity pivot Z / 0.008), using -Unity Z toward viewer. Block lower corners are derived from centers and idealized block dimensions.",
+    "All blocks represented as axis-aligned illustrative V2 boxes; red=y, blue=x, green=z. Original Unity rotations are preserved in per-block source metadata. Color/long-axis assignments were cross-checked against extracted mesh bounding boxes.",
+    "V2 y coordinates assigned from Unity vertical ordering and V2 block-size conventions, NOT calculated from mesh bounding boxes."
+  ],
+  "validity": "Viewer-relative front/back orientation corrected to agree with the Unity-extracted mesh gallery that the user visually accepted. V2 proxy sizes/heights are still idealized, and the extracted Unity scene is the intended target, not the measured human-built result. Not calibrated physical 3D accuracy.",
+  "unity_offset_per_v2_unit": 0.008,
+  "towers": [
+    {
+      "tower_id": "t-8-c1-translucent",
+      "shape": "C",
+      "variant": 1,
+      "blocks": [
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 0,
+          "z": 0.0,
+          "source_object_name": "GreenBlock (1)",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.0,
+            0.0
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.707107,
+            -0.000123,
+            0.000123,
+            0.707107
+          ]
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 1,
+          "z": 2.0,
+          "source_object_name": "RedBlock2",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.01,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 5,
+          "z": 0.0,
+          "source_object_name": "GreenBlock (2)",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.04,
+            0.0
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.707107,
+            -0.000123,
+            0.000123,
+            0.707107
+          ]
+        }
+      ]
+    },
+    {
+      "tower_id": "t-8-c2-translucent",
+      "shape": "C",
+      "variant": 2,
+      "blocks": [
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 0,
+          "z": 0.0,
+          "source_object_name": "GreenBlock (1)",
+          "source_unity_center_xyz": [
+            0.008,
+            0.0,
+            0.0
+          ],
+          "source_unity_quaternion_xyzw": [
+            0.000123,
+            0.707107,
+            0.707107,
+            0.000123
+          ]
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 1,
+          "z": 0.0,
+          "source_object_name": "RedBlock2",
+          "source_unity_center_xyz": [
+            0.008,
+            0.01,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 5,
+          "z": 0.0,
+          "source_object_name": "GreenBlock (2)",
+          "source_unity_center_xyz": [
+            0.008,
+            0.04,
+            0.0
+          ],
+          "source_unity_quaternion_xyzw": [
+            0.000123,
+            0.707107,
+            0.707107,
+            0.000123
+          ]
+        }
+      ]
+    },
+    {
+      "tower_id": "t-8-c3-translucent",
+      "shape": "C",
+      "variant": 3,
+      "blocks": [
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 0,
+          "z": 0.0,
+          "source_object_name": "GreenBlock (1)",
+          "source_unity_center_xyz": [
+            0.008,
+            0.0,
+            0.0
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.707107,
+            -0.000123,
+            0.000123,
+            0.707107
+          ]
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 1,
+          "z": 2.0,
+          "source_object_name": "RedBlock2",
+          "source_unity_center_xyz": [
+            0.008,
+            0.01,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 5,
+          "z": 0.0,
+          "source_object_name": "GreenBlock (2)",
+          "source_unity_center_xyz": [
+            0.008,
+            0.04,
+            0.0
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.707107,
+            -0.000123,
+            0.000123,
+            0.707107
+          ]
+        }
+      ]
+    },
+    {
+      "tower_id": "t-8-c4-translucent",
+      "shape": "C",
+      "variant": 4,
+      "blocks": [
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 0,
+          "z": 0.0,
+          "source_object_name": "GreenBlock (1)",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.0,
+            0.0
+          ],
+          "source_unity_quaternion_xyzw": [
+            0.000123,
+            0.707107,
+            0.707107,
+            0.000123
+          ]
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 1,
+          "z": 0.0,
+          "source_object_name": "RedBlock2",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.01,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 5,
+          "z": 0.0,
+          "source_object_name": "GreenBlock (2)",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.04,
+            0.0
+          ],
+          "source_unity_quaternion_xyzw": [
+            0.000123,
+            0.707107,
+            0.707107,
+            0.000123
+          ]
+        }
+      ]
+    },
+    {
+      "tower_id": "t-8-l1-translucent",
+      "shape": "L",
+      "variant": 1,
+      "blocks": [
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 0.0,
+          "y": 0,
+          "z": 2.0,
+          "source_object_name": "BlueBlock",
+          "source_unity_center_xyz": [
+            0.0,
+            0.0,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 1,
+          "z": 2.0,
+          "source_object_name": "RedBlock2",
+          "source_unity_center_xyz": [
+            0.008,
+            0.01,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 5,
+          "z": 2.0,
+          "source_object_name": "RedBlock2 (1)",
+          "source_unity_center_xyz": [
+            0.008,
+            0.04,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            0.5,
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "tower_id": "t-8-l2-translucent",
+      "shape": "L",
+      "variant": 2,
+      "blocks": [
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 0.0,
+          "y": 0,
+          "z": 0.0,
+          "source_object_name": "BlueBlock",
+          "source_unity_center_xyz": [
+            0.0,
+            0.0,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 1,
+          "z": 0.0,
+          "source_object_name": "RedBlock2",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.01,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 5,
+          "z": 0.0,
+          "source_object_name": "RedBlock2 (1)",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.04,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "tower_id": "t-8-l3-translucent",
+      "shape": "L",
+      "variant": 3,
+      "blocks": [
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 0.0,
+          "y": 0,
+          "z": 0.0,
+          "source_object_name": "BlueBlock",
+          "source_unity_center_xyz": [
+            0.0,
+            0.0,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 1,
+          "z": 0.0,
+          "source_object_name": "RedBlock2",
+          "source_unity_center_xyz": [
+            0.008,
+            0.01,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 5,
+          "z": 0.0,
+          "source_object_name": "RedBlock2 (1)",
+          "source_unity_center_xyz": [
+            0.008,
+            0.04,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            0.5,
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "tower_id": "t-8-l4-translucent",
+      "shape": "L",
+      "variant": 4,
+      "blocks": [
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 0.0,
+          "y": 0,
+          "z": 2.0,
+          "source_object_name": "BlueBlock",
+          "source_unity_center_xyz": [
+            0.0,
+            0.0,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 1,
+          "z": 2.0,
+          "source_object_name": "RedBlock2",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.01,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 5,
+          "z": 2.0,
+          "source_object_name": "RedBlock2 (1)",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.04,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "tower_id": "t-8-tr1-translucent",
+      "shape": "TREE",
+      "variant": 1,
+      "blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 0,
+          "z": 2.0,
+          "source_object_name": "RedBlock2",
+          "source_unity_center_xyz": [
+            0.008,
+            0.0,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 4,
+          "z": 1.0,
+          "source_object_name": "GreenBlock (1)",
+          "source_unity_center_xyz": [
+            0.008,
+            0.03,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.707107,
+            -0.000123,
+            0.000123,
+            0.707107
+          ]
+        },
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 1.0,
+          "y": 5,
+          "z": 2.0,
+          "source_object_name": "BlueBlock",
+          "source_unity_center_xyz": [
+            0.008,
+            0.04,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "tower_id": "t-8-tr2-translucent",
+      "shape": "TREE",
+      "variant": 2,
+      "blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 0,
+          "z": 0.0,
+          "source_object_name": "RedBlock2",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.0,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 4,
+          "z": -1.0,
+          "source_object_name": "GreenBlock (1)",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.03,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.707107,
+            -0.000123,
+            0.000123,
+            0.707107
+          ]
+        },
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": -1.0,
+          "y": 5,
+          "z": 0.0,
+          "source_object_name": "BlueBlock",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.04,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "tower_id": "t-8-tr3-translucent",
+      "shape": "TREE",
+      "variant": 3,
+      "blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 0,
+          "z": 2.0,
+          "source_object_name": "RedBlock2",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.0,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 4,
+          "z": 1.0,
+          "source_object_name": "GreenBlock (1)",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.03,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.707107,
+            -0.000123,
+            0.000123,
+            0.707107
+          ]
+        },
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": -1.0,
+          "y": 5,
+          "z": 2.0,
+          "source_object_name": "BlueBlock",
+          "source_unity_center_xyz": [
+            -0.008,
+            0.04,
+            -0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "tower_id": "t-8-tr4-translucent",
+      "shape": "TREE",
+      "variant": 4,
+      "blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 0,
+          "z": 0.0,
+          "source_object_name": "RedBlock2",
+          "source_unity_center_xyz": [
+            0.008,
+            0.0,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 4,
+          "z": -1.0,
+          "source_object_name": "GreenBlock (1)",
+          "source_unity_center_xyz": [
+            0.008,
+            0.03,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.707107,
+            -0.000123,
+            0.000123,
+            0.707107
+          ]
+        },
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 1.0,
+          "y": 5,
+          "z": 0.0,
+          "source_object_name": "BlueBlock",
+          "source_unity_center_xyz": [
+            0.008,
+            0.04,
+            0.008
+          ],
+          "source_unity_quaternion_xyzw": [
+            -0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        }
+      ]
+    }
+  ],
+  "coordinate_frame": "V2 viewer_grid: x increases right, y is height, z increases toward viewer (front). Unity -Z points toward viewer in the extracted scene.",
+  "z_correction": "For each original proxy block: new_z = 4 - old_z - block_depth, where block_depth is 4 for axis=z, else 2. No x, y, axis, or color was changed."
+}

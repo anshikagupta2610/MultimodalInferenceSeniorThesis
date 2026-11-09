@@ -1,0 +1,45 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so there's a red brick on the top left grid space, and then there's a green brick that's vertical, so it's going from close to us to away from us. That's centered on the middle part, like we were doing earlier. So it's red brick and then green brick vertically. If you're looking down at it, with the center being connected to the red brick. And similar to the green brick, there's a blue brick that's horizontally, that's also connected in the center. So it's a red brick on the top left grid, and then a green brick that's going up and down that is on top of the red brick, or centered on the red brick, and then a blue brick that's going left to right, that's going left to right, also centered on the green brick.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "PfHxasWRNsuWsbwPqOnk4AQ",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "TREE",
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 0.0,
+        "y": 4.0,
+        "z": -1.0
+      },
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": -1.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "red brick on the top left grid space",
+      "green brick that's vertical, so it's going from close to us to away from us",
+      "centered on the middle part, like we were doing earlier. So it's red brick and then green brick vertically. If you're looking down at it, with the center being connected to the red brick.",
+      "on top of the red brick",
+      "blue brick that's horizontally, that's also connected in the center.",
+      "blue brick that's going left to right, that's going left to right, also centered on the green brick."
+    ]
+  },
+  "validation_error": null
+}

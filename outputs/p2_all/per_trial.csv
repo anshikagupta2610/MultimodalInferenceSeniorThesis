@@ -1,0 +1,12 @@
+run,participant,trial,step,mode,source,tower_id,status,prediction_available,shape_predicted,shape_target,coverage,shape_correct,color_f1,xz_f1,xyz_f1,oriented_f1,full_tower_exact,predicted_block_count,target_block_count,error
+outputs/p2_all/runs/P2_T01_full_trial,P2,1,1,offline,live_llm,t-8-l3-translucent,assumed,1,,L,1,,1.0,1.0,1.0,1.0,1,3,3,
+outputs/p2_all/runs/P2_T02_full_trial,P2,2,1,offline,live_llm,t-8-c3-translucent,assumed,1,,C,1,,1.0,0.3333,0.3333,0.3333,0,3,3,
+outputs/p2_all/runs/P2_T03_full_trial,P2,3,1,offline,live_llm,t-8-tr3-translucent,ready,1,TREE,TREE,1,1,1.0,1.0,1.0,0.3333,0,3,3,
+outputs/p2_all/runs/P2_T04_full_trial,P2,4,1,offline,live_llm,t-8-c2-translucent,assumed,1,C,C,1,1,1.0,0.3333,0.3333,0.3333,0,3,3,
+outputs/p2_all/runs/P2_T05_full_trial,P2,5,1,offline,live_llm,t-8-tr4-translucent,ready,1,TREE,TREE,1,1,1.0,1.0,1.0,0.3333,0,3,3,
+outputs/p2_all/runs/P2_T06_full_trial,P2,6,1,offline,live_llm,t-8-l4-translucent,assumed,1,L,L,1,1,1.0,1.0,1.0,1.0,1,3,3,
+outputs/p2_all/runs/P2_T07_full_trial,P2,7,1,offline,live_llm,t-8-l1-translucent,assumed,1,L,L,1,1,1.0,1.0,1.0,1.0,1,3,3,
+outputs/p2_all/runs/P2_T08_full_trial,P2,8,1,offline,live_llm,t-8-c4-translucent,ready,1,,C,1,,1.0,1.0,1.0,1.0,1,3,3,
+outputs/p2_all/runs/P2_T09_full_trial,P2,9,1,offline,live_llm,t-8-tr2-translucent,ready,1,TREE,TREE,1,1,1.0,1.0,1.0,0.3333,0,3,3,
+outputs/p2_all/runs/P2_T11_full_trial,P2,11,1,offline,live_llm,t-8-tr1-translucent,ready,1,TREE,TREE,1,1,1.0,1.0,1.0,0.3333,0,3,3,
+outputs/p2_all/runs/P2_T12_full_trial,P2,12,1,offline,live_llm,t-8-l2-translucent,assumed,1,L,L,1,1,1.0,1.0,1.0,1.0,1,3,3,

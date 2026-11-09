@@ -1,0 +1,1286 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P2",
+  "trial": 3,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P2/3/1",
+      "language": {
+        "text": "Oh, hi. So in the bottom left corner of the grid, you want to put a red block. Now on top of the red block, I want you to take a green block with the short side facing you and put it so that the center of it is on top of the red block. So there's two on this, there's two on the side facing you for the red block and two dots on the side facing away. And then on top of the green block, take a blue block with the long side facing you, not the short side. So you have a and place it on top of the center of the green block so that only four squares are overlapping and there's two dots of the blue on either side of the green block. So you go up and you have kind of a T here and then above the T you have this. You have the blue block in the center of the green block. So red block in the bottom left corner, green block on top of that with the center with the short side facing you and then on top of the green block in the center of the green block you have the blue block with the long side facing you with its center on top of the green block center. Oh, how do I stop recording? There we go.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 9.43,
+            "text": "Oh, hi. So in the bottom left corner of the grid, you want to put a red block. Now on top of the"
+          },
+          {
+            "start": 9.43,
+            "end": 15.75,
+            "text": "red block, I want you to take a green block with the short side facing you and put it so that the"
+          },
+          {
+            "start": 15.75,
+            "end": 21.58,
+            "text": "center of it is on top of the red block. So there's two on this, there's two on the side facing you"
+          },
+          {
+            "start": 21.58,
+            "end": 28.55,
+            "text": "for the red block and two dots on the side facing away. And then on top of the green block, take a"
+          },
+          {
+            "start": 28.55,
+            "end": 37.86,
+            "text": "blue block with the long side facing you, not the short side. So you have a and place it on top of"
+          },
+          {
+            "start": 37.94,
+            "end": 44.54,
+            "text": "the center of the green block so that only four squares are overlapping and there's two"
+          },
+          {
+            "start": 45.98,
+            "end": 52.6,
+            "text": "dots of the blue on either side of the green block. So you go up and you have kind of a T"
+          },
+          {
+            "start": 52.86,
+            "end": 60.18,
+            "text": "here and then above the T you have this. You have the blue block in the center of the green block."
+          },
+          {
+            "start": 60.28,
+            "end": 65.46,
+            "text": "So red block in the bottom left corner, green block on top of that with the center with the"
+          },
+          {
+            "start": 65.54,
+            "end": 69.12,
+            "text": "short side facing you and then on top of the green block in the center of the green block"
+          },
+          {
+            "start": 69.12,
+            "end": 74.76,
+            "text": "you have the blue block with the long side facing you with its center on top of the green block center."
+          },
+          {
+            "start": 76.94,
+            "end": 78.82,
+            "text": "Oh, how do I stop recording? There we go."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 0.26,
+            "word": "Oh,"
+          },
+          {
+            "start": 0.92,
+            "end": 2.06,
+            "word": "hi."
+          },
+          {
+            "start": 2.68,
+            "end": 3.56,
+            "word": "So"
+          },
+          {
+            "start": 3.56,
+            "end": 4.06,
+            "word": "in"
+          },
+          {
+            "start": 4.06,
+            "end": 4.22,
+            "word": "the"
+          },
+          {
+            "start": 4.22,
+            "end": 4.58,
+            "word": "bottom"
+          },
+          {
+            "start": 4.58,
+            "end": 4.92,
+            "word": "left"
+          },
+          {
+            "start": 4.92,
+            "end": 5.34,
+            "word": "corner"
+          },
+          {
+            "start": 5.34,
+            "end": 5.6,
+            "word": "of"
+          },
+          {
+            "start": 5.6,
+            "end": 5.76,
+            "word": "the"
+          },
+          {
+            "start": 5.76,
+            "end": 6.18,
+            "word": "grid,"
+          },
+          {
+            "start": 6.66,
+            "end": 6.84,
+            "word": "you"
+          },
+          {
+            "start": 6.84,
+            "end": 7.06,
+            "word": "want"
+          },
+          {
+            "start": 7.06,
+            "end": 7.18,
+            "word": "to"
+          },
+          {
+            "start": 7.18,
+            "end": 7.38,
+            "word": "put"
+          },
+          {
+            "start": 7.38,
+            "end": 7.58,
+            "word": "a"
+          },
+          {
+            "start": 7.58,
+            "end": 7.86,
+            "word": "red"
+          },
+          {
+            "start": 7.86,
+            "end": 8.22,
+            "word": "block."
+          },
+          {
+            "start": 8.72,
+            "end": 8.76,
+            "word": "Now"
+          },
+          {
+            "start": 8.76,
+            "end": 9.08,
+            "word": "on"
+          },
+          {
+            "start": 9.08,
+            "end": 9.26,
+            "word": "top"
+          },
+          {
+            "start": 9.26,
+            "end": 9.38,
+            "word": "of"
+          },
+          {
+            "start": 9.38,
+            "end": 9.43,
+            "word": "the"
+          },
+          {
+            "start": 9.43,
+            "end": 9.64,
+            "word": "red"
+          },
+          {
+            "start": 9.64,
+            "end": 9.86,
+            "word": "block,"
+          },
+          {
+            "start": 9.98,
+            "end": 10.02,
+            "word": "I"
+          },
+          {
+            "start": 10.02,
+            "end": 10.16,
+            "word": "want"
+          },
+          {
+            "start": 10.16,
+            "end": 10.26,
+            "word": "you"
+          },
+          {
+            "start": 10.26,
+            "end": 10.4,
+            "word": "to"
+          },
+          {
+            "start": 10.4,
+            "end": 10.62,
+            "word": "take"
+          },
+          {
+            "start": 10.62,
+            "end": 10.94,
+            "word": "a"
+          },
+          {
+            "start": 10.94,
+            "end": 11.38,
+            "word": "green"
+          },
+          {
+            "start": 11.38,
+            "end": 11.82,
+            "word": "block"
+          },
+          {
+            "start": 11.82,
+            "end": 12.42,
+            "word": "with"
+          },
+          {
+            "start": 12.42,
+            "end": 12.58,
+            "word": "the"
+          },
+          {
+            "start": 12.58,
+            "end": 12.88,
+            "word": "short"
+          },
+          {
+            "start": 12.88,
+            "end": 13.22,
+            "word": "side"
+          },
+          {
+            "start": 13.22,
+            "end": 13.64,
+            "word": "facing"
+          },
+          {
+            "start": 13.64,
+            "end": 13.98,
+            "word": "you"
+          },
+          {
+            "start": 13.98,
+            "end": 14.64,
+            "word": "and"
+          },
+          {
+            "start": 14.64,
+            "end": 14.98,
+            "word": "put"
+          },
+          {
+            "start": 14.98,
+            "end": 15.18,
+            "word": "it"
+          },
+          {
+            "start": 15.18,
+            "end": 15.46,
+            "word": "so"
+          },
+          {
+            "start": 15.46,
+            "end": 15.62,
+            "word": "that"
+          },
+          {
+            "start": 15.62,
+            "end": 15.75,
+            "word": "the"
+          },
+          {
+            "start": 15.75,
+            "end": 16.22,
+            "word": "center"
+          },
+          {
+            "start": 16.22,
+            "end": 16.46,
+            "word": "of"
+          },
+          {
+            "start": 16.46,
+            "end": 16.6,
+            "word": "it"
+          },
+          {
+            "start": 16.6,
+            "end": 16.78,
+            "word": "is"
+          },
+          {
+            "start": 16.78,
+            "end": 16.94,
+            "word": "on"
+          },
+          {
+            "start": 16.94,
+            "end": 17.12,
+            "word": "top"
+          },
+          {
+            "start": 17.12,
+            "end": 17.26,
+            "word": "of"
+          },
+          {
+            "start": 17.26,
+            "end": 17.38,
+            "word": "the"
+          },
+          {
+            "start": 17.38,
+            "end": 17.56,
+            "word": "red"
+          },
+          {
+            "start": 17.56,
+            "end": 17.78,
+            "word": "block."
+          },
+          {
+            "start": 17.92,
+            "end": 17.94,
+            "word": "So"
+          },
+          {
+            "start": 17.94,
+            "end": 18.2,
+            "word": "there's"
+          },
+          {
+            "start": 18.2,
+            "end": 18.52,
+            "word": "two"
+          },
+          {
+            "start": 18.52,
+            "end": 18.94,
+            "word": "on"
+          },
+          {
+            "start": 18.94,
+            "end": 19.28,
+            "word": "this,"
+          },
+          {
+            "start": 19.66,
+            "end": 19.92,
+            "word": "there's"
+          },
+          {
+            "start": 19.92,
+            "end": 20.08,
+            "word": "two"
+          },
+          {
+            "start": 20.08,
+            "end": 20.28,
+            "word": "on"
+          },
+          {
+            "start": 20.28,
+            "end": 20.88,
+            "word": "the"
+          },
+          {
+            "start": 20.88,
+            "end": 21.12,
+            "word": "side"
+          },
+          {
+            "start": 21.12,
+            "end": 21.46,
+            "word": "facing"
+          },
+          {
+            "start": 21.46,
+            "end": 21.58,
+            "word": "you"
+          },
+          {
+            "start": 21.58,
+            "end": 21.76,
+            "word": "for"
+          },
+          {
+            "start": 21.76,
+            "end": 21.86,
+            "word": "the"
+          },
+          {
+            "start": 21.86,
+            "end": 22.0,
+            "word": "red"
+          },
+          {
+            "start": 22.0,
+            "end": 22.18,
+            "word": "block"
+          },
+          {
+            "start": 22.18,
+            "end": 22.34,
+            "word": "and"
+          },
+          {
+            "start": 22.34,
+            "end": 22.64,
+            "word": "two"
+          },
+          {
+            "start": 22.64,
+            "end": 23.52,
+            "word": "dots"
+          },
+          {
+            "start": 23.52,
+            "end": 24.0,
+            "word": "on"
+          },
+          {
+            "start": 24.0,
+            "end": 24.12,
+            "word": "the"
+          },
+          {
+            "start": 24.12,
+            "end": 24.32,
+            "word": "side"
+          },
+          {
+            "start": 24.32,
+            "end": 24.6,
+            "word": "facing"
+          },
+          {
+            "start": 24.6,
+            "end": 24.88,
+            "word": "away."
+          },
+          {
+            "start": 25.56,
+            "end": 26.5,
+            "word": "And"
+          },
+          {
+            "start": 26.5,
+            "end": 26.76,
+            "word": "then"
+          },
+          {
+            "start": 26.76,
+            "end": 27.04,
+            "word": "on"
+          },
+          {
+            "start": 27.04,
+            "end": 27.34,
+            "word": "top"
+          },
+          {
+            "start": 27.34,
+            "end": 27.52,
+            "word": "of"
+          },
+          {
+            "start": 27.52,
+            "end": 27.64,
+            "word": "the"
+          },
+          {
+            "start": 27.64,
+            "end": 27.88,
+            "word": "green"
+          },
+          {
+            "start": 27.88,
+            "end": 28.18,
+            "word": "block,"
+          },
+          {
+            "start": 28.32,
+            "end": 28.44,
+            "word": "take"
+          },
+          {
+            "start": 28.44,
+            "end": 28.55,
+            "word": "a"
+          },
+          {
+            "start": 28.55,
+            "end": 28.78,
+            "word": "blue"
+          },
+          {
+            "start": 28.78,
+            "end": 29.16,
+            "word": "block"
+          },
+          {
+            "start": 29.16,
+            "end": 29.7,
+            "word": "with"
+          },
+          {
+            "start": 29.7,
+            "end": 29.88,
+            "word": "the"
+          },
+          {
+            "start": 29.88,
+            "end": 30.28,
+            "word": "long"
+          },
+          {
+            "start": 30.28,
+            "end": 30.66,
+            "word": "side"
+          },
+          {
+            "start": 30.66,
+            "end": 31.0,
+            "word": "facing"
+          },
+          {
+            "start": 31.0,
+            "end": 31.28,
+            "word": "you,"
+          },
+          {
+            "start": 31.62,
+            "end": 31.68,
+            "word": "not"
+          },
+          {
+            "start": 31.68,
+            "end": 31.86,
+            "word": "the"
+          },
+          {
+            "start": 31.86,
+            "end": 32.1,
+            "word": "short"
+          },
+          {
+            "start": 32.1,
+            "end": 32.44,
+            "word": "side."
+          },
+          {
+            "start": 33.14,
+            "end": 33.26,
+            "word": "So"
+          },
+          {
+            "start": 33.26,
+            "end": 33.76,
+            "word": "you"
+          },
+          {
+            "start": 33.76,
+            "end": 34.16,
+            "word": "have"
+          },
+          {
+            "start": 34.16,
+            "end": 34.72,
+            "word": "a"
+          },
+          {
+            "start": 34.72,
+            "end": 36.22,
+            "word": "and"
+          },
+          {
+            "start": 36.22,
+            "end": 36.58,
+            "word": "place"
+          },
+          {
+            "start": 36.58,
+            "end": 36.98,
+            "word": "it"
+          },
+          {
+            "start": 36.98,
+            "end": 37.38,
+            "word": "on"
+          },
+          {
+            "start": 37.38,
+            "end": 37.64,
+            "word": "top"
+          },
+          {
+            "start": 37.64,
+            "end": 37.86,
+            "word": "of"
+          },
+          {
+            "start": 37.94,
+            "end": 38.22,
+            "word": "the"
+          },
+          {
+            "start": 38.22,
+            "end": 38.64,
+            "word": "center"
+          },
+          {
+            "start": 38.64,
+            "end": 39.02,
+            "word": "of"
+          },
+          {
+            "start": 39.02,
+            "end": 39.22,
+            "word": "the"
+          },
+          {
+            "start": 39.22,
+            "end": 39.58,
+            "word": "green"
+          },
+          {
+            "start": 39.58,
+            "end": 40.1,
+            "word": "block"
+          },
+          {
+            "start": 40.1,
+            "end": 40.76,
+            "word": "so"
+          },
+          {
+            "start": 40.76,
+            "end": 41.14,
+            "word": "that"
+          },
+          {
+            "start": 41.14,
+            "end": 41.54,
+            "word": "only"
+          },
+          {
+            "start": 41.54,
+            "end": 41.8,
+            "word": "four"
+          },
+          {
+            "start": 41.8,
+            "end": 42.06,
+            "word": "squares"
+          },
+          {
+            "start": 42.06,
+            "end": 42.26,
+            "word": "are"
+          },
+          {
+            "start": 42.26,
+            "end": 42.74,
+            "word": "overlapping"
+          },
+          {
+            "start": 42.74,
+            "end": 43.34,
+            "word": "and"
+          },
+          {
+            "start": 43.34,
+            "end": 44.18,
+            "word": "there's"
+          },
+          {
+            "start": 44.18,
+            "end": 44.54,
+            "word": "two"
+          },
+          {
+            "start": 45.98,
+            "end": 46.44,
+            "word": "dots"
+          },
+          {
+            "start": 46.44,
+            "end": 46.62,
+            "word": "of"
+          },
+          {
+            "start": 46.62,
+            "end": 46.78,
+            "word": "the"
+          },
+          {
+            "start": 46.78,
+            "end": 47.0,
+            "word": "blue"
+          },
+          {
+            "start": 47.0,
+            "end": 47.2,
+            "word": "on"
+          },
+          {
+            "start": 47.2,
+            "end": 47.46,
+            "word": "either"
+          },
+          {
+            "start": 47.46,
+            "end": 47.8,
+            "word": "side"
+          },
+          {
+            "start": 47.8,
+            "end": 48.58,
+            "word": "of"
+          },
+          {
+            "start": 48.58,
+            "end": 48.76,
+            "word": "the"
+          },
+          {
+            "start": 48.76,
+            "end": 49.02,
+            "word": "green"
+          },
+          {
+            "start": 49.02,
+            "end": 49.42,
+            "word": "block."
+          },
+          {
+            "start": 49.74,
+            "end": 50.14,
+            "word": "So"
+          },
+          {
+            "start": 50.14,
+            "end": 50.56,
+            "word": "you"
+          },
+          {
+            "start": 50.56,
+            "end": 50.88,
+            "word": "go"
+          },
+          {
+            "start": 50.88,
+            "end": 51.3,
+            "word": "up"
+          },
+          {
+            "start": 51.3,
+            "end": 51.66,
+            "word": "and"
+          },
+          {
+            "start": 51.66,
+            "end": 51.78,
+            "word": "you"
+          },
+          {
+            "start": 51.78,
+            "end": 51.92,
+            "word": "have"
+          },
+          {
+            "start": 51.92,
+            "end": 52.1,
+            "word": "kind"
+          },
+          {
+            "start": 52.1,
+            "end": 52.24,
+            "word": "of"
+          },
+          {
+            "start": 52.24,
+            "end": 52.4,
+            "word": "a"
+          },
+          {
+            "start": 52.4,
+            "end": 52.6,
+            "word": "T"
+          },
+          {
+            "start": 52.86,
+            "end": 53.18,
+            "word": "here"
+          },
+          {
+            "start": 53.18,
+            "end": 53.9,
+            "word": "and"
+          },
+          {
+            "start": 53.9,
+            "end": 54.14,
+            "word": "then"
+          },
+          {
+            "start": 54.14,
+            "end": 54.56,
+            "word": "above"
+          },
+          {
+            "start": 54.56,
+            "end": 54.82,
+            "word": "the"
+          },
+          {
+            "start": 54.82,
+            "end": 55.04,
+            "word": "T"
+          },
+          {
+            "start": 55.04,
+            "end": 55.2,
+            "word": "you"
+          },
+          {
+            "start": 55.2,
+            "end": 55.46,
+            "word": "have"
+          },
+          {
+            "start": 55.46,
+            "end": 56.14,
+            "word": "this."
+          },
+          {
+            "start": 56.64,
+            "end": 58.14,
+            "word": "You"
+          },
+          {
+            "start": 58.14,
+            "end": 58.32,
+            "word": "have"
+          },
+          {
+            "start": 58.32,
+            "end": 58.48,
+            "word": "the"
+          },
+          {
+            "start": 58.48,
+            "end": 58.64,
+            "word": "blue"
+          },
+          {
+            "start": 58.64,
+            "end": 58.98,
+            "word": "block"
+          },
+          {
+            "start": 58.98,
+            "end": 59.18,
+            "word": "in"
+          },
+          {
+            "start": 59.18,
+            "end": 59.32,
+            "word": "the"
+          },
+          {
+            "start": 59.32,
+            "end": 59.52,
+            "word": "center"
+          },
+          {
+            "start": 59.52,
+            "end": 59.66,
+            "word": "of"
+          },
+          {
+            "start": 59.66,
+            "end": 59.74,
+            "word": "the"
+          },
+          {
+            "start": 59.74,
+            "end": 59.92,
+            "word": "green"
+          },
+          {
+            "start": 59.92,
+            "end": 60.18,
+            "word": "block."
+          },
+          {
+            "start": 60.28,
+            "end": 60.46,
+            "word": "So"
+          },
+          {
+            "start": 60.46,
+            "end": 60.68,
+            "word": "red"
+          },
+          {
+            "start": 60.68,
+            "end": 60.9,
+            "word": "block"
+          },
+          {
+            "start": 60.9,
+            "end": 61.02,
+            "word": "in"
+          },
+          {
+            "start": 61.02,
+            "end": 61.14,
+            "word": "the"
+          },
+          {
+            "start": 61.14,
+            "end": 61.32,
+            "word": "bottom"
+          },
+          {
+            "start": 61.32,
+            "end": 61.5,
+            "word": "left"
+          },
+          {
+            "start": 61.5,
+            "end": 61.86,
+            "word": "corner,"
+          },
+          {
+            "start": 62.44,
+            "end": 62.7,
+            "word": "green"
+          },
+          {
+            "start": 62.7,
+            "end": 62.96,
+            "word": "block"
+          },
+          {
+            "start": 62.96,
+            "end": 63.14,
+            "word": "on"
+          },
+          {
+            "start": 63.14,
+            "end": 63.3,
+            "word": "top"
+          },
+          {
+            "start": 63.3,
+            "end": 63.44,
+            "word": "of"
+          },
+          {
+            "start": 63.44,
+            "end": 63.58,
+            "word": "that"
+          },
+          {
+            "start": 63.58,
+            "end": 63.76,
+            "word": "with"
+          },
+          {
+            "start": 63.76,
+            "end": 63.92,
+            "word": "the"
+          },
+          {
+            "start": 63.92,
+            "end": 64.78,
+            "word": "center"
+          },
+          {
+            "start": 64.78,
+            "end": 65.22,
+            "word": "with"
+          },
+          {
+            "start": 65.22,
+            "end": 65.46,
+            "word": "the"
+          },
+          {
+            "start": 65.54,
+            "end": 65.86,
+            "word": "short"
+          },
+          {
+            "start": 65.86,
+            "end": 66.18,
+            "word": "side"
+          },
+          {
+            "start": 66.18,
+            "end": 66.52,
+            "word": "facing"
+          },
+          {
+            "start": 66.52,
+            "end": 66.78,
+            "word": "you"
+          },
+          {
+            "start": 66.78,
+            "end": 67.26,
+            "word": "and"
+          },
+          {
+            "start": 67.26,
+            "end": 67.38,
+            "word": "then"
+          },
+          {
+            "start": 67.38,
+            "end": 67.54,
+            "word": "on"
+          },
+          {
+            "start": 67.54,
+            "end": 67.7,
+            "word": "top"
+          },
+          {
+            "start": 67.7,
+            "end": 67.82,
+            "word": "of"
+          },
+          {
+            "start": 67.82,
+            "end": 67.92,
+            "word": "the"
+          },
+          {
+            "start": 67.92,
+            "end": 68.08,
+            "word": "green"
+          },
+          {
+            "start": 68.08,
+            "end": 68.26,
+            "word": "block"
+          },
+          {
+            "start": 68.26,
+            "end": 68.38,
+            "word": "in"
+          },
+          {
+            "start": 68.38,
+            "end": 68.5,
+            "word": "the"
+          },
+          {
+            "start": 68.5,
+            "end": 68.66,
+            "word": "center"
+          },
+          {
+            "start": 68.66,
+            "end": 68.78,
+            "word": "of"
+          },
+          {
+            "start": 68.78,
+            "end": 68.86,
+            "word": "the"
+          },
+          {
+            "start": 68.86,
+            "end": 69.0,
+            "word": "green"
+          },
+          {
+            "start": 69.0,
+            "end": 69.12,
+            "word": "block"
+          },
+          {
+            "start": 69.12,
+            "end": 69.3,
+            "word": "you"
+          },
+          {
+            "start": 69.3,
+            "end": 69.38,
+            "word": "have"
+          },
+          {
+            "start": 69.38,
+            "end": 69.5,
+            "word": "the"
+          },
+          {
+            "start": 69.5,
+            "end": 69.68,
+            "word": "blue"
+          },
+          {
+            "start": 69.68,
+            "end": 70.02,
+            "word": "block"
+          },
+          {
+            "start": 70.02,
+            "end": 71.18,
+            "word": "with"
+          },
+          {
+            "start": 71.18,
+            "end": 71.32,
+            "word": "the"
+          },
+          {
+            "start": 71.32,
+            "end": 71.6,
+            "word": "long"
+          },
+          {
+            "start": 71.6,
+            "end": 71.88,
+            "word": "side"
+          },
+          {
+            "start": 71.88,
+            "end": 72.2,
+            "word": "facing"
+          },
+          {
+            "start": 72.2,
+            "end": 72.4,
+            "word": "you"
+          },
+          {
+            "start": 72.4,
+            "end": 72.66,
+            "word": "with"
+          },
+          {
+            "start": 72.66,
+            "end": 72.84,
+            "word": "its"
+          },
+          {
+            "start": 72.84,
+            "end": 73.14,
+            "word": "center"
+          },
+          {
+            "start": 73.14,
+            "end": 73.4,
+            "word": "on"
+          },
+          {
+            "start": 73.4,
+            "end": 73.6,
+            "word": "top"
+          },
+          {
+            "start": 73.6,
+            "end": 73.74,
+            "word": "of"
+          },
+          {
+            "start": 73.74,
+            "end": 73.88,
+            "word": "the"
+          },
+          {
+            "start": 73.88,
+            "end": 74.12,
+            "word": "green"
+          },
+          {
+            "start": 74.12,
+            "end": 74.4,
+            "word": "block"
+          },
+          {
+            "start": 74.4,
+            "end": 74.76,
+            "word": "center."
+          },
+          {
+            "start": 76.94,
+            "end": 77.18,
+            "word": "Oh,"
+          },
+          {
+            "start": 77.38,
+            "end": 77.48,
+            "word": "how"
+          },
+          {
+            "start": 77.48,
+            "end": 77.56,
+            "word": "do"
+          },
+          {
+            "start": 77.56,
+            "end": 77.66,
+            "word": "I"
+          },
+          {
+            "start": 77.66,
+            "end": 77.82,
+            "word": "stop"
+          },
+          {
+            "start": 77.82,
+            "end": 78.16,
+            "word": "recording?"
+          },
+          {
+            "start": 78.38,
+            "end": 78.56,
+            "word": "There"
+          },
+          {
+            "start": 78.56,
+            "end": 78.66,
+            "word": "we"
+          },
+          {
+            "start": 78.66,
+            "end": 78.82,
+            "word": "go."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-tr3-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-tr3-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Oh, hi. So in the bottom left corner of the grid, you want to put a red block. Now on top of the red block, I want you to take a green block with the short side facing you and put it so that the center of it is on top of the red block. So there's two on this, there's two on the side facing you for the red block and two dots on the side facing away. And then on top of the green block, take a blue block with the long side facing you, not the short side. So you have a and place it on top of the center of the green block so that only four squares are overlapping and there's two dots of the blue on either side of the green block. So you go up and you have kind of a T here and then above the T you have this. You have the blue block in the center of the green block. So red block in the bottom left corner, green block on top of that with the center with the short side facing you and then on top of the green block in the center of the green block you have the blue block with the long side facing you with its center on top of the green block center. Oh, how do I stop recording? There we go."
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": null,
+  "status": "assumed",
+  "assumptions": [
+    "The blue block's 'long side facing you' refers to its default axis=x orientation, where its 4-unit dimension is parallel to the x-axis.",
+    "The phrase 'on the right side of the blue block' implies placing the red block on top of the right half of the blue block.",
+    "Stacked blocks are vertically aligned and centered on their supporting block."
+  ],
+  "blocks": [
+    {
+      "color": "blue",
+      "axis": "x",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 1.0,
+      "z": 0.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 5.0,
+      "z": 0.0
+    }
+  ]
+}

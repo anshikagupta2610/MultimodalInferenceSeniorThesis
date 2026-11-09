@@ -1,0 +1,45 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: All right, so I'm looking at that C shape we made earlier with the green, red, green, but this time placed on the right-hand side of the grid, right? So there's nothing on the left, and then it goes green rectangle piece, red, tall red, and then another green on top, this time with, right, so it just makes a C, right? So it's, yeah, the red piece is all the way at the back, so it's not, like, in the center or anything. So, again, yeah, it's the C shape, but just facing you on the right of the grid.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "aEDxauSEFN7Rl7oP2NXF8AM",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "C",
+    "blocks": [
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 2.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 2.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "C shape we made earlier with the green, red, green",
+      "placed on the right-hand side of the grid",
+      "nothing on the left",
+      "green rectangle piece, red, tall red, and then another green on top",
+      "the red piece is all the way at the back",
+      "just facing you on the right of the grid"
+    ]
+  },
+  "validation_error": null
+}

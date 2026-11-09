@@ -1,0 +1,838 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P1",
+  "trial": 5,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P1/5/1",
+      "language": {
+        "text": "Alright, I am looking at an empty grid, so if there are Legos on the grid, or Lego on the grid, please remove them, and yeah, then you can send it.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 8.16,
+            "text": "Alright, I am looking at an empty grid, so if there are Legos on the grid, or Lego on"
+          },
+          {
+            "start": 8.16,
+            "end": 14.06,
+            "text": "the grid, please remove them, and yeah, then you can send it."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.34,
+            "word": "Alright,"
+          },
+          {
+            "start": 1.56,
+            "end": 2.04,
+            "word": "I"
+          },
+          {
+            "start": 2.04,
+            "end": 2.24,
+            "word": "am"
+          },
+          {
+            "start": 2.24,
+            "end": 2.54,
+            "word": "looking"
+          },
+          {
+            "start": 2.54,
+            "end": 3.0,
+            "word": "at"
+          },
+          {
+            "start": 3.0,
+            "end": 3.4,
+            "word": "an"
+          },
+          {
+            "start": 3.4,
+            "end": 3.8,
+            "word": "empty"
+          },
+          {
+            "start": 3.8,
+            "end": 4.14,
+            "word": "grid,"
+          },
+          {
+            "start": 4.5,
+            "end": 4.8,
+            "word": "so"
+          },
+          {
+            "start": 4.8,
+            "end": 5.86,
+            "word": "if"
+          },
+          {
+            "start": 5.86,
+            "end": 6.04,
+            "word": "there"
+          },
+          {
+            "start": 6.04,
+            "end": 6.2,
+            "word": "are"
+          },
+          {
+            "start": 6.2,
+            "end": 6.52,
+            "word": "Legos"
+          },
+          {
+            "start": 6.52,
+            "end": 6.7,
+            "word": "on"
+          },
+          {
+            "start": 6.7,
+            "end": 6.84,
+            "word": "the"
+          },
+          {
+            "start": 6.84,
+            "end": 7.06,
+            "word": "grid,"
+          },
+          {
+            "start": 7.24,
+            "end": 7.44,
+            "word": "or"
+          },
+          {
+            "start": 7.44,
+            "end": 7.78,
+            "word": "Lego"
+          },
+          {
+            "start": 7.78,
+            "end": 8.16,
+            "word": "on"
+          },
+          {
+            "start": 8.16,
+            "end": 8.28,
+            "word": "the"
+          },
+          {
+            "start": 8.28,
+            "end": 8.52,
+            "word": "grid,"
+          },
+          {
+            "start": 8.74,
+            "end": 9.0,
+            "word": "please"
+          },
+          {
+            "start": 9.0,
+            "end": 9.32,
+            "word": "remove"
+          },
+          {
+            "start": 9.32,
+            "end": 9.6,
+            "word": "them,"
+          },
+          {
+            "start": 10.1,
+            "end": 10.32,
+            "word": "and"
+          },
+          {
+            "start": 10.32,
+            "end": 12.06,
+            "word": "yeah,"
+          },
+          {
+            "start": 12.3,
+            "end": 12.52,
+            "word": "then"
+          },
+          {
+            "start": 12.52,
+            "end": 13.46,
+            "word": "you"
+          },
+          {
+            "start": 13.46,
+            "end": 13.62,
+            "word": "can"
+          },
+          {
+            "start": 13.62,
+            "end": 13.82,
+            "word": "send"
+          },
+          {
+            "start": 13.82,
+            "end": 14.06,
+            "word": "it."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    },
+    {
+      "step_num": 2,
+      "relative_directory": "P1/5/2",
+      "language": {
+        "text": "Okay, apologies, I have instructions now. So what I am looking at right now is in the bottom two squares of the 2x2 grid, you're going to place a blue rectangular piece, so right with the long sides facing you, right? So it's going to be a blue rectangular piece. And then on the left, I guess in the bottom left quadrant, you're then going to place two tall red pieces stacked on top of each other, right? So again, with a nice little L shape, so blue, and then red, red. And then that's on the two squares of the grid closest to you. So that's everything. Sorry about the last one.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 4.2,
+            "text": "Okay, apologies, I have instructions now."
+          },
+          {
+            "start": 5.38,
+            "end": 12.74,
+            "text": "So what I am looking at right now is in the bottom two squares of the 2x2 grid, you're"
+          },
+          {
+            "start": 12.74,
+            "end": 21.8,
+            "text": "going to place a blue rectangular piece, so right with the long sides facing you, right?"
+          },
+          {
+            "start": 21.8,
+            "end": 23.46,
+            "text": "So it's going to be a blue rectangular piece."
+          },
+          {
+            "start": 23.66,
+            "end": 29.78,
+            "text": "And then on the left, I guess in the bottom left quadrant, you're then going to place"
+          },
+          {
+            "start": 31.04,
+            "end": 34.16,
+            "text": "two tall red pieces stacked on top of each other, right?"
+          },
+          {
+            "start": 34.16,
+            "end": 39.36,
+            "text": "So again, with a nice little L shape, so blue, and then red, red."
+          },
+          {
+            "start": 40.14,
+            "end": 43.68,
+            "text": "And then that's on the two squares of the grid closest to you."
+          },
+          {
+            "start": 44.34,
+            "end": 45.86,
+            "text": "So that's everything."
+          },
+          {
+            "start": 46.3,
+            "end": 47.52,
+            "text": "Sorry about the last one."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 0.9,
+            "word": "Okay,"
+          },
+          {
+            "start": 1.1,
+            "end": 1.62,
+            "word": "apologies,"
+          },
+          {
+            "start": 1.98,
+            "end": 2.02,
+            "word": "I"
+          },
+          {
+            "start": 2.02,
+            "end": 2.42,
+            "word": "have"
+          },
+          {
+            "start": 2.42,
+            "end": 3.68,
+            "word": "instructions"
+          },
+          {
+            "start": 3.68,
+            "end": 4.2,
+            "word": "now."
+          },
+          {
+            "start": 5.38,
+            "end": 5.98,
+            "word": "So"
+          },
+          {
+            "start": 5.98,
+            "end": 6.36,
+            "word": "what"
+          },
+          {
+            "start": 6.36,
+            "end": 6.64,
+            "word": "I"
+          },
+          {
+            "start": 6.64,
+            "end": 6.78,
+            "word": "am"
+          },
+          {
+            "start": 6.78,
+            "end": 7.04,
+            "word": "looking"
+          },
+          {
+            "start": 7.04,
+            "end": 7.28,
+            "word": "at"
+          },
+          {
+            "start": 7.28,
+            "end": 7.48,
+            "word": "right"
+          },
+          {
+            "start": 7.48,
+            "end": 7.72,
+            "word": "now"
+          },
+          {
+            "start": 7.72,
+            "end": 8.26,
+            "word": "is"
+          },
+          {
+            "start": 8.26,
+            "end": 8.66,
+            "word": "in"
+          },
+          {
+            "start": 8.66,
+            "end": 8.84,
+            "word": "the"
+          },
+          {
+            "start": 8.84,
+            "end": 9.44,
+            "word": "bottom"
+          },
+          {
+            "start": 9.44,
+            "end": 10.08,
+            "word": "two"
+          },
+          {
+            "start": 10.08,
+            "end": 10.72,
+            "word": "squares"
+          },
+          {
+            "start": 10.72,
+            "end": 11.58,
+            "word": "of"
+          },
+          {
+            "start": 11.58,
+            "end": 11.78,
+            "word": "the"
+          },
+          {
+            "start": 11.78,
+            "end": 12.32,
+            "word": "2x2"
+          },
+          {
+            "start": 12.32,
+            "end": 12.54,
+            "word": "grid,"
+          },
+          {
+            "start": 12.62,
+            "end": 12.74,
+            "word": "you're"
+          },
+          {
+            "start": 12.74,
+            "end": 12.82,
+            "word": "going"
+          },
+          {
+            "start": 12.82,
+            "end": 12.92,
+            "word": "to"
+          },
+          {
+            "start": 12.92,
+            "end": 13.26,
+            "word": "place"
+          },
+          {
+            "start": 13.26,
+            "end": 14.04,
+            "word": "a"
+          },
+          {
+            "start": 14.04,
+            "end": 15.9,
+            "word": "blue"
+          },
+          {
+            "start": 15.9,
+            "end": 16.5,
+            "word": "rectangular"
+          },
+          {
+            "start": 16.5,
+            "end": 16.92,
+            "word": "piece,"
+          },
+          {
+            "start": 17.1,
+            "end": 17.24,
+            "word": "so"
+          },
+          {
+            "start": 17.24,
+            "end": 17.82,
+            "word": "right"
+          },
+          {
+            "start": 17.82,
+            "end": 17.96,
+            "word": "with"
+          },
+          {
+            "start": 17.96,
+            "end": 18.1,
+            "word": "the"
+          },
+          {
+            "start": 18.1,
+            "end": 20.54,
+            "word": "long"
+          },
+          {
+            "start": 20.54,
+            "end": 20.9,
+            "word": "sides"
+          },
+          {
+            "start": 20.9,
+            "end": 21.34,
+            "word": "facing"
+          },
+          {
+            "start": 21.34,
+            "end": 21.6,
+            "word": "you,"
+          },
+          {
+            "start": 21.7,
+            "end": 21.8,
+            "word": "right?"
+          },
+          {
+            "start": 21.8,
+            "end": 21.98,
+            "word": "So"
+          },
+          {
+            "start": 21.98,
+            "end": 22.16,
+            "word": "it's"
+          },
+          {
+            "start": 22.16,
+            "end": 22.24,
+            "word": "going"
+          },
+          {
+            "start": 22.24,
+            "end": 22.3,
+            "word": "to"
+          },
+          {
+            "start": 22.3,
+            "end": 22.46,
+            "word": "be"
+          },
+          {
+            "start": 22.46,
+            "end": 22.72,
+            "word": "a"
+          },
+          {
+            "start": 22.72,
+            "end": 22.78,
+            "word": "blue"
+          },
+          {
+            "start": 22.78,
+            "end": 23.1,
+            "word": "rectangular"
+          },
+          {
+            "start": 23.1,
+            "end": 23.46,
+            "word": "piece."
+          },
+          {
+            "start": 23.66,
+            "end": 24.16,
+            "word": "And"
+          },
+          {
+            "start": 24.16,
+            "end": 24.44,
+            "word": "then"
+          },
+          {
+            "start": 24.44,
+            "end": 25.08,
+            "word": "on"
+          },
+          {
+            "start": 25.08,
+            "end": 25.5,
+            "word": "the"
+          },
+          {
+            "start": 25.5,
+            "end": 26.06,
+            "word": "left,"
+          },
+          {
+            "start": 26.68,
+            "end": 26.82,
+            "word": "I"
+          },
+          {
+            "start": 26.82,
+            "end": 27.12,
+            "word": "guess"
+          },
+          {
+            "start": 27.12,
+            "end": 27.28,
+            "word": "in"
+          },
+          {
+            "start": 27.28,
+            "end": 27.42,
+            "word": "the"
+          },
+          {
+            "start": 27.42,
+            "end": 27.82,
+            "word": "bottom"
+          },
+          {
+            "start": 27.82,
+            "end": 28.22,
+            "word": "left"
+          },
+          {
+            "start": 28.22,
+            "end": 28.72,
+            "word": "quadrant,"
+          },
+          {
+            "start": 28.9,
+            "end": 29.04,
+            "word": "you're"
+          },
+          {
+            "start": 29.04,
+            "end": 29.16,
+            "word": "then"
+          },
+          {
+            "start": 29.16,
+            "end": 29.28,
+            "word": "going"
+          },
+          {
+            "start": 29.28,
+            "end": 29.38,
+            "word": "to"
+          },
+          {
+            "start": 29.38,
+            "end": 29.78,
+            "word": "place"
+          },
+          {
+            "start": 31.04,
+            "end": 31.44,
+            "word": "two"
+          },
+          {
+            "start": 31.44,
+            "end": 31.98,
+            "word": "tall"
+          },
+          {
+            "start": 31.98,
+            "end": 32.2,
+            "word": "red"
+          },
+          {
+            "start": 32.2,
+            "end": 32.56,
+            "word": "pieces"
+          },
+          {
+            "start": 32.56,
+            "end": 33.0,
+            "word": "stacked"
+          },
+          {
+            "start": 33.0,
+            "end": 33.18,
+            "word": "on"
+          },
+          {
+            "start": 33.18,
+            "end": 33.46,
+            "word": "top"
+          },
+          {
+            "start": 33.46,
+            "end": 33.6,
+            "word": "of"
+          },
+          {
+            "start": 33.6,
+            "end": 33.76,
+            "word": "each"
+          },
+          {
+            "start": 33.76,
+            "end": 33.98,
+            "word": "other,"
+          },
+          {
+            "start": 34.08,
+            "end": 34.16,
+            "word": "right?"
+          },
+          {
+            "start": 34.16,
+            "end": 34.34,
+            "word": "So"
+          },
+          {
+            "start": 34.34,
+            "end": 34.56,
+            "word": "again,"
+          },
+          {
+            "start": 34.76,
+            "end": 34.8,
+            "word": "with"
+          },
+          {
+            "start": 34.8,
+            "end": 35.08,
+            "word": "a"
+          },
+          {
+            "start": 35.08,
+            "end": 35.26,
+            "word": "nice"
+          },
+          {
+            "start": 35.26,
+            "end": 35.46,
+            "word": "little"
+          },
+          {
+            "start": 35.46,
+            "end": 35.68,
+            "word": "L"
+          },
+          {
+            "start": 35.68,
+            "end": 36.0,
+            "word": "shape,"
+          },
+          {
+            "start": 36.3,
+            "end": 36.34,
+            "word": "so"
+          },
+          {
+            "start": 36.34,
+            "end": 37.56,
+            "word": "blue,"
+          },
+          {
+            "start": 37.88,
+            "end": 38.22,
+            "word": "and"
+          },
+          {
+            "start": 38.22,
+            "end": 38.38,
+            "word": "then"
+          },
+          {
+            "start": 38.38,
+            "end": 38.74,
+            "word": "red,"
+          },
+          {
+            "start": 39.02,
+            "end": 39.36,
+            "word": "red."
+          },
+          {
+            "start": 40.14,
+            "end": 40.6,
+            "word": "And"
+          },
+          {
+            "start": 40.6,
+            "end": 40.78,
+            "word": "then"
+          },
+          {
+            "start": 40.78,
+            "end": 41.1,
+            "word": "that's"
+          },
+          {
+            "start": 41.1,
+            "end": 41.42,
+            "word": "on"
+          },
+          {
+            "start": 41.42,
+            "end": 41.76,
+            "word": "the"
+          },
+          {
+            "start": 41.76,
+            "end": 42.2,
+            "word": "two"
+          },
+          {
+            "start": 42.2,
+            "end": 42.46,
+            "word": "squares"
+          },
+          {
+            "start": 42.46,
+            "end": 42.58,
+            "word": "of"
+          },
+          {
+            "start": 42.58,
+            "end": 42.66,
+            "word": "the"
+          },
+          {
+            "start": 42.66,
+            "end": 42.82,
+            "word": "grid"
+          },
+          {
+            "start": 42.82,
+            "end": 43.28,
+            "word": "closest"
+          },
+          {
+            "start": 43.28,
+            "end": 43.5,
+            "word": "to"
+          },
+          {
+            "start": 43.5,
+            "end": 43.68,
+            "word": "you."
+          },
+          {
+            "start": 44.34,
+            "end": 44.92,
+            "word": "So"
+          },
+          {
+            "start": 44.92,
+            "end": 45.54,
+            "word": "that's"
+          },
+          {
+            "start": 45.54,
+            "end": 45.86,
+            "word": "everything."
+          },
+          {
+            "start": 46.3,
+            "end": 46.78,
+            "word": "Sorry"
+          },
+          {
+            "start": 46.78,
+            "end": 46.96,
+            "word": "about"
+          },
+          {
+            "start": 46.96,
+            "end": 47.1,
+            "word": "the"
+          },
+          {
+            "start": 47.1,
+            "end": 47.32,
+            "word": "last"
+          },
+          {
+            "start": 47.32,
+            "end": 47.52,
+            "word": "one."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-l4-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "1"
+      },
+      {
+        "step": 2,
+        "file": "metadata.json",
+        "tower_id": "t-8-l4-translucent"
+      }
+    ],
+    "warnings": [
+      "Step 1 metadata.json: tower_id differs from canonical list."
+    ]
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Alright, I am looking at an empty grid, so if there are Legos on the grid, or Lego on the grid, please remove them, and yeah, then you can send it.\n\nMessage 2: Okay, apologies, I have instructions now. So what I am looking at right now is in the bottom two squares of the 2x2 grid, you're going to place a blue rectangular piece, so right with the long sides facing you, right? So it's going to be a blue rectangular piece. And then on the left, I guess in the bottom left quadrant, you're then going to place two tall red pieces stacked on top of each other, right? So again, with a nice little L shape, so blue, and then red, red. And then that's on the two squares of the grid closest to you. So that's everything. Sorry about the last one."
+}

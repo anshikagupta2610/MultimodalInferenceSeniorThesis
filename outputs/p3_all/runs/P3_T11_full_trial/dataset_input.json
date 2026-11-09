@@ -1,0 +1,276 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P3",
+  "trial": 11,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P3/11/1",
+      "language": {
+        "text": "Similar to before, there's a green brick in the top right and the bottom right, and then a red brick in the top right, and then a green brick in the top right and the bottom right. So there's an overhang on the bottom right.",
+        "sentences": [
+          {
+            "start": 0.66,
+            "end": 7.67,
+            "text": "Similar to before, there's a green brick in the top right and the bottom right, and then"
+          },
+          {
+            "start": 7.67,
+            "end": 13.12,
+            "text": "a red brick in the top right, and then a green brick in the top right and the bottom right."
+          },
+          {
+            "start": 13.76,
+            "end": 15.96,
+            "text": "So there's an overhang on the bottom right."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.66,
+            "end": 1.46,
+            "word": "Similar"
+          },
+          {
+            "start": 1.46,
+            "end": 1.68,
+            "word": "to"
+          },
+          {
+            "start": 1.68,
+            "end": 2.08,
+            "word": "before,"
+          },
+          {
+            "start": 3.34,
+            "end": 3.9,
+            "word": "there's"
+          },
+          {
+            "start": 3.9,
+            "end": 4.12,
+            "word": "a"
+          },
+          {
+            "start": 4.12,
+            "end": 4.64,
+            "word": "green"
+          },
+          {
+            "start": 4.64,
+            "end": 5.04,
+            "word": "brick"
+          },
+          {
+            "start": 5.04,
+            "end": 5.18,
+            "word": "in"
+          },
+          {
+            "start": 5.18,
+            "end": 5.3,
+            "word": "the"
+          },
+          {
+            "start": 5.3,
+            "end": 5.58,
+            "word": "top"
+          },
+          {
+            "start": 5.58,
+            "end": 5.88,
+            "word": "right"
+          },
+          {
+            "start": 5.88,
+            "end": 6.14,
+            "word": "and"
+          },
+          {
+            "start": 6.14,
+            "end": 6.28,
+            "word": "the"
+          },
+          {
+            "start": 6.28,
+            "end": 6.58,
+            "word": "bottom"
+          },
+          {
+            "start": 6.58,
+            "end": 6.9,
+            "word": "right,"
+          },
+          {
+            "start": 7.14,
+            "end": 7.64,
+            "word": "and"
+          },
+          {
+            "start": 7.64,
+            "end": 7.67,
+            "word": "then"
+          },
+          {
+            "start": 7.67,
+            "end": 7.9,
+            "word": "a"
+          },
+          {
+            "start": 7.9,
+            "end": 8.08,
+            "word": "red"
+          },
+          {
+            "start": 8.08,
+            "end": 8.36,
+            "word": "brick"
+          },
+          {
+            "start": 8.36,
+            "end": 8.5,
+            "word": "in"
+          },
+          {
+            "start": 8.5,
+            "end": 8.64,
+            "word": "the"
+          },
+          {
+            "start": 8.64,
+            "end": 8.9,
+            "word": "top"
+          },
+          {
+            "start": 8.9,
+            "end": 9.26,
+            "word": "right,"
+          },
+          {
+            "start": 9.72,
+            "end": 9.96,
+            "word": "and"
+          },
+          {
+            "start": 9.96,
+            "end": 10.18,
+            "word": "then"
+          },
+          {
+            "start": 10.18,
+            "end": 10.36,
+            "word": "a"
+          },
+          {
+            "start": 10.36,
+            "end": 10.62,
+            "word": "green"
+          },
+          {
+            "start": 10.62,
+            "end": 10.94,
+            "word": "brick"
+          },
+          {
+            "start": 10.94,
+            "end": 11.16,
+            "word": "in"
+          },
+          {
+            "start": 11.16,
+            "end": 11.3,
+            "word": "the"
+          },
+          {
+            "start": 11.3,
+            "end": 11.64,
+            "word": "top"
+          },
+          {
+            "start": 11.64,
+            "end": 12.18,
+            "word": "right"
+          },
+          {
+            "start": 12.18,
+            "end": 12.38,
+            "word": "and"
+          },
+          {
+            "start": 12.38,
+            "end": 12.52,
+            "word": "the"
+          },
+          {
+            "start": 12.52,
+            "end": 12.78,
+            "word": "bottom"
+          },
+          {
+            "start": 12.78,
+            "end": 13.12,
+            "word": "right."
+          },
+          {
+            "start": 13.76,
+            "end": 13.98,
+            "word": "So"
+          },
+          {
+            "start": 13.98,
+            "end": 14.16,
+            "word": "there's"
+          },
+          {
+            "start": 14.16,
+            "end": 14.3,
+            "word": "an"
+          },
+          {
+            "start": 14.3,
+            "end": 14.78,
+            "word": "overhang"
+          },
+          {
+            "start": 14.78,
+            "end": 14.94,
+            "word": "on"
+          },
+          {
+            "start": 14.94,
+            "end": 15.08,
+            "word": "the"
+          },
+          {
+            "start": 15.08,
+            "end": 15.42,
+            "word": "bottom"
+          },
+          {
+            "start": 15.42,
+            "end": 15.96,
+            "word": "right."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-c2-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-c2-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Similar to before, there's a green brick in the top right and the bottom right, and then a red brick in the top right, and then a green brick in the top right and the bottom right. So there's an overhang on the bottom right."
+}

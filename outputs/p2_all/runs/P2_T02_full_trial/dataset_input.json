@@ -1,0 +1,636 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P2",
+  "trial": 2,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P2/2/1",
+      "language": {
+        "text": "Is it recording? Yeah, okay. So you want to take a green block and place it here with the short side facing you. So you're placing it on the right hand side of the grid with the short end facing you. And then you take a red block and you place it on top of the green block in the bottom right grid. So on top of it here. And then on top of that red block you place another green block with the short side facing you in the same orientation at the bottom. So you kind of have like an E shape like this on the right hand side of your grid.",
+        "sentences": [
+          {
+            "start": 0.58,
+            "end": 9.32,
+            "text": "Is it recording? Yeah, okay. So you want to take a green block and place it here with"
+          },
+          {
+            "start": 9.32,
+            "end": 14.5,
+            "text": "the short side facing you. So you're placing it on the right hand side of the grid with"
+          },
+          {
+            "start": 14.5,
+            "end": 20.18,
+            "text": "the short end facing you. And then you take a red block and you place it on top of the"
+          },
+          {
+            "start": 20.18,
+            "end": 27.3,
+            "text": "green block in the bottom right grid. So on top of it here. And then on top of that red"
+          },
+          {
+            "start": 27.34,
+            "end": 33.18,
+            "text": "block you place another green block with the short side facing you in the same orientation"
+          },
+          {
+            "start": 33.24,
+            "end": 40.94,
+            "text": "at the bottom. So you kind of have like an E shape like this on the right hand side of your grid."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.58,
+            "end": 2.3,
+            "word": "Is"
+          },
+          {
+            "start": 2.3,
+            "end": 2.44,
+            "word": "it"
+          },
+          {
+            "start": 2.44,
+            "end": 2.78,
+            "word": "recording?"
+          },
+          {
+            "start": 3.42,
+            "end": 3.92,
+            "word": "Yeah,"
+          },
+          {
+            "start": 4.1,
+            "end": 4.3,
+            "word": "okay."
+          },
+          {
+            "start": 4.82,
+            "end": 5.24,
+            "word": "So"
+          },
+          {
+            "start": 5.24,
+            "end": 5.7,
+            "word": "you"
+          },
+          {
+            "start": 5.7,
+            "end": 5.92,
+            "word": "want"
+          },
+          {
+            "start": 5.92,
+            "end": 6.04,
+            "word": "to"
+          },
+          {
+            "start": 6.04,
+            "end": 6.32,
+            "word": "take"
+          },
+          {
+            "start": 6.32,
+            "end": 6.5,
+            "word": "a"
+          },
+          {
+            "start": 6.5,
+            "end": 6.82,
+            "word": "green"
+          },
+          {
+            "start": 6.82,
+            "end": 7.24,
+            "word": "block"
+          },
+          {
+            "start": 7.24,
+            "end": 7.7,
+            "word": "and"
+          },
+          {
+            "start": 7.7,
+            "end": 8.14,
+            "word": "place"
+          },
+          {
+            "start": 8.14,
+            "end": 8.4,
+            "word": "it"
+          },
+          {
+            "start": 8.4,
+            "end": 8.9,
+            "word": "here"
+          },
+          {
+            "start": 8.9,
+            "end": 9.32,
+            "word": "with"
+          },
+          {
+            "start": 9.32,
+            "end": 9.54,
+            "word": "the"
+          },
+          {
+            "start": 9.54,
+            "end": 9.8,
+            "word": "short"
+          },
+          {
+            "start": 9.8,
+            "end": 10.12,
+            "word": "side"
+          },
+          {
+            "start": 10.12,
+            "end": 10.52,
+            "word": "facing"
+          },
+          {
+            "start": 10.52,
+            "end": 10.82,
+            "word": "you."
+          },
+          {
+            "start": 11.26,
+            "end": 11.42,
+            "word": "So"
+          },
+          {
+            "start": 11.42,
+            "end": 11.58,
+            "word": "you're"
+          },
+          {
+            "start": 11.58,
+            "end": 11.86,
+            "word": "placing"
+          },
+          {
+            "start": 11.86,
+            "end": 12.02,
+            "word": "it"
+          },
+          {
+            "start": 12.02,
+            "end": 12.14,
+            "word": "on"
+          },
+          {
+            "start": 12.14,
+            "end": 12.26,
+            "word": "the"
+          },
+          {
+            "start": 12.26,
+            "end": 12.44,
+            "word": "right"
+          },
+          {
+            "start": 12.44,
+            "end": 12.62,
+            "word": "hand"
+          },
+          {
+            "start": 12.62,
+            "end": 12.98,
+            "word": "side"
+          },
+          {
+            "start": 12.98,
+            "end": 13.66,
+            "word": "of"
+          },
+          {
+            "start": 13.66,
+            "end": 13.84,
+            "word": "the"
+          },
+          {
+            "start": 13.84,
+            "end": 14.14,
+            "word": "grid"
+          },
+          {
+            "start": 14.14,
+            "end": 14.5,
+            "word": "with"
+          },
+          {
+            "start": 14.5,
+            "end": 14.74,
+            "word": "the"
+          },
+          {
+            "start": 14.74,
+            "end": 15.08,
+            "word": "short"
+          },
+          {
+            "start": 15.08,
+            "end": 15.36,
+            "word": "end"
+          },
+          {
+            "start": 15.36,
+            "end": 15.74,
+            "word": "facing"
+          },
+          {
+            "start": 15.74,
+            "end": 16.06,
+            "word": "you."
+          },
+          {
+            "start": 16.8,
+            "end": 16.94,
+            "word": "And"
+          },
+          {
+            "start": 16.94,
+            "end": 17.22,
+            "word": "then"
+          },
+          {
+            "start": 17.22,
+            "end": 17.38,
+            "word": "you"
+          },
+          {
+            "start": 17.38,
+            "end": 17.64,
+            "word": "take"
+          },
+          {
+            "start": 17.64,
+            "end": 17.82,
+            "word": "a"
+          },
+          {
+            "start": 17.82,
+            "end": 18.1,
+            "word": "red"
+          },
+          {
+            "start": 18.1,
+            "end": 18.44,
+            "word": "block"
+          },
+          {
+            "start": 18.44,
+            "end": 18.64,
+            "word": "and"
+          },
+          {
+            "start": 18.64,
+            "end": 18.78,
+            "word": "you"
+          },
+          {
+            "start": 18.78,
+            "end": 19.16,
+            "word": "place"
+          },
+          {
+            "start": 19.16,
+            "end": 19.38,
+            "word": "it"
+          },
+          {
+            "start": 19.38,
+            "end": 19.58,
+            "word": "on"
+          },
+          {
+            "start": 19.58,
+            "end": 19.9,
+            "word": "top"
+          },
+          {
+            "start": 19.9,
+            "end": 20.06,
+            "word": "of"
+          },
+          {
+            "start": 20.06,
+            "end": 20.18,
+            "word": "the"
+          },
+          {
+            "start": 20.18,
+            "end": 20.48,
+            "word": "green"
+          },
+          {
+            "start": 20.48,
+            "end": 20.9,
+            "word": "block"
+          },
+          {
+            "start": 20.9,
+            "end": 21.5,
+            "word": "in"
+          },
+          {
+            "start": 21.5,
+            "end": 21.66,
+            "word": "the"
+          },
+          {
+            "start": 21.66,
+            "end": 22.16,
+            "word": "bottom"
+          },
+          {
+            "start": 22.16,
+            "end": 22.78,
+            "word": "right"
+          },
+          {
+            "start": 22.78,
+            "end": 23.3,
+            "word": "grid."
+          },
+          {
+            "start": 23.72,
+            "end": 23.82,
+            "word": "So"
+          },
+          {
+            "start": 23.82,
+            "end": 24.04,
+            "word": "on"
+          },
+          {
+            "start": 24.04,
+            "end": 24.24,
+            "word": "top"
+          },
+          {
+            "start": 24.24,
+            "end": 24.4,
+            "word": "of"
+          },
+          {
+            "start": 24.4,
+            "end": 24.54,
+            "word": "it"
+          },
+          {
+            "start": 24.54,
+            "end": 24.84,
+            "word": "here."
+          },
+          {
+            "start": 25.12,
+            "end": 25.56,
+            "word": "And"
+          },
+          {
+            "start": 25.56,
+            "end": 25.86,
+            "word": "then"
+          },
+          {
+            "start": 25.86,
+            "end": 26.18,
+            "word": "on"
+          },
+          {
+            "start": 26.18,
+            "end": 26.52,
+            "word": "top"
+          },
+          {
+            "start": 26.52,
+            "end": 26.7,
+            "word": "of"
+          },
+          {
+            "start": 26.7,
+            "end": 26.98,
+            "word": "that"
+          },
+          {
+            "start": 26.98,
+            "end": 27.3,
+            "word": "red"
+          },
+          {
+            "start": 27.34,
+            "end": 27.74,
+            "word": "block"
+          },
+          {
+            "start": 27.74,
+            "end": 27.92,
+            "word": "you"
+          },
+          {
+            "start": 27.92,
+            "end": 28.26,
+            "word": "place"
+          },
+          {
+            "start": 28.26,
+            "end": 28.82,
+            "word": "another"
+          },
+          {
+            "start": 28.82,
+            "end": 29.52,
+            "word": "green"
+          },
+          {
+            "start": 29.52,
+            "end": 29.96,
+            "word": "block"
+          },
+          {
+            "start": 29.96,
+            "end": 30.16,
+            "word": "with"
+          },
+          {
+            "start": 30.16,
+            "end": 30.32,
+            "word": "the"
+          },
+          {
+            "start": 30.32,
+            "end": 30.62,
+            "word": "short"
+          },
+          {
+            "start": 30.62,
+            "end": 30.92,
+            "word": "side"
+          },
+          {
+            "start": 30.92,
+            "end": 31.32,
+            "word": "facing"
+          },
+          {
+            "start": 31.32,
+            "end": 31.64,
+            "word": "you"
+          },
+          {
+            "start": 31.64,
+            "end": 32.18,
+            "word": "in"
+          },
+          {
+            "start": 32.18,
+            "end": 32.34,
+            "word": "the"
+          },
+          {
+            "start": 32.34,
+            "end": 32.62,
+            "word": "same"
+          },
+          {
+            "start": 32.62,
+            "end": 33.18,
+            "word": "orientation"
+          },
+          {
+            "start": 33.24,
+            "end": 33.44,
+            "word": "at"
+          },
+          {
+            "start": 33.44,
+            "end": 33.56,
+            "word": "the"
+          },
+          {
+            "start": 33.56,
+            "end": 33.82,
+            "word": "bottom."
+          },
+          {
+            "start": 33.94,
+            "end": 33.98,
+            "word": "So"
+          },
+          {
+            "start": 33.98,
+            "end": 34.1,
+            "word": "you"
+          },
+          {
+            "start": 34.1,
+            "end": 34.38,
+            "word": "kind"
+          },
+          {
+            "start": 34.38,
+            "end": 34.54,
+            "word": "of"
+          },
+          {
+            "start": 34.54,
+            "end": 34.7,
+            "word": "have"
+          },
+          {
+            "start": 34.7,
+            "end": 34.88,
+            "word": "like"
+          },
+          {
+            "start": 34.88,
+            "end": 35.06,
+            "word": "an"
+          },
+          {
+            "start": 35.06,
+            "end": 35.3,
+            "word": "E"
+          },
+          {
+            "start": 35.3,
+            "end": 35.78,
+            "word": "shape"
+          },
+          {
+            "start": 35.78,
+            "end": 36.32,
+            "word": "like"
+          },
+          {
+            "start": 36.32,
+            "end": 36.96,
+            "word": "this"
+          },
+          {
+            "start": 36.96,
+            "end": 38.64,
+            "word": "on"
+          },
+          {
+            "start": 38.64,
+            "end": 38.84,
+            "word": "the"
+          },
+          {
+            "start": 38.84,
+            "end": 39.12,
+            "word": "right"
+          },
+          {
+            "start": 39.12,
+            "end": 39.38,
+            "word": "hand"
+          },
+          {
+            "start": 39.38,
+            "end": 39.7,
+            "word": "side"
+          },
+          {
+            "start": 39.7,
+            "end": 40.08,
+            "word": "of"
+          },
+          {
+            "start": 40.08,
+            "end": 40.5,
+            "word": "your"
+          },
+          {
+            "start": 40.5,
+            "end": 40.94,
+            "word": "grid."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-c3-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-c3-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Is it recording? Yeah, okay. So you want to take a green block and place it here with the short side facing you. So you're placing it on the right hand side of the grid with the short end facing you. And then you take a red block and you place it on top of the green block in the bottom right grid. So on top of it here. And then on top of that red block you place another green block with the short side facing you in the same orientation at the bottom. So you kind of have like an E shape like this on the right hand side of your grid."
+}

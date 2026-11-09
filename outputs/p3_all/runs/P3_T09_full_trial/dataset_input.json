@@ -1,0 +1,236 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P3",
+  "trial": 9,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P3/9/1",
+      "language": {
+        "text": "Also, similar to before, there's a blue brick that's on the bottom left and bottom right of the grid, and then two red bricks that are on the bottom right of the grid. So, blue, red, red.",
+        "sentences": [
+          {
+            "start": 0.46,
+            "end": 6.9,
+            "text": "Also, similar to before, there's a blue brick that's on the bottom left and bottom right of the grid,"
+          },
+          {
+            "start": 7.38,
+            "end": 11.62,
+            "text": "and then two red bricks that are on the bottom right of the grid."
+          },
+          {
+            "start": 11.62,
+            "end": 14.28,
+            "text": "So, blue, red, red."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.46,
+            "end": 1.22,
+            "word": "Also,"
+          },
+          {
+            "start": 1.52,
+            "end": 1.62,
+            "word": "similar"
+          },
+          {
+            "start": 1.62,
+            "end": 1.84,
+            "word": "to"
+          },
+          {
+            "start": 1.84,
+            "end": 2.24,
+            "word": "before,"
+          },
+          {
+            "start": 2.46,
+            "end": 2.64,
+            "word": "there's"
+          },
+          {
+            "start": 2.64,
+            "end": 2.76,
+            "word": "a"
+          },
+          {
+            "start": 2.76,
+            "end": 3.1,
+            "word": "blue"
+          },
+          {
+            "start": 3.1,
+            "end": 3.9,
+            "word": "brick"
+          },
+          {
+            "start": 3.9,
+            "end": 4.2,
+            "word": "that's"
+          },
+          {
+            "start": 4.2,
+            "end": 4.3,
+            "word": "on"
+          },
+          {
+            "start": 4.3,
+            "end": 4.42,
+            "word": "the"
+          },
+          {
+            "start": 4.42,
+            "end": 4.72,
+            "word": "bottom"
+          },
+          {
+            "start": 4.72,
+            "end": 5.12,
+            "word": "left"
+          },
+          {
+            "start": 5.12,
+            "end": 5.42,
+            "word": "and"
+          },
+          {
+            "start": 5.42,
+            "end": 5.72,
+            "word": "bottom"
+          },
+          {
+            "start": 5.72,
+            "end": 6.16,
+            "word": "right"
+          },
+          {
+            "start": 6.16,
+            "end": 6.5,
+            "word": "of"
+          },
+          {
+            "start": 6.5,
+            "end": 6.62,
+            "word": "the"
+          },
+          {
+            "start": 6.62,
+            "end": 6.9,
+            "word": "grid,"
+          },
+          {
+            "start": 7.38,
+            "end": 7.62,
+            "word": "and"
+          },
+          {
+            "start": 7.62,
+            "end": 7.98,
+            "word": "then"
+          },
+          {
+            "start": 7.98,
+            "end": 8.26,
+            "word": "two"
+          },
+          {
+            "start": 8.26,
+            "end": 8.54,
+            "word": "red"
+          },
+          {
+            "start": 8.54,
+            "end": 8.9,
+            "word": "bricks"
+          },
+          {
+            "start": 8.9,
+            "end": 9.12,
+            "word": "that"
+          },
+          {
+            "start": 9.12,
+            "end": 9.24,
+            "word": "are"
+          },
+          {
+            "start": 9.24,
+            "end": 9.36,
+            "word": "on"
+          },
+          {
+            "start": 9.36,
+            "end": 9.5,
+            "word": "the"
+          },
+          {
+            "start": 9.5,
+            "end": 9.92,
+            "word": "bottom"
+          },
+          {
+            "start": 9.92,
+            "end": 10.66,
+            "word": "right"
+          },
+          {
+            "start": 10.66,
+            "end": 11.32,
+            "word": "of"
+          },
+          {
+            "start": 11.32,
+            "end": 11.46,
+            "word": "the"
+          },
+          {
+            "start": 11.46,
+            "end": 11.62,
+            "word": "grid."
+          },
+          {
+            "start": 11.62,
+            "end": 12.0,
+            "word": "So,"
+          },
+          {
+            "start": 12.4,
+            "end": 13.2,
+            "word": "blue,"
+          },
+          {
+            "start": 13.42,
+            "end": 13.92,
+            "word": "red,"
+          },
+          {
+            "start": 14.02,
+            "end": 14.28,
+            "word": "red."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-l1-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-l1-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Also, similar to before, there's a blue brick that's on the bottom left and bottom right of the grid, and then two red bricks that are on the bottom right of the grid. So, blue, red, red."
+}

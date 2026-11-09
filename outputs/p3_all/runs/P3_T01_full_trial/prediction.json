@@ -1,0 +1,55 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so there's a red brick in the bottom left corner of the grid, and then there's a green long brick that's going vertically if you were looking up and down, but instead of it being on the grid, it's on top of the red brick. Part of the green hanging off on the side closest to us, and then another part of the green hanging off on the other side of the red brick. So it's like the center part is connected to the red brick, and then similarly, the blue brick is horizontal, and it's going the other way from the green brick, but it's also centered so part of the blue brick is hanging off on this side, and part of the blue brick is hanging off on the left side. So it's a red brick, and then a long green brick going vertically, like that's on the center, and then a blue brick that is going horizontally that's on the center as well.\n\nMessage 2: Okay, so similar to what was before, there's a red brick that you have perfectly in the bottom left, and then instead of the green brick horizontally, it's vertically. So it goes towards me and away from me, and then same with blue, just rotate it. So just the green and blue brick, rotate them 90 degrees, and so it's the green brick going up and down, and the blue brick going side to side.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "APHxaprcJMqSsbwP5pfz8QE",
+  "source": "live_llm",
+  "prediction": {
+    "status": "assumed",
+    "shape": null,
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 0.0,
+        "y": 4.0,
+        "z": 1.0
+      },
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": -1.0,
+        "y": 5.0,
+        "z": 2.0
+      }
+    ],
+    "assumptions": [
+      "\"bottom left corner of the grid\" refers to the front-left cell (x=0, z=2) from the viewer's perspective.",
+      "The green and blue blocks are centered on the footprint of the red block below them.",
+      "The blocks are stacked in the order: Red (base) -> Green (on red) -> Blue (on green).",
+      "The instruction to \"rotate them 90 degrees\" in Message 2 clarifies the final intended orientation of the green (axis=z) and blue (axis=x) blocks, rather than implying a rotation from a previously established (and potentially incorrect) state."
+    ],
+    "unresolved": [],
+    "evidence": [
+      "red brick in the bottom left corner of the grid",
+      "green long brick that's going vertically if you were looking up and down",
+      "on top of the red brick",
+      "center part is connected to the red brick",
+      "blue brick is horizontal, and it's going the other way from the green brick",
+      "it's also centered",
+      "part of the blue brick is hanging off on this side, and part of the blue brick is hanging off on the left side",
+      "red brick that you have perfectly in the bottom left",
+      "instead of the green brick horizontally, it's vertically. So it goes towards me and away from me",
+      "same with blue, just rotate it",
+      "so it's the green brick going up and down, and the blue brick going side to side"
+    ]
+  },
+  "validation_error": null
+}

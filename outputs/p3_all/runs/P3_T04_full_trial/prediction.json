@@ -1,0 +1,37 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, similar to two trials ago I think, there's a green brick on the bottom left and top left that's like, or bottom left and top left of the grid, then a red brick that's on the bottom left, and then a green brick on the bottom left and the top left. So green brick on the bottom left, top left, red brick on the bottom left, green brick on the bottom left, top left. So it's like hanging over.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "IvHxapekFIeasbwP2qSU6QQ",
+  "source": "live_llm",
+  "prediction": {
+    "status": "assumed",
+    "shape": null,
+    "blocks": [
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 1.0,
+        "z": 3.0
+      }
+    ],
+    "assumptions": [
+      "The red block is placed such that it overhangs the front edge of the green block (and the grid) to satisfy the description 'hanging over'."
+    ],
+    "unresolved": [],
+    "evidence": [
+      "green brick on the bottom left and top left of the grid",
+      "red brick that's on the bottom left",
+      "So it's like hanging over."
+    ]
+  },
+  "validation_error": null
+}

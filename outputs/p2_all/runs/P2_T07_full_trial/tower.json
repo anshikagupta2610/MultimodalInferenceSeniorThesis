@@ -1,0 +1,35 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": "L",
+  "status": "assumed",
+  "assumptions": [
+    "The phrase \"bottom two squares of the grid\" refers to the front row (z=[2,4]).",
+    "The blue block is oriented with its longest dimension (4 units) along the x-axis to span the front row, consistent with the 'horizontal blue' part of the L-shape prior, resolving the ambiguity with 'long side facing you'.",
+    "The phrase \"Bottom right corner\" refers to the grid cell x=[2,4], z=[2,4].",
+    "The second red block is stacked directly on top of the first red block, aligned with it."
+  ],
+  "blocks": [
+    {
+      "color": "blue",
+      "axis": "x",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 1.0,
+      "z": 2.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 5.0,
+      "z": 2.0
+    }
+  ]
+}

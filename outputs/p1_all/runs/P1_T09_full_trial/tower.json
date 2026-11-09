@@ -1,0 +1,34 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": "L",
+  "status": "assumed",
+  "assumptions": [
+    "The blue block is oriented along the x-axis, forming the horizontal base of the L-shape.",
+    "The red blocks are oriented along the y-axis (upright) as implied by 'tall red'.",
+    "The red stack is placed on the left end of the blue block, as 'on the side' is ambiguous between left and right."
+  ],
+  "blocks": [
+    {
+      "color": "blue",
+      "axis": "x",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 0.0,
+      "y": 5.0,
+      "z": 0.0
+    }
+  ]
+}

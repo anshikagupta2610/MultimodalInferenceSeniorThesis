@@ -1,0 +1,44 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Alright, so, we once again are placing pieces in the center of the white paper. If you again imagine a 2x2 grid on the white piece of paper in the center, the bottom half of that grid is empty for this one. But the top half of the grid has a blue rectangular piece across it, right, so you have empty and then you have blue rectangular piece. And then, on the left side of the blue rectangular piece, there are two red pieces stacked on top of each other. It again kind of makes an L shape, but this time you can see the full L, and it has a very tall, right, so it's going to be again blue piece and then red piece, red piece, and that's in the bit of that 2x2 grid on the paper away from you. So I think that should be good.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "HkDxata9C82ZsbwPgfma4AQ",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "L",
+    "blocks": [
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "the top half of the grid has a blue rectangular piece across it",
+      "on the left side of the blue rectangular piece, there are two red pieces stacked on top of each other",
+      "It again kind of makes an L shape",
+      "blue piece and then red piece, red piece",
+      "that's in the bit of that 2x2 grid on the paper away from you"
+    ]
+  },
+  "validation_error": null
+}

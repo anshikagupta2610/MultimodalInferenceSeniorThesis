@@ -1,0 +1,45 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Alright, for this structure, you are not going to be using the left, excuse me, sorry, you're not going to be using the right half of the 2x2 grid, okay? So it's going to be one green rectangular piece on the left, on the bottom, and then on the back of that green rectangular piece, there's going to be a red piece. And then on top of the red piece, facing you, is going to be another green rectangular piece. So the final shape is going to look something like a C, except it's facing you, right? So again, that's going to be green rectangular piece on the bottom, red tall piece behind, like at the back, on top of that green piece, and then another green piece in the same orientation on top. So green, red, green.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "J0Dxav6lCMOKsbwPm_vP2QE",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "C",
+    "blocks": [
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "you are not going to be using the right half of the 2x2 grid",
+      "one green rectangular piece on the left, on the bottom",
+      "on the back of that green rectangular piece, there's going to be a red piece.",
+      "on top of the red piece, facing you, is going to be another green rectangular piece.",
+      "So the final shape is going to look something like a C, except it's facing you",
+      "green rectangular piece on the bottom, red tall piece behind, like at the back, on top of that green piece, and then another green piece in the same orientation on top. So green, red, green."
+    ]
+  },
+  "validation_error": null
+}

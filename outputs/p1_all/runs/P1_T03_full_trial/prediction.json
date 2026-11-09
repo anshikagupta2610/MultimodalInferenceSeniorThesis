@@ -1,0 +1,49 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so for this one, we are only using the top left quadrant of the 2x2 grid, and there's going to be a red tall piece as the base, right? So this is in the top left quadrant. On top of the red tall piece is going to be a green piece that is oriented so that this sort of the skinny end is facing towards you, but it is placed in the middle is the part that connects to the red piece, right? So there should be, there should be, it essentially makes a T, right? So it's in the middle. Then on top of the green piece is a blue piece placed again in the middle, but perpendicular, right? So it's going to be, kind of makes a tree shape almost. So it's going to be red tall piece, green piece facing you, and then blue piece oriented perpendicular to the green piece. And so it's all connected kind of in one, in one, one column, right? There's only, only the middle sort of four are the bits that connect. So you should have, you should have sort of two studs facing you this way, two studs back, one and two and out, out, okay. Stop recording.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "N0DxapHpN63BsbwP4PuUsQk",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "TREE",
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "x",
+        "x": -1.0,
+        "y": 4.0,
+        "z": 0.0
+      },
+      {
+        "color": "blue",
+        "axis": "z",
+        "x": 0.0,
+        "y": 5.0,
+        "z": -1.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "Okay, so for this one, we are only using the top left quadrant of the 2x2 grid",
+      "there's going to be a red tall piece as the base",
+      "So this is in the top left quadrant.",
+      "On top of the red tall piece is going to be a green piece that is oriented so that this sort of the skinny end is facing towards you",
+      "but it is placed in the middle is the part that connects to the red piece",
+      "it essentially makes a T",
+      "Then on top of the green piece is a blue piece placed again in the middle, but perpendicular",
+      "So it's going to be, kind of makes a tree shape almost.",
+      "So it's going to be red tall piece, green piece facing you, and then blue piece oriented perpendicular to the green piece.",
+      "And so it's all connected kind of in one, in one, one column, right?"
+    ]
+  },
+  "validation_error": null
+}

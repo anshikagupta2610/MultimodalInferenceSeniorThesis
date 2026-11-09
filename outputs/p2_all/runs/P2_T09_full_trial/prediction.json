@@ -1,0 +1,43 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, remember that strange D shape, whatever it was we built? So we're building that again in the top left corner. So here you want to put a red block. On top of that you want to take a green block with the short side facing you and place it so that the center of the green block is on top of the red block. Take a blue block with the long side facing you and put it on top of the green block so that the centers of the two blocks are aligned in sort of a cross manner. Same thing that we did before, but just in the top left corner here. So red, then you have a green and then you have the blue. Oop!",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "VULxaoK3KtHisbwPgsPk2Q8",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "TREE",
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "x",
+        "x": -1.0,
+        "y": 4.0,
+        "z": 0.0
+      },
+      {
+        "color": "blue",
+        "axis": "z",
+        "x": 0.0,
+        "y": 5.0,
+        "z": -1.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "So we're building that again in the top left corner.",
+      "So here you want to put a red block.",
+      "On top of that you want to take a green block with the short side facing you and place it so that the center of the green block is on top of the red block.",
+      "Take a blue block with the long side facing you and put it on top of the green block so that the centers of the two blocks are aligned in sort of a cross manner."
+    ]
+  },
+  "validation_error": null
+}

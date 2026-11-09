@@ -1,0 +1,44 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so we now have a blue rectangle in the quadrant closest to you, the two quadrants closest to you. So it's, I don't know how to describe that, like horizontal basically, right? So it's going to be a blue rectangle here, and then red on top, and then another red on top of that. So it's making the L shape. So blue, red, red, the reds are on the right.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "v0DxasTkC6WaotQPvufLwQc",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "L",
+    "blocks": [
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 1.0,
+        "z": 2.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 5.0,
+        "z": 2.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "a blue rectangle in the quadrant closest to you, the two quadrants closest to you",
+      "horizontal basically",
+      "red on top, and then another red on top of that",
+      "making the L shape",
+      "the reds are on the right"
+    ]
+  },
+  "validation_error": null
+}

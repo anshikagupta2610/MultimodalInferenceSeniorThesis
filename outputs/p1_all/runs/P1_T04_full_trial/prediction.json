@@ -1,0 +1,43 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so this is essentially the same shape, but it is placed in the bottom right quadrant. So again, oriented right facing you. So again, you're going to have a red tall piece, with a green piece centered on top of it, and then a blue piece perpendicular to the green piece on top of that. So red tall piece, green piece, and then blue piece on that. And I think that is actually the same shape. So just take it and move it there. So should be good. All right. Stop.\n\nMessage 2: recording okay so that's pretty much it but uh you need to have the green bit the green protruding bit uh pointed towards you oh um and yeah and and so so yeah the green so yeah the green bit is pointing towards you oh and then after that it's correct stop recording",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "SkDxaqiaAoqTotQPi_KZoQc",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "TREE",
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 2.0,
+        "y": 4.0,
+        "z": 1.0
+      },
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 1.0,
+        "y": 5.0,
+        "z": 2.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "red tall piece, with a green piece centered on top of it, and then a blue piece perpendicular to the green piece on top of that.",
+      "placed in the bottom right quadrant.",
+      "I think that is actually the same shape.",
+      "you need to have the green bit the green protruding bit uh pointed towards you"
+    ]
+  },
+  "validation_error": null
+}

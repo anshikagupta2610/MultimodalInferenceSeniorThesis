@@ -1,0 +1,45 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, hi. So now we're building that T structure we built in the bottom left corner but we're building it in the top right corner. So you're going to put the red block here and then put the green block with the short side facing you so that its center is on top of the red block and then you put a take a blue block and place it on top of the green block so that the longer side is facing you and the centers of the green and the blue blocks are aligned. So you have kind of a T shape in this direction in the lateral direction and then on top of that you have the blue block. It's the same figure as we did like last to last trial but in the top right corner.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "CELxaqH3GKnll7oPocHq0AU",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "TREE",
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "x",
+        "x": 1.0,
+        "y": 4.0,
+        "z": 0.0
+      },
+      {
+        "color": "blue",
+        "axis": "z",
+        "x": 2.0,
+        "y": 5.0,
+        "z": -1.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "T structure we built in the bottom left corner but we're building it in the top right corner.",
+      "put the red block here",
+      "put the green block with the short side facing you so that its center is on top of the red block",
+      "take a blue block and place it on top of the green block so that the longer side is facing you and the centers of the green and the blue blocks are aligned.",
+      "So you have kind of a T shape in this direction in the lateral direction and then on top of that you have the blue block.",
+      "It's the same figure as we did like last to last trial but in the top right corner."
+    ]
+  },
+  "validation_error": null
+}

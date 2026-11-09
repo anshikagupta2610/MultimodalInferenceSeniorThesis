@@ -1,0 +1,30 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": "TREE",
+  "status": "ready",
+  "assumptions": [],
+  "blocks": [
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "color": "green",
+      "axis": "z",
+      "x": 2.0,
+      "y": 4.0,
+      "z": -1.0
+    },
+    {
+      "color": "blue",
+      "axis": "x",
+      "x": 1.0,
+      "y": 5.0,
+      "z": 0.0
+    }
+  ]
+}

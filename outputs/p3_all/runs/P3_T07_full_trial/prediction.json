@@ -1,0 +1,42 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, similar to before, but the red brick is on the top right grid, and then the green is on the red that's going up and down, that is centered on the red brick. So like before, it was centered on the red brick going up and down, and then the blue brick is centered on the green brick that's going side to side.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "UfHxaqbRCKTdsbwPlpGfoAw",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": null,
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "x",
+        "x": 1.0,
+        "y": 4.0,
+        "z": 0.0
+      },
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 1.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "the red brick is on the top right grid",
+      "the green is on the red that's going up and down, that is centered on the red brick",
+      "the blue brick is centered on the green brick that's going side to side"
+    ]
+  },
+  "validation_error": null
+}

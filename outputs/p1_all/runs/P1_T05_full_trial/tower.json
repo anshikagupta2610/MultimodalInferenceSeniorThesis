@@ -1,0 +1,33 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": "L",
+  "status": "assumed",
+  "assumptions": [
+    "The blue block's 'long sides facing you' implies its 4-unit length is along the x-axis (axis=x), spanning the front row horizontally.",
+    "The two red blocks are stacked on the left-most 2x2 section of the blue block (x=[0,2], z=[2,4]), centered within that section."
+  ],
+  "blocks": [
+    {
+      "color": "blue",
+      "axis": "x",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 0.0,
+      "y": 1.0,
+      "z": 2.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 0.0,
+      "y": 5.0,
+      "z": 2.0
+    }
+  ]
+}

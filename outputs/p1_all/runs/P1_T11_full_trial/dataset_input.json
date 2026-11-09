@@ -1,0 +1,426 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P1",
+  "trial": 11,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P1/11/1",
+      "language": {
+        "text": "Okay, so we now have a blue rectangle in the quadrant closest to you, the two quadrants closest to you. So it's, I don't know how to describe that, like horizontal basically, right? So it's going to be a blue rectangle here, and then red on top, and then another red on top of that. So it's making the L shape. So blue, red, red, the reds are on the right.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 14.02,
+            "text": "Okay, so we now have a blue rectangle in the quadrant closest to you, the two quadrants"
+          },
+          {
+            "start": 14.02,
+            "end": 14.72,
+            "text": "closest to you."
+          },
+          {
+            "start": 14.72,
+            "end": 20.4,
+            "text": "So it's, I don't know how to describe that, like horizontal basically, right?"
+          },
+          {
+            "start": 20.4,
+            "end": 26.02,
+            "text": "So it's going to be a blue rectangle here, and then red on top, and then another red"
+          },
+          {
+            "start": 26.02,
+            "end": 26.6,
+            "text": "on top of that."
+          },
+          {
+            "start": 26.6,
+            "end": 28.0,
+            "text": "So it's making the L shape."
+          },
+          {
+            "start": 28.18,
+            "end": 33.14,
+            "text": "So blue, red, red, the reds are on the right."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.9,
+            "word": "Okay,"
+          },
+          {
+            "start": 2.26,
+            "end": 2.62,
+            "word": "so"
+          },
+          {
+            "start": 2.62,
+            "end": 3.22,
+            "word": "we"
+          },
+          {
+            "start": 3.22,
+            "end": 3.94,
+            "word": "now"
+          },
+          {
+            "start": 3.94,
+            "end": 4.76,
+            "word": "have"
+          },
+          {
+            "start": 4.76,
+            "end": 6.08,
+            "word": "a"
+          },
+          {
+            "start": 6.08,
+            "end": 9.62,
+            "word": "blue"
+          },
+          {
+            "start": 9.62,
+            "end": 10.8,
+            "word": "rectangle"
+          },
+          {
+            "start": 10.8,
+            "end": 11.26,
+            "word": "in"
+          },
+          {
+            "start": 11.26,
+            "end": 11.5,
+            "word": "the"
+          },
+          {
+            "start": 11.5,
+            "end": 11.92,
+            "word": "quadrant"
+          },
+          {
+            "start": 11.92,
+            "end": 12.56,
+            "word": "closest"
+          },
+          {
+            "start": 12.56,
+            "end": 12.94,
+            "word": "to"
+          },
+          {
+            "start": 12.94,
+            "end": 13.06,
+            "word": "you,"
+          },
+          {
+            "start": 13.14,
+            "end": 13.38,
+            "word": "the"
+          },
+          {
+            "start": 13.38,
+            "end": 13.62,
+            "word": "two"
+          },
+          {
+            "start": 13.62,
+            "end": 14.02,
+            "word": "quadrants"
+          },
+          {
+            "start": 14.02,
+            "end": 14.32,
+            "word": "closest"
+          },
+          {
+            "start": 14.32,
+            "end": 14.58,
+            "word": "to"
+          },
+          {
+            "start": 14.58,
+            "end": 14.72,
+            "word": "you."
+          },
+          {
+            "start": 14.72,
+            "end": 14.98,
+            "word": "So"
+          },
+          {
+            "start": 14.98,
+            "end": 15.26,
+            "word": "it's,"
+          },
+          {
+            "start": 15.32,
+            "end": 16.82,
+            "word": "I"
+          },
+          {
+            "start": 16.82,
+            "end": 18.58,
+            "word": "don't"
+          },
+          {
+            "start": 18.58,
+            "end": 18.68,
+            "word": "know"
+          },
+          {
+            "start": 18.68,
+            "end": 18.76,
+            "word": "how"
+          },
+          {
+            "start": 18.76,
+            "end": 18.86,
+            "word": "to"
+          },
+          {
+            "start": 18.86,
+            "end": 19.04,
+            "word": "describe"
+          },
+          {
+            "start": 19.04,
+            "end": 19.2,
+            "word": "that,"
+          },
+          {
+            "start": 19.3,
+            "end": 19.34,
+            "word": "like"
+          },
+          {
+            "start": 19.34,
+            "end": 19.7,
+            "word": "horizontal"
+          },
+          {
+            "start": 19.7,
+            "end": 20.14,
+            "word": "basically,"
+          },
+          {
+            "start": 20.28,
+            "end": 20.4,
+            "word": "right?"
+          },
+          {
+            "start": 20.4,
+            "end": 20.58,
+            "word": "So"
+          },
+          {
+            "start": 20.58,
+            "end": 20.8,
+            "word": "it's"
+          },
+          {
+            "start": 20.8,
+            "end": 21.12,
+            "word": "going"
+          },
+          {
+            "start": 21.12,
+            "end": 21.2,
+            "word": "to"
+          },
+          {
+            "start": 21.2,
+            "end": 21.3,
+            "word": "be"
+          },
+          {
+            "start": 21.3,
+            "end": 21.4,
+            "word": "a"
+          },
+          {
+            "start": 21.4,
+            "end": 21.5,
+            "word": "blue"
+          },
+          {
+            "start": 21.5,
+            "end": 21.8,
+            "word": "rectangle"
+          },
+          {
+            "start": 21.8,
+            "end": 22.08,
+            "word": "here,"
+          },
+          {
+            "start": 22.5,
+            "end": 22.54,
+            "word": "and"
+          },
+          {
+            "start": 22.54,
+            "end": 22.82,
+            "word": "then"
+          },
+          {
+            "start": 22.82,
+            "end": 24.3,
+            "word": "red"
+          },
+          {
+            "start": 24.3,
+            "end": 24.48,
+            "word": "on"
+          },
+          {
+            "start": 24.48,
+            "end": 24.8,
+            "word": "top,"
+          },
+          {
+            "start": 24.98,
+            "end": 25.32,
+            "word": "and"
+          },
+          {
+            "start": 25.32,
+            "end": 25.54,
+            "word": "then"
+          },
+          {
+            "start": 25.54,
+            "end": 25.82,
+            "word": "another"
+          },
+          {
+            "start": 25.82,
+            "end": 26.02,
+            "word": "red"
+          },
+          {
+            "start": 26.02,
+            "end": 26.12,
+            "word": "on"
+          },
+          {
+            "start": 26.12,
+            "end": 26.34,
+            "word": "top"
+          },
+          {
+            "start": 26.34,
+            "end": 26.46,
+            "word": "of"
+          },
+          {
+            "start": 26.46,
+            "end": 26.6,
+            "word": "that."
+          },
+          {
+            "start": 26.6,
+            "end": 26.74,
+            "word": "So"
+          },
+          {
+            "start": 26.74,
+            "end": 26.88,
+            "word": "it's"
+          },
+          {
+            "start": 26.88,
+            "end": 27.12,
+            "word": "making"
+          },
+          {
+            "start": 27.12,
+            "end": 27.36,
+            "word": "the"
+          },
+          {
+            "start": 27.36,
+            "end": 27.62,
+            "word": "L"
+          },
+          {
+            "start": 27.62,
+            "end": 28.0,
+            "word": "shape."
+          },
+          {
+            "start": 28.18,
+            "end": 28.82,
+            "word": "So"
+          },
+          {
+            "start": 28.82,
+            "end": 29.7,
+            "word": "blue,"
+          },
+          {
+            "start": 29.88,
+            "end": 30.52,
+            "word": "red,"
+          },
+          {
+            "start": 30.84,
+            "end": 31.22,
+            "word": "red,"
+          },
+          {
+            "start": 31.44,
+            "end": 31.74,
+            "word": "the"
+          },
+          {
+            "start": 31.74,
+            "end": 32.0,
+            "word": "reds"
+          },
+          {
+            "start": 32.0,
+            "end": 32.14,
+            "word": "are"
+          },
+          {
+            "start": 32.14,
+            "end": 32.6,
+            "word": "on"
+          },
+          {
+            "start": 32.6,
+            "end": 32.9,
+            "word": "the"
+          },
+          {
+            "start": 32.9,
+            "end": 33.14,
+            "word": "right."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-l1-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-l1-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so we now have a blue rectangle in the quadrant closest to you, the two quadrants closest to you. So it's, I don't know how to describe that, like horizontal basically, right? So it's going to be a blue rectangle here, and then red on top, and then another red on top of that. So it's making the L shape. So blue, red, red, the reds are on the right."
+}

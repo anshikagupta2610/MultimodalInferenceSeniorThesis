@@ -1,0 +1,361 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P1",
+  "trial": 10,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P1/10/1",
+      "language": {
+        "text": "All right, we're making our favorite C shape again, this time on the left side of the grid. So it's going to be with the open bit of the C facing away from you. So green, red, green on top. And again, the open bit is facing away from you. This is all on the left side of the grid.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 9.72,
+            "text": "All right, we're making our favorite C shape again, this time on the left side of the grid."
+          },
+          {
+            "start": 9.98,
+            "end": 14.48,
+            "text": "So it's going to be with the open bit of the C facing away from you."
+          },
+          {
+            "start": 14.48,
+            "end": 18.14,
+            "text": "So green, red, green on top."
+          },
+          {
+            "start": 18.98,
+            "end": 21.74,
+            "text": "And again, the open bit is facing away from you."
+          },
+          {
+            "start": 21.74,
+            "end": 24.56,
+            "text": "This is all on the left side of the grid."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.24,
+            "word": "All"
+          },
+          {
+            "start": 1.24,
+            "end": 1.48,
+            "word": "right,"
+          },
+          {
+            "start": 1.58,
+            "end": 1.82,
+            "word": "we're"
+          },
+          {
+            "start": 1.82,
+            "end": 2.06,
+            "word": "making"
+          },
+          {
+            "start": 2.06,
+            "end": 2.36,
+            "word": "our"
+          },
+          {
+            "start": 2.36,
+            "end": 2.78,
+            "word": "favorite"
+          },
+          {
+            "start": 2.78,
+            "end": 3.26,
+            "word": "C"
+          },
+          {
+            "start": 3.26,
+            "end": 3.64,
+            "word": "shape"
+          },
+          {
+            "start": 3.64,
+            "end": 4.04,
+            "word": "again,"
+          },
+          {
+            "start": 4.44,
+            "end": 4.86,
+            "word": "this"
+          },
+          {
+            "start": 4.86,
+            "end": 5.24,
+            "word": "time"
+          },
+          {
+            "start": 5.24,
+            "end": 6.2,
+            "word": "on"
+          },
+          {
+            "start": 6.2,
+            "end": 7.2,
+            "word": "the"
+          },
+          {
+            "start": 7.2,
+            "end": 8.26,
+            "word": "left"
+          },
+          {
+            "start": 8.26,
+            "end": 8.8,
+            "word": "side"
+          },
+          {
+            "start": 8.8,
+            "end": 9.16,
+            "word": "of"
+          },
+          {
+            "start": 9.16,
+            "end": 9.38,
+            "word": "the"
+          },
+          {
+            "start": 9.38,
+            "end": 9.72,
+            "word": "grid."
+          },
+          {
+            "start": 9.98,
+            "end": 10.66,
+            "word": "So"
+          },
+          {
+            "start": 10.66,
+            "end": 11.3,
+            "word": "it's"
+          },
+          {
+            "start": 11.3,
+            "end": 11.52,
+            "word": "going"
+          },
+          {
+            "start": 11.52,
+            "end": 11.74,
+            "word": "to"
+          },
+          {
+            "start": 11.74,
+            "end": 11.9,
+            "word": "be"
+          },
+          {
+            "start": 11.9,
+            "end": 12.1,
+            "word": "with"
+          },
+          {
+            "start": 12.1,
+            "end": 12.26,
+            "word": "the"
+          },
+          {
+            "start": 12.26,
+            "end": 12.62,
+            "word": "open"
+          },
+          {
+            "start": 12.62,
+            "end": 12.88,
+            "word": "bit"
+          },
+          {
+            "start": 12.88,
+            "end": 13.06,
+            "word": "of"
+          },
+          {
+            "start": 13.06,
+            "end": 13.24,
+            "word": "the"
+          },
+          {
+            "start": 13.24,
+            "end": 13.4,
+            "word": "C"
+          },
+          {
+            "start": 13.4,
+            "end": 13.78,
+            "word": "facing"
+          },
+          {
+            "start": 13.78,
+            "end": 14.06,
+            "word": "away"
+          },
+          {
+            "start": 14.06,
+            "end": 14.3,
+            "word": "from"
+          },
+          {
+            "start": 14.3,
+            "end": 14.48,
+            "word": "you."
+          },
+          {
+            "start": 14.48,
+            "end": 14.66,
+            "word": "So"
+          },
+          {
+            "start": 14.66,
+            "end": 15.32,
+            "word": "green,"
+          },
+          {
+            "start": 15.88,
+            "end": 16.62,
+            "word": "red,"
+          },
+          {
+            "start": 17.14,
+            "end": 17.56,
+            "word": "green"
+          },
+          {
+            "start": 17.56,
+            "end": 17.76,
+            "word": "on"
+          },
+          {
+            "start": 17.76,
+            "end": 18.14,
+            "word": "top."
+          },
+          {
+            "start": 18.98,
+            "end": 19.4,
+            "word": "And"
+          },
+          {
+            "start": 19.4,
+            "end": 19.72,
+            "word": "again,"
+          },
+          {
+            "start": 19.88,
+            "end": 19.98,
+            "word": "the"
+          },
+          {
+            "start": 19.98,
+            "end": 20.3,
+            "word": "open"
+          },
+          {
+            "start": 20.3,
+            "end": 20.54,
+            "word": "bit"
+          },
+          {
+            "start": 20.54,
+            "end": 20.76,
+            "word": "is"
+          },
+          {
+            "start": 20.76,
+            "end": 21.06,
+            "word": "facing"
+          },
+          {
+            "start": 21.06,
+            "end": 21.32,
+            "word": "away"
+          },
+          {
+            "start": 21.32,
+            "end": 21.54,
+            "word": "from"
+          },
+          {
+            "start": 21.54,
+            "end": 21.74,
+            "word": "you."
+          },
+          {
+            "start": 21.74,
+            "end": 22.56,
+            "word": "This"
+          },
+          {
+            "start": 22.56,
+            "end": 22.66,
+            "word": "is"
+          },
+          {
+            "start": 22.66,
+            "end": 22.82,
+            "word": "all"
+          },
+          {
+            "start": 22.82,
+            "end": 23.02,
+            "word": "on"
+          },
+          {
+            "start": 23.02,
+            "end": 23.22,
+            "word": "the"
+          },
+          {
+            "start": 23.22,
+            "end": 23.6,
+            "word": "left"
+          },
+          {
+            "start": 23.6,
+            "end": 24.04,
+            "word": "side"
+          },
+          {
+            "start": 24.04,
+            "end": 24.18,
+            "word": "of"
+          },
+          {
+            "start": 24.18,
+            "end": 24.3,
+            "word": "the"
+          },
+          {
+            "start": 24.3,
+            "end": 24.56,
+            "word": "grid."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-c1-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-c1-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: All right, we're making our favorite C shape again, this time on the left side of the grid. So it's going to be with the open bit of the C facing away from you. So green, red, green on top. And again, the open bit is facing away from you. This is all on the left side of the grid."
+}

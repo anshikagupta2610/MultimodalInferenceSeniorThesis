@@ -1,0 +1,35 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": null,
+  "status": "assumed",
+  "assumptions": [
+    "\"bottom left corner of the grid\" refers to the front-left cell (x=0, z=2) from the viewer's perspective.",
+    "The green and blue blocks are centered on the footprint of the red block below them.",
+    "The blocks are stacked in the order: Red (base) -> Green (on red) -> Blue (on green).",
+    "The instruction to \"rotate them 90 degrees\" in Message 2 clarifies the final intended orientation of the green (axis=z) and blue (axis=x) blocks, rather than implying a rotation from a previously established (and potentially incorrect) state."
+  ],
+  "blocks": [
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.0
+    },
+    {
+      "color": "green",
+      "axis": "z",
+      "x": 0.0,
+      "y": 4.0,
+      "z": 1.0
+    },
+    {
+      "color": "blue",
+      "axis": "x",
+      "x": -1.0,
+      "y": 5.0,
+      "z": 2.0
+    }
+  ]
+}

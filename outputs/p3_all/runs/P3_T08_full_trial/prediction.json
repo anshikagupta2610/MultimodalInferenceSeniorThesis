@@ -1,0 +1,41 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, similar to before, there's a green brick on the top right and bottom left, or top right and bottom right. And then there's a red brick that's on the bottom right. And then there's a green brick on the top right and bottom right as well. So there's like overhang on the top right.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "XPHxav6VN6vBsbwPxrmzqQM",
+  "source": "live_llm",
+  "prediction": {
+    "status": "assumed",
+    "shape": null,
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 2.0,
+        "y": 4.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [
+      "The initial ambiguous phrasing 'top right and bottom left, or top right and bottom right' is resolved to 'top right and bottom right', indicating the entire right column.",
+      "The two mentions of a 'green brick' refer to a single block.",
+      "The red brick is placed on the table.",
+      "The green brick is placed on top of the red brick, with its footprint spanning the entire right column, consistent with the 'overhang' description."
+    ],
+    "unresolved": [],
+    "evidence": [
+      "a green brick on the top right and bottom left, or top right and bottom right.",
+      "And then there's a red brick that's on the bottom right.",
+      "And then there's a green brick on the top right and bottom right as well.",
+      "So there's like overhang on the top right."
+    ]
+  },
+  "validation_error": null
+}

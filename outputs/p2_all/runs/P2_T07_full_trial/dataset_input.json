@@ -1,0 +1,531 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P2",
+  "trial": 7,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P2/7/1",
+      "language": {
+        "text": "So we're building the same L shape again, but it goes to the right instead of the left so you take a blue block in the bottom two squares of the grid and With the long side facing you and then you take a red block and you put it in the Bottom right corner on top of the blue block and then you put another red block after that So you have a big L shape like this. This is the bottom is blue and then the top should be red Yeah",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 5.86,
+            "text": "So we're building the same L shape again, but it goes to the right instead of the left"
+          },
+          {
+            "start": 5.98,
+            "end": 8.88,
+            "text": "so you take a blue block in the bottom two squares of the grid and"
+          },
+          {
+            "start": 11.08,
+            "end": 15.46,
+            "text": "With the long side facing you and then you take a red block and you put it in the"
+          },
+          {
+            "start": 15.46,
+            "end": 21.99,
+            "text": "Bottom right corner on top of the blue block and then you put another red block after that"
+          },
+          {
+            "start": 21.99,
+            "end": 27.44,
+            "text": "So you have a big L shape like this. This is the bottom is blue and then the top should be red"
+          },
+          {
+            "start": 28.84,
+            "end": 29.06,
+            "text": "Yeah"
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 0.58,
+            "word": "So"
+          },
+          {
+            "start": 0.58,
+            "end": 0.94,
+            "word": "we're"
+          },
+          {
+            "start": 0.94,
+            "end": 1.16,
+            "word": "building"
+          },
+          {
+            "start": 1.16,
+            "end": 1.36,
+            "word": "the"
+          },
+          {
+            "start": 1.36,
+            "end": 1.6,
+            "word": "same"
+          },
+          {
+            "start": 1.6,
+            "end": 1.88,
+            "word": "L"
+          },
+          {
+            "start": 1.88,
+            "end": 2.2,
+            "word": "shape"
+          },
+          {
+            "start": 2.2,
+            "end": 2.54,
+            "word": "again,"
+          },
+          {
+            "start": 2.88,
+            "end": 3.16,
+            "word": "but"
+          },
+          {
+            "start": 3.16,
+            "end": 3.44,
+            "word": "it"
+          },
+          {
+            "start": 3.44,
+            "end": 3.78,
+            "word": "goes"
+          },
+          {
+            "start": 3.78,
+            "end": 4.52,
+            "word": "to"
+          },
+          {
+            "start": 4.52,
+            "end": 4.7,
+            "word": "the"
+          },
+          {
+            "start": 4.7,
+            "end": 5.0,
+            "word": "right"
+          },
+          {
+            "start": 5.0,
+            "end": 5.34,
+            "word": "instead"
+          },
+          {
+            "start": 5.34,
+            "end": 5.52,
+            "word": "of"
+          },
+          {
+            "start": 5.52,
+            "end": 5.64,
+            "word": "the"
+          },
+          {
+            "start": 5.64,
+            "end": 5.86,
+            "word": "left"
+          },
+          {
+            "start": 5.98,
+            "end": 6.1,
+            "word": "so"
+          },
+          {
+            "start": 6.1,
+            "end": 6.2,
+            "word": "you"
+          },
+          {
+            "start": 6.2,
+            "end": 6.36,
+            "word": "take"
+          },
+          {
+            "start": 6.36,
+            "end": 6.5,
+            "word": "a"
+          },
+          {
+            "start": 6.5,
+            "end": 6.66,
+            "word": "blue"
+          },
+          {
+            "start": 6.66,
+            "end": 6.92,
+            "word": "block"
+          },
+          {
+            "start": 6.92,
+            "end": 7.08,
+            "word": "in"
+          },
+          {
+            "start": 7.08,
+            "end": 7.2,
+            "word": "the"
+          },
+          {
+            "start": 7.2,
+            "end": 7.48,
+            "word": "bottom"
+          },
+          {
+            "start": 7.48,
+            "end": 7.72,
+            "word": "two"
+          },
+          {
+            "start": 7.72,
+            "end": 8.1,
+            "word": "squares"
+          },
+          {
+            "start": 8.1,
+            "end": 8.26,
+            "word": "of"
+          },
+          {
+            "start": 8.26,
+            "end": 8.38,
+            "word": "the"
+          },
+          {
+            "start": 8.38,
+            "end": 8.64,
+            "word": "grid"
+          },
+          {
+            "start": 8.64,
+            "end": 8.88,
+            "word": "and"
+          },
+          {
+            "start": 11.08,
+            "end": 11.38,
+            "word": "With"
+          },
+          {
+            "start": 11.38,
+            "end": 11.54,
+            "word": "the"
+          },
+          {
+            "start": 11.54,
+            "end": 11.76,
+            "word": "long"
+          },
+          {
+            "start": 11.76,
+            "end": 12.0,
+            "word": "side"
+          },
+          {
+            "start": 12.0,
+            "end": 12.34,
+            "word": "facing"
+          },
+          {
+            "start": 12.34,
+            "end": 12.6,
+            "word": "you"
+          },
+          {
+            "start": 12.6,
+            "end": 13.42,
+            "word": "and"
+          },
+          {
+            "start": 13.42,
+            "end": 13.58,
+            "word": "then"
+          },
+          {
+            "start": 13.58,
+            "end": 13.74,
+            "word": "you"
+          },
+          {
+            "start": 13.74,
+            "end": 13.96,
+            "word": "take"
+          },
+          {
+            "start": 13.96,
+            "end": 14.1,
+            "word": "a"
+          },
+          {
+            "start": 14.1,
+            "end": 14.3,
+            "word": "red"
+          },
+          {
+            "start": 14.3,
+            "end": 14.56,
+            "word": "block"
+          },
+          {
+            "start": 14.56,
+            "end": 14.7,
+            "word": "and"
+          },
+          {
+            "start": 14.7,
+            "end": 14.82,
+            "word": "you"
+          },
+          {
+            "start": 14.82,
+            "end": 14.98,
+            "word": "put"
+          },
+          {
+            "start": 14.98,
+            "end": 15.12,
+            "word": "it"
+          },
+          {
+            "start": 15.12,
+            "end": 15.28,
+            "word": "in"
+          },
+          {
+            "start": 15.28,
+            "end": 15.46,
+            "word": "the"
+          },
+          {
+            "start": 15.46,
+            "end": 16.46,
+            "word": "Bottom"
+          },
+          {
+            "start": 16.46,
+            "end": 17.34,
+            "word": "right"
+          },
+          {
+            "start": 17.34,
+            "end": 17.82,
+            "word": "corner"
+          },
+          {
+            "start": 17.82,
+            "end": 18.26,
+            "word": "on"
+          },
+          {
+            "start": 18.26,
+            "end": 18.56,
+            "word": "top"
+          },
+          {
+            "start": 18.56,
+            "end": 18.76,
+            "word": "of"
+          },
+          {
+            "start": 18.76,
+            "end": 18.94,
+            "word": "the"
+          },
+          {
+            "start": 18.94,
+            "end": 19.12,
+            "word": "blue"
+          },
+          {
+            "start": 19.12,
+            "end": 19.52,
+            "word": "block"
+          },
+          {
+            "start": 19.52,
+            "end": 19.86,
+            "word": "and"
+          },
+          {
+            "start": 19.86,
+            "end": 20.12,
+            "word": "then"
+          },
+          {
+            "start": 20.12,
+            "end": 20.46,
+            "word": "you"
+          },
+          {
+            "start": 20.46,
+            "end": 20.7,
+            "word": "put"
+          },
+          {
+            "start": 20.7,
+            "end": 21.12,
+            "word": "another"
+          },
+          {
+            "start": 21.12,
+            "end": 21.38,
+            "word": "red"
+          },
+          {
+            "start": 21.38,
+            "end": 21.6,
+            "word": "block"
+          },
+          {
+            "start": 21.6,
+            "end": 21.84,
+            "word": "after"
+          },
+          {
+            "start": 21.84,
+            "end": 21.99,
+            "word": "that"
+          },
+          {
+            "start": 21.99,
+            "end": 22.12,
+            "word": "So"
+          },
+          {
+            "start": 22.12,
+            "end": 22.16,
+            "word": "you"
+          },
+          {
+            "start": 22.16,
+            "end": 22.28,
+            "word": "have"
+          },
+          {
+            "start": 22.28,
+            "end": 22.4,
+            "word": "a"
+          },
+          {
+            "start": 22.4,
+            "end": 22.76,
+            "word": "big"
+          },
+          {
+            "start": 22.76,
+            "end": 22.98,
+            "word": "L"
+          },
+          {
+            "start": 22.98,
+            "end": 23.24,
+            "word": "shape"
+          },
+          {
+            "start": 23.24,
+            "end": 23.48,
+            "word": "like"
+          },
+          {
+            "start": 23.48,
+            "end": 23.78,
+            "word": "this."
+          },
+          {
+            "start": 24.36,
+            "end": 24.54,
+            "word": "This"
+          },
+          {
+            "start": 24.54,
+            "end": 24.66,
+            "word": "is"
+          },
+          {
+            "start": 24.66,
+            "end": 24.76,
+            "word": "the"
+          },
+          {
+            "start": 24.76,
+            "end": 25.0,
+            "word": "bottom"
+          },
+          {
+            "start": 25.0,
+            "end": 25.16,
+            "word": "is"
+          },
+          {
+            "start": 25.16,
+            "end": 25.46,
+            "word": "blue"
+          },
+          {
+            "start": 25.46,
+            "end": 26.0,
+            "word": "and"
+          },
+          {
+            "start": 26.0,
+            "end": 26.12,
+            "word": "then"
+          },
+          {
+            "start": 26.12,
+            "end": 26.3,
+            "word": "the"
+          },
+          {
+            "start": 26.3,
+            "end": 26.58,
+            "word": "top"
+          },
+          {
+            "start": 26.58,
+            "end": 26.82,
+            "word": "should"
+          },
+          {
+            "start": 26.82,
+            "end": 27.06,
+            "word": "be"
+          },
+          {
+            "start": 27.06,
+            "end": 27.44,
+            "word": "red"
+          },
+          {
+            "start": 28.84,
+            "end": 29.06,
+            "word": "Yeah"
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-l1-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-l1-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: So we're building the same L shape again, but it goes to the right instead of the left so you take a blue block in the bottom two squares of the grid and With the long side facing you and then you take a red block and you put it in the Bottom right corner on top of the blue block and then you put another red block after that So you have a big L shape like this. This is the bottom is blue and then the top should be red Yeah"
+}

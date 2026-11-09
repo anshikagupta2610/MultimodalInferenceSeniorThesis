@@ -1,0 +1,48 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Alright, so we have an L shape that we're making. It is in the top half of the grid. And it goes blue rectangle, and then on the side we're getting tall red, and then another tall red on top of it. So blue rectangle, tall red, tall red. This is going to be the half of the grid that is further away from you.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "o0DxasmcDfHAsbwPoJSl2A0",
+  "source": "live_llm",
+  "prediction": {
+    "status": "assumed",
+    "shape": "L",
+    "blocks": [
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [
+      "The blue block is oriented along the x-axis, forming the horizontal base of the L-shape.",
+      "The red blocks are oriented along the y-axis (upright) as implied by 'tall red'.",
+      "The red stack is placed on the left end of the blue block, as 'on the side' is ambiguous between left and right."
+    ],
+    "unresolved": [],
+    "evidence": [
+      "Alright, so we have an L shape that we're making.",
+      "It is in the top half of the grid.",
+      "And it goes blue rectangle, and then on the side we're getting tall red, and then another tall red on top of it.",
+      "So blue rectangle, tall red, tall red.",
+      "This is going to be the half of the grid that is further away from you."
+    ]
+  },
+  "validation_error": null
+}

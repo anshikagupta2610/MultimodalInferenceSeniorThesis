@@ -1,0 +1,27 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": null,
+  "status": "assumed",
+  "assumptions": [
+    "The phrase 'a green brick in the top right and the bottom right' refers to a single green block spanning the entire right column (x=[2,4], z=[0,4]).",
+    "The red block is placed on top of the green block.",
+    "To satisfy both 'in the top right' and 'overhang on the bottom right', the red block's footprint is centered on the boundary between the top right (z=[0,2]) and bottom right (z=[2,4]) cells in the right column (x=[2,4])."
+  ],
+  "blocks": [
+    {
+      "color": "green",
+      "axis": "z",
+      "x": 2.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  ]
+}

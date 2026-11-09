@@ -1,0 +1,33 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": "L",
+  "status": "assumed",
+  "assumptions": [
+    "The blue block's 'long side facing you' was interpreted as the 4-unit dimension being along the x-axis, perpendicular to the viewer, to fit the 'top two squares' (z=[0,2]) constraint. This results in a blue block spanning the entire back row (x=[0,4], z=[0,2]).",
+    "The 'top left corner' of the blue block was interpreted as the far-left region (x=[0,2], z=[0,2]), and the red blocks were placed at x=0, z=0 to align with the corner of the grid cell."
+  ],
+  "blocks": [
+    {
+      "color": "blue",
+      "axis": "x",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 0.0,
+      "y": 5.0,
+      "z": 0.0
+    }
+  ]
+}

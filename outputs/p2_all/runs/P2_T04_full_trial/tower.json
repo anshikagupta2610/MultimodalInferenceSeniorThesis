@@ -1,0 +1,33 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": "C",
+  "status": "assumed",
+  "assumptions": [
+    "The first green block, being 4 units long, is placed at x=0 spanning the entire grid, with 'on the right side of the grid' referring to the placement of the red block on its right end.",
+    "The top green block is aligned with the bottom green block (x=0, z=0) to complete the C-shape."
+  ],
+  "blocks": [
+    {
+      "color": "green",
+      "axis": "x",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 1.0,
+      "z": 0.0
+    },
+    {
+      "color": "green",
+      "axis": "x",
+      "x": 0.0,
+      "y": 5.0,
+      "z": 0.0
+    }
+  ]
+}

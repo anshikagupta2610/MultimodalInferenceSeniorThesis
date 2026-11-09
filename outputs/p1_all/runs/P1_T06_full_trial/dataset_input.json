@@ -1,0 +1,576 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P1",
+  "trial": 6,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P1/6/1",
+      "language": {
+        "text": "All right, so I'm looking at that C shape we made earlier with the green, red, green, but this time placed on the right-hand side of the grid, right? So there's nothing on the left, and then it goes green rectangle piece, red, tall red, and then another green on top, this time with, right, so it just makes a C, right? So it's, yeah, the red piece is all the way at the back, so it's not, like, in the center or anything. So, again, yeah, it's the C shape, but just facing you on the right of the grid.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 5.6,
+            "text": "All right, so I'm looking at that C shape we made earlier with the green, red, green,"
+          },
+          {
+            "start": 5.88,
+            "end": 11.8,
+            "text": "but this time placed on the right-hand side of the grid, right?"
+          },
+          {
+            "start": 11.8,
+            "end": 20.24,
+            "text": "So there's nothing on the left, and then it goes green rectangle piece, red, tall red,"
+          },
+          {
+            "start": 20.52,
+            "end": 25.64,
+            "text": "and then another green on top, this time with, right, so it just makes a C, right?"
+          },
+          {
+            "start": 25.64,
+            "end": 31.74,
+            "text": "So it's, yeah, the red piece is all the way at the back, so it's not, like, in the center"
+          },
+          {
+            "start": 31.74,
+            "end": 32.34,
+            "text": "or anything."
+          },
+          {
+            "start": 32.34,
+            "end": 38.06,
+            "text": "So, again, yeah, it's the C shape, but just facing you on the right of the grid."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.08,
+            "word": "All"
+          },
+          {
+            "start": 1.08,
+            "end": 1.26,
+            "word": "right,"
+          },
+          {
+            "start": 1.38,
+            "end": 1.56,
+            "word": "so"
+          },
+          {
+            "start": 1.56,
+            "end": 1.9,
+            "word": "I'm"
+          },
+          {
+            "start": 1.9,
+            "end": 2.18,
+            "word": "looking"
+          },
+          {
+            "start": 2.18,
+            "end": 2.4,
+            "word": "at"
+          },
+          {
+            "start": 2.4,
+            "end": 2.58,
+            "word": "that"
+          },
+          {
+            "start": 2.58,
+            "end": 2.92,
+            "word": "C"
+          },
+          {
+            "start": 2.92,
+            "end": 3.28,
+            "word": "shape"
+          },
+          {
+            "start": 3.28,
+            "end": 3.46,
+            "word": "we"
+          },
+          {
+            "start": 3.46,
+            "end": 3.68,
+            "word": "made"
+          },
+          {
+            "start": 3.68,
+            "end": 4.08,
+            "word": "earlier"
+          },
+          {
+            "start": 4.08,
+            "end": 4.4,
+            "word": "with"
+          },
+          {
+            "start": 4.4,
+            "end": 4.64,
+            "word": "the"
+          },
+          {
+            "start": 4.64,
+            "end": 4.9,
+            "word": "green,"
+          },
+          {
+            "start": 5.0,
+            "end": 5.18,
+            "word": "red,"
+          },
+          {
+            "start": 5.3,
+            "end": 5.6,
+            "word": "green,"
+          },
+          {
+            "start": 5.88,
+            "end": 6.38,
+            "word": "but"
+          },
+          {
+            "start": 6.38,
+            "end": 6.72,
+            "word": "this"
+          },
+          {
+            "start": 6.72,
+            "end": 7.08,
+            "word": "time"
+          },
+          {
+            "start": 7.08,
+            "end": 7.58,
+            "word": "placed"
+          },
+          {
+            "start": 7.58,
+            "end": 8.38,
+            "word": "on"
+          },
+          {
+            "start": 8.38,
+            "end": 9.14,
+            "word": "the"
+          },
+          {
+            "start": 9.14,
+            "end": 10.36,
+            "word": "right-hand"
+          },
+          {
+            "start": 10.36,
+            "end": 10.68,
+            "word": "side"
+          },
+          {
+            "start": 10.68,
+            "end": 10.82,
+            "word": "of"
+          },
+          {
+            "start": 10.82,
+            "end": 10.96,
+            "word": "the"
+          },
+          {
+            "start": 10.96,
+            "end": 11.24,
+            "word": "grid,"
+          },
+          {
+            "start": 11.4,
+            "end": 11.8,
+            "word": "right?"
+          },
+          {
+            "start": 11.8,
+            "end": 12.18,
+            "word": "So"
+          },
+          {
+            "start": 12.18,
+            "end": 12.64,
+            "word": "there's"
+          },
+          {
+            "start": 12.64,
+            "end": 12.96,
+            "word": "nothing"
+          },
+          {
+            "start": 12.96,
+            "end": 13.28,
+            "word": "on"
+          },
+          {
+            "start": 13.28,
+            "end": 13.44,
+            "word": "the"
+          },
+          {
+            "start": 13.44,
+            "end": 13.72,
+            "word": "left,"
+          },
+          {
+            "start": 13.82,
+            "end": 13.98,
+            "word": "and"
+          },
+          {
+            "start": 13.98,
+            "end": 14.1,
+            "word": "then"
+          },
+          {
+            "start": 14.1,
+            "end": 14.24,
+            "word": "it"
+          },
+          {
+            "start": 14.24,
+            "end": 14.58,
+            "word": "goes"
+          },
+          {
+            "start": 14.58,
+            "end": 16.16,
+            "word": "green"
+          },
+          {
+            "start": 16.16,
+            "end": 17.14,
+            "word": "rectangle"
+          },
+          {
+            "start": 17.14,
+            "end": 17.6,
+            "word": "piece,"
+          },
+          {
+            "start": 18.5,
+            "end": 19.26,
+            "word": "red,"
+          },
+          {
+            "start": 19.48,
+            "end": 19.84,
+            "word": "tall"
+          },
+          {
+            "start": 19.84,
+            "end": 20.24,
+            "word": "red,"
+          },
+          {
+            "start": 20.52,
+            "end": 21.04,
+            "word": "and"
+          },
+          {
+            "start": 21.04,
+            "end": 21.14,
+            "word": "then"
+          },
+          {
+            "start": 21.14,
+            "end": 21.4,
+            "word": "another"
+          },
+          {
+            "start": 21.4,
+            "end": 21.68,
+            "word": "green"
+          },
+          {
+            "start": 21.68,
+            "end": 21.86,
+            "word": "on"
+          },
+          {
+            "start": 21.86,
+            "end": 22.3,
+            "word": "top,"
+          },
+          {
+            "start": 22.72,
+            "end": 22.8,
+            "word": "this"
+          },
+          {
+            "start": 22.8,
+            "end": 23.1,
+            "word": "time"
+          },
+          {
+            "start": 23.1,
+            "end": 23.36,
+            "word": "with,"
+          },
+          {
+            "start": 24.02,
+            "end": 24.22,
+            "word": "right,"
+          },
+          {
+            "start": 24.28,
+            "end": 24.4,
+            "word": "so"
+          },
+          {
+            "start": 24.4,
+            "end": 24.5,
+            "word": "it"
+          },
+          {
+            "start": 24.5,
+            "end": 24.58,
+            "word": "just"
+          },
+          {
+            "start": 24.58,
+            "end": 24.74,
+            "word": "makes"
+          },
+          {
+            "start": 24.74,
+            "end": 24.9,
+            "word": "a"
+          },
+          {
+            "start": 24.9,
+            "end": 25.18,
+            "word": "C,"
+          },
+          {
+            "start": 25.44,
+            "end": 25.64,
+            "word": "right?"
+          },
+          {
+            "start": 25.64,
+            "end": 25.86,
+            "word": "So"
+          },
+          {
+            "start": 25.86,
+            "end": 26.14,
+            "word": "it's,"
+          },
+          {
+            "start": 26.2,
+            "end": 28.08,
+            "word": "yeah,"
+          },
+          {
+            "start": 28.28,
+            "end": 28.34,
+            "word": "the"
+          },
+          {
+            "start": 28.34,
+            "end": 28.84,
+            "word": "red"
+          },
+          {
+            "start": 28.84,
+            "end": 29.06,
+            "word": "piece"
+          },
+          {
+            "start": 29.06,
+            "end": 29.22,
+            "word": "is"
+          },
+          {
+            "start": 29.22,
+            "end": 29.42,
+            "word": "all"
+          },
+          {
+            "start": 29.42,
+            "end": 29.56,
+            "word": "the"
+          },
+          {
+            "start": 29.56,
+            "end": 29.7,
+            "word": "way"
+          },
+          {
+            "start": 29.7,
+            "end": 29.86,
+            "word": "at"
+          },
+          {
+            "start": 29.86,
+            "end": 29.98,
+            "word": "the"
+          },
+          {
+            "start": 29.98,
+            "end": 30.3,
+            "word": "back,"
+          },
+          {
+            "start": 30.44,
+            "end": 30.74,
+            "word": "so"
+          },
+          {
+            "start": 30.74,
+            "end": 30.92,
+            "word": "it's"
+          },
+          {
+            "start": 30.92,
+            "end": 31.1,
+            "word": "not,"
+          },
+          {
+            "start": 31.14,
+            "end": 31.3,
+            "word": "like,"
+          },
+          {
+            "start": 31.36,
+            "end": 31.44,
+            "word": "in"
+          },
+          {
+            "start": 31.44,
+            "end": 31.54,
+            "word": "the"
+          },
+          {
+            "start": 31.54,
+            "end": 31.74,
+            "word": "center"
+          },
+          {
+            "start": 31.74,
+            "end": 31.94,
+            "word": "or"
+          },
+          {
+            "start": 31.94,
+            "end": 32.34,
+            "word": "anything."
+          },
+          {
+            "start": 32.34,
+            "end": 33.44,
+            "word": "So,"
+          },
+          {
+            "start": 33.64,
+            "end": 33.68,
+            "word": "again,"
+          },
+          {
+            "start": 33.8,
+            "end": 33.84,
+            "word": "yeah,"
+          },
+          {
+            "start": 33.94,
+            "end": 34.02,
+            "word": "it's"
+          },
+          {
+            "start": 34.02,
+            "end": 34.18,
+            "word": "the"
+          },
+          {
+            "start": 34.18,
+            "end": 34.34,
+            "word": "C"
+          },
+          {
+            "start": 34.34,
+            "end": 34.6,
+            "word": "shape,"
+          },
+          {
+            "start": 34.68,
+            "end": 34.76,
+            "word": "but"
+          },
+          {
+            "start": 34.76,
+            "end": 34.9,
+            "word": "just"
+          },
+          {
+            "start": 34.9,
+            "end": 35.26,
+            "word": "facing"
+          },
+          {
+            "start": 35.26,
+            "end": 35.58,
+            "word": "you"
+          },
+          {
+            "start": 35.58,
+            "end": 36.26,
+            "word": "on"
+          },
+          {
+            "start": 36.26,
+            "end": 36.56,
+            "word": "the"
+          },
+          {
+            "start": 36.56,
+            "end": 37.02,
+            "word": "right"
+          },
+          {
+            "start": 37.02,
+            "end": 37.68,
+            "word": "of"
+          },
+          {
+            "start": 37.68,
+            "end": 37.82,
+            "word": "the"
+          },
+          {
+            "start": 37.82,
+            "end": 38.06,
+            "word": "grid."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-c2-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-c2-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: All right, so I'm looking at that C shape we made earlier with the green, red, green, but this time placed on the right-hand side of the grid, right? So there's nothing on the left, and then it goes green rectangle piece, red, tall red, and then another green on top, this time with, right, so it just makes a C, right? So it's, yeah, the red piece is all the way at the back, so it's not, like, in the center or anything. So, again, yeah, it's the C shape, but just facing you on the right of the grid."
+}

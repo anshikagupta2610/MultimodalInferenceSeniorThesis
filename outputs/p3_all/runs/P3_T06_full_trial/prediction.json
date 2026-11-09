@@ -1,0 +1,42 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, I also think similar to before, there's a blue brick on the top left and bottom, or sorry, top left and top right of the grid, and then there's one red brick on the top left, and then another red brick on the top left. So blue, red, red.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "R_HxasCmEqnll7oPocHq0AU",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "L",
+    "blocks": [
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "blue brick on the top left and top right of the grid",
+      "one red brick on the top left",
+      "another red brick on the top left"
+    ]
+  },
+  "validation_error": null
+}

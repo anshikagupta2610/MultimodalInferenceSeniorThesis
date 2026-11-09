@@ -1,0 +1,43 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, remember that green and red E we built? We're building it again but now on the left side facing you. So, on the left two things, on the left two things of the grid, you place the green block. On top of that, in the top left thing, you place a red block and then on top of that you place a green block in the same place, in the same orientation as you did at the bottom. So, you have an E facing you on the left side of the grid. So, it's green with a short side facing you, red in the top left corner and then green again. So, there's an E.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "PELxap26Lu3YsbwP14S6uA0",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": null,
+    "blocks": [
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "on the left two things, on the left two things of the grid, you place the green block.",
+      "green with a short side facing you",
+      "On top of that, in the top left thing, you place a red block",
+      "on top of that you place a green block in the same place, in the same orientation as you did at the bottom."
+    ]
+  },
+  "validation_error": null
+}

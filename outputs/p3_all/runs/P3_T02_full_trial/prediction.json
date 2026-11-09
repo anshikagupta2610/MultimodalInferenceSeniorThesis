@@ -1,0 +1,42 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so there's a green brick that's going from the bottom left grid to the top left grid. And then on the top left grid, on top of the green, there's a red vertical brick. And then there's another green brick that's on top of that red brick that's mirroring the first green brick that goes from the bottom left to the top left. So it's green brick, bottom left, top left, red brick, top left, and then green brick, bottom left, top left.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "EfHxavPQLumZotQP1PfEsQg",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": null,
+    "blocks": [
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "there's a green brick that's going from the bottom left grid to the top left grid",
+      "on the top left grid, on top of the green, there's a red vertical brick",
+      "another green brick that's on top of that red brick that's mirroring the first green brick that goes from the bottom left to the top left"
+    ]
+  },
+  "validation_error": null
+}

@@ -1,0 +1,45 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, we're making that funky tree kind of thing again. So this is going to be in the top right quadrant. And it is going to be the red piece on the bottom, and then centered on it, the green piece with the overhanging studs facing you. And then again, perpendicular to that is the blue piece. So again, centralized on it, right? So it's going to go red, green, and yeah, that's just yeah, again, top, top right quadrant.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "mkDxaqrOJoDnsbwPz7318QU",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "TREE",
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 2.0,
+        "y": 4.0,
+        "z": -1.0
+      },
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 1.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "Okay, we're making that funky tree kind of thing again.",
+      "So this is going to be in the top right quadrant.",
+      "And it is going to be the red piece on the bottom",
+      "and then centered on it, the green piece with the overhanging studs facing you.",
+      "And then again, perpendicular to that is the blue piece.",
+      "So again, centralized on it, right?"
+    ]
+  },
+  "validation_error": null
+}

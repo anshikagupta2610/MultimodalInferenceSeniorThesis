@@ -1,0 +1,491 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P3",
+  "trial": 2,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P3/2/1",
+      "language": {
+        "text": "Okay, so there's a green brick that's going from the bottom left grid to the top left grid. And then on the top left grid, on top of the green, there's a red vertical brick. And then there's another green brick that's on top of that red brick that's mirroring the first green brick that goes from the bottom left to the top left. So it's green brick, bottom left, top left, red brick, top left, and then green brick, bottom left, top left.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 6.84,
+            "text": "Okay, so there's a green brick that's going from the bottom left grid to the top left"
+          },
+          {
+            "start": 6.84,
+            "end": 7.54,
+            "text": "grid."
+          },
+          {
+            "start": 8.1,
+            "end": 16.02,
+            "text": "And then on the top left grid, on top of the green, there's a red vertical brick."
+          },
+          {
+            "start": 16.68,
+            "end": 21.82,
+            "text": "And then there's another green brick that's on top of that red brick that's mirroring"
+          },
+          {
+            "start": 22.4,
+            "end": 27.46,
+            "text": "the first green brick that goes from the bottom left to the top left."
+          },
+          {
+            "start": 27.98,
+            "end": 34.48,
+            "text": "So it's green brick, bottom left, top left, red brick, top left, and then green brick,"
+          },
+          {
+            "start": 34.48,
+            "end": 36.04,
+            "text": "bottom left, top left."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.44,
+            "word": "Okay,"
+          },
+          {
+            "start": 1.68,
+            "end": 1.9,
+            "word": "so"
+          },
+          {
+            "start": 1.9,
+            "end": 2.36,
+            "word": "there's"
+          },
+          {
+            "start": 2.36,
+            "end": 2.92,
+            "word": "a"
+          },
+          {
+            "start": 2.92,
+            "end": 3.28,
+            "word": "green"
+          },
+          {
+            "start": 3.28,
+            "end": 3.58,
+            "word": "brick"
+          },
+          {
+            "start": 3.58,
+            "end": 3.86,
+            "word": "that's"
+          },
+          {
+            "start": 3.86,
+            "end": 4.06,
+            "word": "going"
+          },
+          {
+            "start": 4.06,
+            "end": 4.3,
+            "word": "from"
+          },
+          {
+            "start": 4.3,
+            "end": 4.46,
+            "word": "the"
+          },
+          {
+            "start": 4.46,
+            "end": 4.78,
+            "word": "bottom"
+          },
+          {
+            "start": 4.78,
+            "end": 5.04,
+            "word": "left"
+          },
+          {
+            "start": 5.04,
+            "end": 5.32,
+            "word": "grid"
+          },
+          {
+            "start": 5.32,
+            "end": 5.64,
+            "word": "to"
+          },
+          {
+            "start": 5.64,
+            "end": 5.92,
+            "word": "the"
+          },
+          {
+            "start": 5.92,
+            "end": 6.7,
+            "word": "top"
+          },
+          {
+            "start": 6.7,
+            "end": 6.84,
+            "word": "left"
+          },
+          {
+            "start": 6.84,
+            "end": 7.54,
+            "word": "grid."
+          },
+          {
+            "start": 8.1,
+            "end": 8.3,
+            "word": "And"
+          },
+          {
+            "start": 8.3,
+            "end": 8.62,
+            "word": "then"
+          },
+          {
+            "start": 8.62,
+            "end": 8.88,
+            "word": "on"
+          },
+          {
+            "start": 8.88,
+            "end": 9.08,
+            "word": "the"
+          },
+          {
+            "start": 9.08,
+            "end": 9.64,
+            "word": "top"
+          },
+          {
+            "start": 9.64,
+            "end": 10.16,
+            "word": "left"
+          },
+          {
+            "start": 10.16,
+            "end": 10.68,
+            "word": "grid,"
+          },
+          {
+            "start": 11.12,
+            "end": 11.16,
+            "word": "on"
+          },
+          {
+            "start": 11.16,
+            "end": 11.4,
+            "word": "top"
+          },
+          {
+            "start": 11.4,
+            "end": 11.54,
+            "word": "of"
+          },
+          {
+            "start": 11.54,
+            "end": 11.64,
+            "word": "the"
+          },
+          {
+            "start": 11.64,
+            "end": 11.98,
+            "word": "green,"
+          },
+          {
+            "start": 12.22,
+            "end": 12.44,
+            "word": "there's"
+          },
+          {
+            "start": 12.44,
+            "end": 12.6,
+            "word": "a"
+          },
+          {
+            "start": 12.6,
+            "end": 13.34,
+            "word": "red"
+          },
+          {
+            "start": 13.34,
+            "end": 15.6,
+            "word": "vertical"
+          },
+          {
+            "start": 15.6,
+            "end": 16.02,
+            "word": "brick."
+          },
+          {
+            "start": 16.68,
+            "end": 16.88,
+            "word": "And"
+          },
+          {
+            "start": 16.88,
+            "end": 17.3,
+            "word": "then"
+          },
+          {
+            "start": 17.3,
+            "end": 17.96,
+            "word": "there's"
+          },
+          {
+            "start": 17.96,
+            "end": 18.28,
+            "word": "another"
+          },
+          {
+            "start": 18.28,
+            "end": 18.74,
+            "word": "green"
+          },
+          {
+            "start": 18.74,
+            "end": 19.04,
+            "word": "brick"
+          },
+          {
+            "start": 19.04,
+            "end": 19.34,
+            "word": "that's"
+          },
+          {
+            "start": 19.34,
+            "end": 19.5,
+            "word": "on"
+          },
+          {
+            "start": 19.5,
+            "end": 19.82,
+            "word": "top"
+          },
+          {
+            "start": 19.82,
+            "end": 20.12,
+            "word": "of"
+          },
+          {
+            "start": 20.12,
+            "end": 20.42,
+            "word": "that"
+          },
+          {
+            "start": 20.42,
+            "end": 20.64,
+            "word": "red"
+          },
+          {
+            "start": 20.64,
+            "end": 20.92,
+            "word": "brick"
+          },
+          {
+            "start": 20.92,
+            "end": 21.22,
+            "word": "that's"
+          },
+          {
+            "start": 21.22,
+            "end": 21.82,
+            "word": "mirroring"
+          },
+          {
+            "start": 22.4,
+            "end": 22.78,
+            "word": "the"
+          },
+          {
+            "start": 22.78,
+            "end": 23.28,
+            "word": "first"
+          },
+          {
+            "start": 23.28,
+            "end": 23.56,
+            "word": "green"
+          },
+          {
+            "start": 23.56,
+            "end": 23.9,
+            "word": "brick"
+          },
+          {
+            "start": 23.9,
+            "end": 24.3,
+            "word": "that"
+          },
+          {
+            "start": 24.3,
+            "end": 24.52,
+            "word": "goes"
+          },
+          {
+            "start": 24.52,
+            "end": 24.68,
+            "word": "from"
+          },
+          {
+            "start": 24.68,
+            "end": 24.82,
+            "word": "the"
+          },
+          {
+            "start": 24.82,
+            "end": 25.1,
+            "word": "bottom"
+          },
+          {
+            "start": 25.1,
+            "end": 25.52,
+            "word": "left"
+          },
+          {
+            "start": 25.52,
+            "end": 26.04,
+            "word": "to"
+          },
+          {
+            "start": 26.04,
+            "end": 26.72,
+            "word": "the"
+          },
+          {
+            "start": 26.72,
+            "end": 27.04,
+            "word": "top"
+          },
+          {
+            "start": 27.04,
+            "end": 27.46,
+            "word": "left."
+          },
+          {
+            "start": 27.98,
+            "end": 28.06,
+            "word": "So"
+          },
+          {
+            "start": 28.06,
+            "end": 29.02,
+            "word": "it's"
+          },
+          {
+            "start": 29.02,
+            "end": 29.62,
+            "word": "green"
+          },
+          {
+            "start": 29.62,
+            "end": 29.96,
+            "word": "brick,"
+          },
+          {
+            "start": 30.14,
+            "end": 30.42,
+            "word": "bottom"
+          },
+          {
+            "start": 30.42,
+            "end": 30.64,
+            "word": "left,"
+          },
+          {
+            "start": 30.7,
+            "end": 30.94,
+            "word": "top"
+          },
+          {
+            "start": 30.94,
+            "end": 31.24,
+            "word": "left,"
+          },
+          {
+            "start": 31.56,
+            "end": 31.98,
+            "word": "red"
+          },
+          {
+            "start": 31.98,
+            "end": 32.26,
+            "word": "brick,"
+          },
+          {
+            "start": 32.4,
+            "end": 32.64,
+            "word": "top"
+          },
+          {
+            "start": 32.64,
+            "end": 33.02,
+            "word": "left,"
+          },
+          {
+            "start": 33.34,
+            "end": 33.42,
+            "word": "and"
+          },
+          {
+            "start": 33.42,
+            "end": 33.8,
+            "word": "then"
+          },
+          {
+            "start": 33.8,
+            "end": 34.24,
+            "word": "green"
+          },
+          {
+            "start": 34.24,
+            "end": 34.48,
+            "word": "brick,"
+          },
+          {
+            "start": 34.48,
+            "end": 34.8,
+            "word": "bottom"
+          },
+          {
+            "start": 34.8,
+            "end": 35.12,
+            "word": "left,"
+          },
+          {
+            "start": 35.48,
+            "end": 35.72,
+            "word": "top"
+          },
+          {
+            "start": 35.72,
+            "end": 36.04,
+            "word": "left."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-c4-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-c4-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so there's a green brick that's going from the bottom left grid to the top left grid. And then on the top left grid, on top of the green, there's a red vertical brick. And then there's another green brick that's on top of that red brick that's mirroring the first green brick that goes from the bottom left to the top left. So it's green brick, bottom left, top left, red brick, top left, and then green brick, bottom left, top left."
+}

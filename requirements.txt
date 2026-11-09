@@ -1,0 +1,5 @@
+google-genai
+pydantic>=2
+matplotlib
+python-dotenv
+# for video rendering, install ffmpeg on your system

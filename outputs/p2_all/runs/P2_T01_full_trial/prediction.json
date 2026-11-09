@@ -1,0 +1,46 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, hi. So you see a grid in front of you. Take a blue block and with its long side facing you and place it on the two squares of the grid that are further away from you. Then take a red block and place it on the right side of the blue block. And then take another red block and place it on top of that red block.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "h0HxatyHJNfdsbwPvsXN6Qg",
+  "source": "live_llm",
+  "prediction": {
+    "status": "assumed",
+    "shape": null,
+    "blocks": [
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [
+      "The blue block's 'long side facing you' refers to its default axis=x orientation, where its 4-unit dimension is parallel to the x-axis.",
+      "The phrase 'on the right side of the blue block' implies placing the red block on top of the right half of the blue block.",
+      "Stacked blocks are vertically aligned and centered on their supporting block."
+    ],
+    "unresolved": [],
+    "evidence": [
+      "Take a blue block and with its long side facing you and place it on the two squares of the grid that are further away from you.",
+      "Then take a red block and place it on the right side of the blue block.",
+      "And then take another red block and place it on top of that red block."
+    ]
+  },
+  "validation_error": null
+}

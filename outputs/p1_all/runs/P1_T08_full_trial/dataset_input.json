@@ -1,0 +1,461 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P1",
+  "trial": 8,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P1/8/1",
+      "language": {
+        "text": "Okay, we're making that funky tree kind of thing again. So this is going to be in the top right quadrant. And it is going to be the red piece on the bottom, and then centered on it, the green piece with the overhanging studs facing you. And then again, perpendicular to that is the blue piece. So again, centralized on it, right? So it's going to go red, green, and yeah, that's just yeah, again, top, top right quadrant.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 6.46,
+            "text": "Okay, we're making that funky tree kind of thing again. So this is going to be in the"
+          },
+          {
+            "start": 6.46,
+            "end": 16.92,
+            "text": "top right quadrant. And it is going to be the red piece on the bottom, and then centered"
+          },
+          {
+            "start": 16.92,
+            "end": 25.34,
+            "text": "on it, the green piece with the overhanging studs facing you. And then again, perpendicular"
+          },
+          {
+            "start": 25.34,
+            "end": 34.42,
+            "text": "to that is the blue piece. So again, centralized on it, right? So it's going to go red, green,"
+          },
+          {
+            "start": 35.94,
+            "end": 44.34,
+            "text": "and yeah, that's just yeah, again, top, top right quadrant."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.56,
+            "word": "Okay,"
+          },
+          {
+            "start": 1.7,
+            "end": 1.82,
+            "word": "we're"
+          },
+          {
+            "start": 1.82,
+            "end": 2.0,
+            "word": "making"
+          },
+          {
+            "start": 2.0,
+            "end": 2.18,
+            "word": "that"
+          },
+          {
+            "start": 2.18,
+            "end": 2.58,
+            "word": "funky"
+          },
+          {
+            "start": 2.58,
+            "end": 3.18,
+            "word": "tree"
+          },
+          {
+            "start": 3.18,
+            "end": 3.96,
+            "word": "kind"
+          },
+          {
+            "start": 3.96,
+            "end": 4.12,
+            "word": "of"
+          },
+          {
+            "start": 4.12,
+            "end": 4.38,
+            "word": "thing"
+          },
+          {
+            "start": 4.38,
+            "end": 4.78,
+            "word": "again."
+          },
+          {
+            "start": 5.22,
+            "end": 5.42,
+            "word": "So"
+          },
+          {
+            "start": 5.42,
+            "end": 5.78,
+            "word": "this"
+          },
+          {
+            "start": 5.78,
+            "end": 5.94,
+            "word": "is"
+          },
+          {
+            "start": 5.94,
+            "end": 6.04,
+            "word": "going"
+          },
+          {
+            "start": 6.04,
+            "end": 6.1,
+            "word": "to"
+          },
+          {
+            "start": 6.1,
+            "end": 6.2,
+            "word": "be"
+          },
+          {
+            "start": 6.2,
+            "end": 6.32,
+            "word": "in"
+          },
+          {
+            "start": 6.32,
+            "end": 6.46,
+            "word": "the"
+          },
+          {
+            "start": 6.46,
+            "end": 6.84,
+            "word": "top"
+          },
+          {
+            "start": 6.84,
+            "end": 7.24,
+            "word": "right"
+          },
+          {
+            "start": 7.24,
+            "end": 7.86,
+            "word": "quadrant."
+          },
+          {
+            "start": 8.96,
+            "end": 10.62,
+            "word": "And"
+          },
+          {
+            "start": 10.62,
+            "end": 11.3,
+            "word": "it"
+          },
+          {
+            "start": 11.3,
+            "end": 11.62,
+            "word": "is"
+          },
+          {
+            "start": 11.62,
+            "end": 11.84,
+            "word": "going"
+          },
+          {
+            "start": 11.84,
+            "end": 12.06,
+            "word": "to"
+          },
+          {
+            "start": 12.06,
+            "end": 12.4,
+            "word": "be"
+          },
+          {
+            "start": 12.4,
+            "end": 13.12,
+            "word": "the"
+          },
+          {
+            "start": 13.12,
+            "end": 13.88,
+            "word": "red"
+          },
+          {
+            "start": 13.88,
+            "end": 14.26,
+            "word": "piece"
+          },
+          {
+            "start": 14.26,
+            "end": 14.56,
+            "word": "on"
+          },
+          {
+            "start": 14.56,
+            "end": 14.72,
+            "word": "the"
+          },
+          {
+            "start": 14.72,
+            "end": 15.04,
+            "word": "bottom,"
+          },
+          {
+            "start": 15.06,
+            "end": 15.88,
+            "word": "and"
+          },
+          {
+            "start": 15.88,
+            "end": 16.2,
+            "word": "then"
+          },
+          {
+            "start": 16.2,
+            "end": 16.92,
+            "word": "centered"
+          },
+          {
+            "start": 16.92,
+            "end": 17.16,
+            "word": "on"
+          },
+          {
+            "start": 17.16,
+            "end": 17.36,
+            "word": "it,"
+          },
+          {
+            "start": 17.46,
+            "end": 17.56,
+            "word": "the"
+          },
+          {
+            "start": 17.56,
+            "end": 17.9,
+            "word": "green"
+          },
+          {
+            "start": 17.9,
+            "end": 18.36,
+            "word": "piece"
+          },
+          {
+            "start": 18.36,
+            "end": 18.94,
+            "word": "with"
+          },
+          {
+            "start": 18.94,
+            "end": 19.66,
+            "word": "the"
+          },
+          {
+            "start": 19.66,
+            "end": 21.98,
+            "word": "overhanging"
+          },
+          {
+            "start": 21.98,
+            "end": 22.54,
+            "word": "studs"
+          },
+          {
+            "start": 22.54,
+            "end": 22.88,
+            "word": "facing"
+          },
+          {
+            "start": 22.88,
+            "end": 23.26,
+            "word": "you."
+          },
+          {
+            "start": 24.22,
+            "end": 24.28,
+            "word": "And"
+          },
+          {
+            "start": 24.28,
+            "end": 24.42,
+            "word": "then"
+          },
+          {
+            "start": 24.42,
+            "end": 24.66,
+            "word": "again,"
+          },
+          {
+            "start": 24.8,
+            "end": 25.34,
+            "word": "perpendicular"
+          },
+          {
+            "start": 25.34,
+            "end": 25.54,
+            "word": "to"
+          },
+          {
+            "start": 25.54,
+            "end": 25.88,
+            "word": "that"
+          },
+          {
+            "start": 25.88,
+            "end": 26.76,
+            "word": "is"
+          },
+          {
+            "start": 26.76,
+            "end": 27.14,
+            "word": "the"
+          },
+          {
+            "start": 27.14,
+            "end": 27.34,
+            "word": "blue"
+          },
+          {
+            "start": 27.34,
+            "end": 27.76,
+            "word": "piece."
+          },
+          {
+            "start": 28.58,
+            "end": 28.72,
+            "word": "So"
+          },
+          {
+            "start": 28.72,
+            "end": 29.62,
+            "word": "again,"
+          },
+          {
+            "start": 30.02,
+            "end": 30.48,
+            "word": "centralized"
+          },
+          {
+            "start": 30.48,
+            "end": 31.18,
+            "word": "on"
+          },
+          {
+            "start": 31.18,
+            "end": 31.36,
+            "word": "it,"
+          },
+          {
+            "start": 31.46,
+            "end": 31.66,
+            "word": "right?"
+          },
+          {
+            "start": 31.92,
+            "end": 32.06,
+            "word": "So"
+          },
+          {
+            "start": 32.06,
+            "end": 32.62,
+            "word": "it's"
+          },
+          {
+            "start": 32.62,
+            "end": 32.7,
+            "word": "going"
+          },
+          {
+            "start": 32.7,
+            "end": 32.76,
+            "word": "to"
+          },
+          {
+            "start": 32.76,
+            "end": 32.94,
+            "word": "go"
+          },
+          {
+            "start": 32.94,
+            "end": 33.38,
+            "word": "red,"
+          },
+          {
+            "start": 33.8,
+            "end": 34.42,
+            "word": "green,"
+          },
+          {
+            "start": 35.94,
+            "end": 38.26,
+            "word": "and"
+          },
+          {
+            "start": 38.26,
+            "end": 41.34,
+            "word": "yeah,"
+          },
+          {
+            "start": 41.42,
+            "end": 41.58,
+            "word": "that's"
+          },
+          {
+            "start": 41.58,
+            "end": 41.72,
+            "word": "just"
+          },
+          {
+            "start": 41.72,
+            "end": 41.94,
+            "word": "yeah,"
+          },
+          {
+            "start": 42.06,
+            "end": 42.16,
+            "word": "again,"
+          },
+          {
+            "start": 42.28,
+            "end": 42.56,
+            "word": "top,"
+          },
+          {
+            "start": 42.6,
+            "end": 43.18,
+            "word": "top"
+          },
+          {
+            "start": 43.18,
+            "end": 43.66,
+            "word": "right"
+          },
+          {
+            "start": 43.66,
+            "end": 44.34,
+            "word": "quadrant."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-tr4-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-tr4-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, we're making that funky tree kind of thing again. So this is going to be in the top right quadrant. And it is going to be the red piece on the bottom, and then centered on it, the green piece with the overhanging studs facing you. And then again, perpendicular to that is the blue piece. So again, centralized on it, right? So it's going to go red, green, and yeah, that's just yeah, again, top, top right quadrant."
+}

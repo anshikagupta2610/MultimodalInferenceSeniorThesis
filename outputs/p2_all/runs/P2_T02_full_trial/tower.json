@@ -1,0 +1,35 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": null,
+  "status": "assumed",
+  "assumptions": [
+    "\"short side facing you\" for a green block (2x1x4 or 4x1x2) means its 2-unit dimension is along the z-axis, implying the block is oriented with axis=x (4,1,2).",
+    "The first green block, being 4 units long, is placed at x=0, z=2 to cover the entire front row, satisfying \"on the right hand side of the grid\" by covering the right-front cell.",
+    "The second green block is centered on the red block below it.",
+    "The final description of an \"E shape\" is a loose characterization for the resulting I-like stack, as the specific instructions and block count do not form a typical E."
+  ],
+  "blocks": [
+    {
+      "color": "green",
+      "axis": "x",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 1.0,
+      "z": 2.0
+    },
+    {
+      "color": "green",
+      "axis": "x",
+      "x": 1.0,
+      "y": 5.0,
+      "z": 2.0
+    }
+  ]
+}

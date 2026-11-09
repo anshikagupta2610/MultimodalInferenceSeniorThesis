@@ -1,0 +1,45 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: recording. So you want to take a blue block with the long side facing you and put it in the bottom two squares over here so that the long side is facing you and the bottom two squares of the grid and then on this left side in the bottom left corner on top of the blue block you want to put a red block and then on top of that red block you want to put another red block. So you have an L shaped like this with two red blocks on top of one horizontal blue block on the bottom of the grid.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "GELxatDaM-nhsbwP28KBuAg",
+  "source": "live_llm",
+  "prediction": {
+    "status": "assumed",
+    "shape": "L",
+    "blocks": [
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 1.0,
+        "z": 2.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 2.0
+      }
+    ],
+    "assumptions": [
+      "The instruction \"long side facing you\" for the blue block was interpreted as the block being oriented horizontally across the front of the grid (axis=x), consistent with the explicit \"L shaped\" and \"horizontal blue block\" descriptions, rather than oriented along the z-axis."
+    ],
+    "unresolved": [],
+    "evidence": [
+      "take a blue block with the long side facing you and put it in the bottom two squares over here",
+      "on this left side in the bottom left corner on top of the blue block you want to put a red block",
+      "on top of that red block you want to put another red block",
+      "So you have an L shaped like this with two red blocks on top of one horizontal blue block on the bottom of the grid."
+    ]
+  },
+  "validation_error": null
+}

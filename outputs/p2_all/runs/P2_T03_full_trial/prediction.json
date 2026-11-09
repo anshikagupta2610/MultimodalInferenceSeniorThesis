@@ -1,0 +1,43 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Oh, hi. So in the bottom left corner of the grid, you want to put a red block. Now on top of the red block, I want you to take a green block with the short side facing you and put it so that the center of it is on top of the red block. So there's two on this, there's two on the side facing you for the red block and two dots on the side facing away. And then on top of the green block, take a blue block with the long side facing you, not the short side. So you have a and place it on top of the center of the green block so that only four squares are overlapping and there's two dots of the blue on either side of the green block. So you go up and you have kind of a T here and then above the T you have this. You have the blue block in the center of the green block. So red block in the bottom left corner, green block on top of that with the center with the short side facing you and then on top of the green block in the center of the green block you have the blue block with the long side facing you with its center on top of the green block center. Oh, how do I stop recording? There we go.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "1EHxasKOMc2ZsbwPgfma4AQ",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "TREE",
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "green",
+        "axis": "x",
+        "x": -1.0,
+        "y": 4.0,
+        "z": 2.0
+      },
+      {
+        "color": "blue",
+        "axis": "z",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 1.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "in the bottom left corner of the grid, you want to put a red block.",
+      "Now on top of the red block, I want you to take a green block with the short side facing you and put it so that the center of it is on top of the red block.",
+      "And then on top of the green block, take a blue block with the long side facing you, not the short side.",
+      "place it on top of the center of the green block so that only four squares are overlapping and there's two dots of the blue on either side of the green block."
+    ]
+  },
+  "validation_error": null
+}

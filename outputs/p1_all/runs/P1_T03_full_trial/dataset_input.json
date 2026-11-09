@@ -1,0 +1,1171 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P1",
+  "trial": 3,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P1/3/1",
+      "language": {
+        "text": "Okay, so for this one, we are only using the top left quadrant of the 2x2 grid, and there's going to be a red tall piece as the base, right? So this is in the top left quadrant. On top of the red tall piece is going to be a green piece that is oriented so that this sort of the skinny end is facing towards you, but it is placed in the middle is the part that connects to the red piece, right? So there should be, there should be, it essentially makes a T, right? So it's in the middle. Then on top of the green piece is a blue piece placed again in the middle, but perpendicular, right? So it's going to be, kind of makes a tree shape almost. So it's going to be red tall piece, green piece facing you, and then blue piece oriented perpendicular to the green piece. And so it's all connected kind of in one, in one, one column, right? There's only, only the middle sort of four are the bits that connect. So you should have, you should have sort of two studs facing you this way, two studs back, one and two and out, out, okay. Stop recording.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 13.68,
+            "text": "Okay, so for this one, we are only using the top left quadrant of the 2x2 grid, and there's"
+          },
+          {
+            "start": 13.68,
+            "end": 17.0,
+            "text": "going to be a red tall piece as the base, right?"
+          },
+          {
+            "start": 17.0,
+            "end": 18.74,
+            "text": "So this is in the top left quadrant."
+          },
+          {
+            "start": 19.06,
+            "end": 27.68,
+            "text": "On top of the red tall piece is going to be a green piece that is oriented so that this"
+          },
+          {
+            "start": 27.68,
+            "end": 35.2,
+            "text": "sort of the skinny end is facing towards you, but it is placed in the middle is the part"
+          },
+          {
+            "start": 35.2,
+            "end": 36.54,
+            "text": "that connects to the red piece, right?"
+          },
+          {
+            "start": 36.54,
+            "end": 42.34,
+            "text": "So there should be, there should be, it essentially makes a T, right?"
+          },
+          {
+            "start": 42.34,
+            "end": 43.22,
+            "text": "So it's in the middle."
+          },
+          {
+            "start": 43.54,
+            "end": 50.4,
+            "text": "Then on top of the green piece is a blue piece placed again in the middle, but perpendicular,"
+          },
+          {
+            "start": 50.4,
+            "end": 50.86,
+            "text": "right?"
+          },
+          {
+            "start": 50.86,
+            "end": 54.3,
+            "text": "So it's going to be, kind of makes a tree shape almost."
+          },
+          {
+            "start": 54.3,
+            "end": 62.32,
+            "text": "So it's going to be red tall piece, green piece facing you, and then blue piece oriented"
+          },
+          {
+            "start": 62.32,
+            "end": 63.94,
+            "text": "perpendicular to the green piece."
+          },
+          {
+            "start": 64.24,
+            "end": 70.84,
+            "text": "And so it's all connected kind of in one, in one, one column, right?"
+          },
+          {
+            "start": 70.84,
+            "end": 75.0,
+            "text": "There's only, only the middle sort of four are the bits that connect."
+          },
+          {
+            "start": 75.72,
+            "end": 81.78,
+            "text": "So you should have, you should have sort of two studs facing you this way, two studs back,"
+          },
+          {
+            "start": 82.08,
+            "end": 83.84,
+            "text": "one and two and out, out, okay."
+          },
+          {
+            "start": 86.56,
+            "end": 87.52,
+            "text": "Stop recording."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 2.3,
+            "word": "Okay,"
+          },
+          {
+            "start": 2.52,
+            "end": 3.14,
+            "word": "so"
+          },
+          {
+            "start": 3.14,
+            "end": 3.48,
+            "word": "for"
+          },
+          {
+            "start": 3.48,
+            "end": 3.76,
+            "word": "this"
+          },
+          {
+            "start": 3.76,
+            "end": 4.16,
+            "word": "one,"
+          },
+          {
+            "start": 4.38,
+            "end": 5.32,
+            "word": "we"
+          },
+          {
+            "start": 5.32,
+            "end": 6.04,
+            "word": "are"
+          },
+          {
+            "start": 6.04,
+            "end": 7.12,
+            "word": "only"
+          },
+          {
+            "start": 7.12,
+            "end": 7.72,
+            "word": "using"
+          },
+          {
+            "start": 7.72,
+            "end": 8.2,
+            "word": "the"
+          },
+          {
+            "start": 8.2,
+            "end": 8.82,
+            "word": "top"
+          },
+          {
+            "start": 8.82,
+            "end": 9.44,
+            "word": "left"
+          },
+          {
+            "start": 9.44,
+            "end": 10.1,
+            "word": "quadrant"
+          },
+          {
+            "start": 10.1,
+            "end": 10.74,
+            "word": "of"
+          },
+          {
+            "start": 10.74,
+            "end": 11.26,
+            "word": "the"
+          },
+          {
+            "start": 11.26,
+            "end": 12.38,
+            "word": "2x2"
+          },
+          {
+            "start": 12.38,
+            "end": 12.68,
+            "word": "grid,"
+          },
+          {
+            "start": 12.98,
+            "end": 13.44,
+            "word": "and"
+          },
+          {
+            "start": 13.44,
+            "end": 13.68,
+            "word": "there's"
+          },
+          {
+            "start": 13.68,
+            "end": 13.86,
+            "word": "going"
+          },
+          {
+            "start": 13.86,
+            "end": 14.06,
+            "word": "to"
+          },
+          {
+            "start": 14.06,
+            "end": 14.28,
+            "word": "be"
+          },
+          {
+            "start": 14.28,
+            "end": 14.52,
+            "word": "a"
+          },
+          {
+            "start": 14.52,
+            "end": 15.1,
+            "word": "red"
+          },
+          {
+            "start": 15.1,
+            "end": 15.46,
+            "word": "tall"
+          },
+          {
+            "start": 15.46,
+            "end": 15.8,
+            "word": "piece"
+          },
+          {
+            "start": 15.8,
+            "end": 16.04,
+            "word": "as"
+          },
+          {
+            "start": 16.04,
+            "end": 16.18,
+            "word": "the"
+          },
+          {
+            "start": 16.18,
+            "end": 16.54,
+            "word": "base,"
+          },
+          {
+            "start": 16.86,
+            "end": 17.0,
+            "word": "right?"
+          },
+          {
+            "start": 17.0,
+            "end": 17.22,
+            "word": "So"
+          },
+          {
+            "start": 17.22,
+            "end": 17.46,
+            "word": "this"
+          },
+          {
+            "start": 17.46,
+            "end": 17.6,
+            "word": "is"
+          },
+          {
+            "start": 17.6,
+            "end": 17.72,
+            "word": "in"
+          },
+          {
+            "start": 17.72,
+            "end": 17.84,
+            "word": "the"
+          },
+          {
+            "start": 17.84,
+            "end": 18.06,
+            "word": "top"
+          },
+          {
+            "start": 18.06,
+            "end": 18.3,
+            "word": "left"
+          },
+          {
+            "start": 18.3,
+            "end": 18.74,
+            "word": "quadrant."
+          },
+          {
+            "start": 19.06,
+            "end": 19.58,
+            "word": "On"
+          },
+          {
+            "start": 19.58,
+            "end": 20.0,
+            "word": "top"
+          },
+          {
+            "start": 20.0,
+            "end": 20.24,
+            "word": "of"
+          },
+          {
+            "start": 20.24,
+            "end": 20.42,
+            "word": "the"
+          },
+          {
+            "start": 20.42,
+            "end": 20.62,
+            "word": "red"
+          },
+          {
+            "start": 20.62,
+            "end": 20.86,
+            "word": "tall"
+          },
+          {
+            "start": 20.86,
+            "end": 21.24,
+            "word": "piece"
+          },
+          {
+            "start": 21.24,
+            "end": 21.76,
+            "word": "is"
+          },
+          {
+            "start": 21.76,
+            "end": 22.0,
+            "word": "going"
+          },
+          {
+            "start": 22.0,
+            "end": 22.3,
+            "word": "to"
+          },
+          {
+            "start": 22.3,
+            "end": 22.62,
+            "word": "be"
+          },
+          {
+            "start": 22.62,
+            "end": 23.12,
+            "word": "a"
+          },
+          {
+            "start": 23.12,
+            "end": 23.58,
+            "word": "green"
+          },
+          {
+            "start": 23.58,
+            "end": 24.06,
+            "word": "piece"
+          },
+          {
+            "start": 24.06,
+            "end": 24.48,
+            "word": "that"
+          },
+          {
+            "start": 24.48,
+            "end": 24.84,
+            "word": "is"
+          },
+          {
+            "start": 24.84,
+            "end": 25.5,
+            "word": "oriented"
+          },
+          {
+            "start": 25.5,
+            "end": 27.2,
+            "word": "so"
+          },
+          {
+            "start": 27.2,
+            "end": 27.44,
+            "word": "that"
+          },
+          {
+            "start": 27.44,
+            "end": 27.68,
+            "word": "this"
+          },
+          {
+            "start": 27.68,
+            "end": 28.06,
+            "word": "sort"
+          },
+          {
+            "start": 28.06,
+            "end": 28.2,
+            "word": "of"
+          },
+          {
+            "start": 28.2,
+            "end": 28.34,
+            "word": "the"
+          },
+          {
+            "start": 28.34,
+            "end": 28.62,
+            "word": "skinny"
+          },
+          {
+            "start": 28.62,
+            "end": 29.1,
+            "word": "end"
+          },
+          {
+            "start": 29.1,
+            "end": 29.64,
+            "word": "is"
+          },
+          {
+            "start": 29.64,
+            "end": 29.94,
+            "word": "facing"
+          },
+          {
+            "start": 29.94,
+            "end": 30.26,
+            "word": "towards"
+          },
+          {
+            "start": 30.26,
+            "end": 30.54,
+            "word": "you,"
+          },
+          {
+            "start": 30.98,
+            "end": 31.34,
+            "word": "but"
+          },
+          {
+            "start": 31.34,
+            "end": 31.58,
+            "word": "it"
+          },
+          {
+            "start": 31.58,
+            "end": 31.86,
+            "word": "is"
+          },
+          {
+            "start": 31.86,
+            "end": 32.52,
+            "word": "placed"
+          },
+          {
+            "start": 32.52,
+            "end": 33.12,
+            "word": "in"
+          },
+          {
+            "start": 33.12,
+            "end": 33.96,
+            "word": "the"
+          },
+          {
+            "start": 33.96,
+            "end": 34.38,
+            "word": "middle"
+          },
+          {
+            "start": 34.38,
+            "end": 34.82,
+            "word": "is"
+          },
+          {
+            "start": 34.82,
+            "end": 34.98,
+            "word": "the"
+          },
+          {
+            "start": 34.98,
+            "end": 35.2,
+            "word": "part"
+          },
+          {
+            "start": 35.2,
+            "end": 35.34,
+            "word": "that"
+          },
+          {
+            "start": 35.34,
+            "end": 35.68,
+            "word": "connects"
+          },
+          {
+            "start": 35.68,
+            "end": 35.88,
+            "word": "to"
+          },
+          {
+            "start": 35.88,
+            "end": 36.0,
+            "word": "the"
+          },
+          {
+            "start": 36.0,
+            "end": 36.16,
+            "word": "red"
+          },
+          {
+            "start": 36.16,
+            "end": 36.38,
+            "word": "piece,"
+          },
+          {
+            "start": 36.44,
+            "end": 36.54,
+            "word": "right?"
+          },
+          {
+            "start": 36.54,
+            "end": 36.66,
+            "word": "So"
+          },
+          {
+            "start": 36.66,
+            "end": 36.82,
+            "word": "there"
+          },
+          {
+            "start": 36.82,
+            "end": 36.96,
+            "word": "should"
+          },
+          {
+            "start": 36.96,
+            "end": 37.42,
+            "word": "be,"
+          },
+          {
+            "start": 37.42,
+            "end": 38.68,
+            "word": "there"
+          },
+          {
+            "start": 38.68,
+            "end": 38.96,
+            "word": "should"
+          },
+          {
+            "start": 38.96,
+            "end": 39.36,
+            "word": "be,"
+          },
+          {
+            "start": 40.34,
+            "end": 40.6,
+            "word": "it"
+          },
+          {
+            "start": 40.6,
+            "end": 40.9,
+            "word": "essentially"
+          },
+          {
+            "start": 40.9,
+            "end": 41.12,
+            "word": "makes"
+          },
+          {
+            "start": 41.12,
+            "end": 41.26,
+            "word": "a"
+          },
+          {
+            "start": 41.26,
+            "end": 41.56,
+            "word": "T,"
+          },
+          {
+            "start": 41.7,
+            "end": 42.34,
+            "word": "right?"
+          },
+          {
+            "start": 42.34,
+            "end": 42.58,
+            "word": "So"
+          },
+          {
+            "start": 42.58,
+            "end": 42.76,
+            "word": "it's"
+          },
+          {
+            "start": 42.76,
+            "end": 42.9,
+            "word": "in"
+          },
+          {
+            "start": 42.9,
+            "end": 43.04,
+            "word": "the"
+          },
+          {
+            "start": 43.04,
+            "end": 43.22,
+            "word": "middle."
+          },
+          {
+            "start": 43.54,
+            "end": 44.08,
+            "word": "Then"
+          },
+          {
+            "start": 44.08,
+            "end": 44.84,
+            "word": "on"
+          },
+          {
+            "start": 44.84,
+            "end": 45.38,
+            "word": "top"
+          },
+          {
+            "start": 45.38,
+            "end": 45.9,
+            "word": "of"
+          },
+          {
+            "start": 45.9,
+            "end": 46.22,
+            "word": "the"
+          },
+          {
+            "start": 46.22,
+            "end": 46.52,
+            "word": "green"
+          },
+          {
+            "start": 46.52,
+            "end": 46.98,
+            "word": "piece"
+          },
+          {
+            "start": 46.98,
+            "end": 47.3,
+            "word": "is"
+          },
+          {
+            "start": 47.3,
+            "end": 47.46,
+            "word": "a"
+          },
+          {
+            "start": 47.46,
+            "end": 47.68,
+            "word": "blue"
+          },
+          {
+            "start": 47.68,
+            "end": 48.14,
+            "word": "piece"
+          },
+          {
+            "start": 48.14,
+            "end": 48.62,
+            "word": "placed"
+          },
+          {
+            "start": 48.62,
+            "end": 48.94,
+            "word": "again"
+          },
+          {
+            "start": 48.94,
+            "end": 49.14,
+            "word": "in"
+          },
+          {
+            "start": 49.14,
+            "end": 49.24,
+            "word": "the"
+          },
+          {
+            "start": 49.24,
+            "end": 49.44,
+            "word": "middle,"
+          },
+          {
+            "start": 49.58,
+            "end": 49.62,
+            "word": "but"
+          },
+          {
+            "start": 49.62,
+            "end": 50.4,
+            "word": "perpendicular,"
+          },
+          {
+            "start": 50.4,
+            "end": 50.86,
+            "word": "right?"
+          },
+          {
+            "start": 50.86,
+            "end": 51.08,
+            "word": "So"
+          },
+          {
+            "start": 51.08,
+            "end": 51.26,
+            "word": "it's"
+          },
+          {
+            "start": 51.26,
+            "end": 51.36,
+            "word": "going"
+          },
+          {
+            "start": 51.36,
+            "end": 51.46,
+            "word": "to"
+          },
+          {
+            "start": 51.46,
+            "end": 51.72,
+            "word": "be,"
+          },
+          {
+            "start": 51.8,
+            "end": 52.54,
+            "word": "kind"
+          },
+          {
+            "start": 52.54,
+            "end": 52.6,
+            "word": "of"
+          },
+          {
+            "start": 52.6,
+            "end": 52.74,
+            "word": "makes"
+          },
+          {
+            "start": 52.74,
+            "end": 52.9,
+            "word": "a"
+          },
+          {
+            "start": 52.9,
+            "end": 53.3,
+            "word": "tree"
+          },
+          {
+            "start": 53.3,
+            "end": 53.74,
+            "word": "shape"
+          },
+          {
+            "start": 53.74,
+            "end": 54.3,
+            "word": "almost."
+          },
+          {
+            "start": 54.3,
+            "end": 54.7,
+            "word": "So"
+          },
+          {
+            "start": 54.7,
+            "end": 54.9,
+            "word": "it's"
+          },
+          {
+            "start": 54.9,
+            "end": 54.98,
+            "word": "going"
+          },
+          {
+            "start": 54.98,
+            "end": 55.02,
+            "word": "to"
+          },
+          {
+            "start": 55.02,
+            "end": 55.14,
+            "word": "be"
+          },
+          {
+            "start": 55.14,
+            "end": 55.42,
+            "word": "red"
+          },
+          {
+            "start": 55.42,
+            "end": 55.68,
+            "word": "tall"
+          },
+          {
+            "start": 55.68,
+            "end": 56.04,
+            "word": "piece,"
+          },
+          {
+            "start": 56.24,
+            "end": 56.66,
+            "word": "green"
+          },
+          {
+            "start": 56.66,
+            "end": 56.96,
+            "word": "piece"
+          },
+          {
+            "start": 56.96,
+            "end": 57.34,
+            "word": "facing"
+          },
+          {
+            "start": 57.34,
+            "end": 57.68,
+            "word": "you,"
+          },
+          {
+            "start": 58.26,
+            "end": 58.5,
+            "word": "and"
+          },
+          {
+            "start": 58.5,
+            "end": 59.28,
+            "word": "then"
+          },
+          {
+            "start": 59.28,
+            "end": 59.86,
+            "word": "blue"
+          },
+          {
+            "start": 59.86,
+            "end": 60.36,
+            "word": "piece"
+          },
+          {
+            "start": 60.36,
+            "end": 62.32,
+            "word": "oriented"
+          },
+          {
+            "start": 62.32,
+            "end": 62.8,
+            "word": "perpendicular"
+          },
+          {
+            "start": 62.8,
+            "end": 63.16,
+            "word": "to"
+          },
+          {
+            "start": 63.16,
+            "end": 63.3,
+            "word": "the"
+          },
+          {
+            "start": 63.3,
+            "end": 63.5,
+            "word": "green"
+          },
+          {
+            "start": 63.5,
+            "end": 63.94,
+            "word": "piece."
+          },
+          {
+            "start": 64.24,
+            "end": 64.7,
+            "word": "And"
+          },
+          {
+            "start": 64.7,
+            "end": 65.06,
+            "word": "so"
+          },
+          {
+            "start": 65.06,
+            "end": 65.7,
+            "word": "it's"
+          },
+          {
+            "start": 65.7,
+            "end": 65.9,
+            "word": "all"
+          },
+          {
+            "start": 65.9,
+            "end": 66.36,
+            "word": "connected"
+          },
+          {
+            "start": 66.36,
+            "end": 66.64,
+            "word": "kind"
+          },
+          {
+            "start": 66.64,
+            "end": 66.76,
+            "word": "of"
+          },
+          {
+            "start": 66.76,
+            "end": 66.88,
+            "word": "in"
+          },
+          {
+            "start": 66.88,
+            "end": 67.24,
+            "word": "one,"
+          },
+          {
+            "start": 67.5,
+            "end": 68.34,
+            "word": "in"
+          },
+          {
+            "start": 68.34,
+            "end": 68.72,
+            "word": "one,"
+          },
+          {
+            "start": 68.9,
+            "end": 69.52,
+            "word": "one"
+          },
+          {
+            "start": 69.52,
+            "end": 70.12,
+            "word": "column,"
+          },
+          {
+            "start": 70.28,
+            "end": 70.84,
+            "word": "right?"
+          },
+          {
+            "start": 70.84,
+            "end": 71.38,
+            "word": "There's"
+          },
+          {
+            "start": 71.38,
+            "end": 71.8,
+            "word": "only,"
+          },
+          {
+            "start": 71.98,
+            "end": 72.48,
+            "word": "only"
+          },
+          {
+            "start": 72.48,
+            "end": 72.72,
+            "word": "the"
+          },
+          {
+            "start": 72.72,
+            "end": 73.08,
+            "word": "middle"
+          },
+          {
+            "start": 73.08,
+            "end": 73.6,
+            "word": "sort"
+          },
+          {
+            "start": 73.6,
+            "end": 73.78,
+            "word": "of"
+          },
+          {
+            "start": 73.78,
+            "end": 74.02,
+            "word": "four"
+          },
+          {
+            "start": 74.02,
+            "end": 74.18,
+            "word": "are"
+          },
+          {
+            "start": 74.18,
+            "end": 74.3,
+            "word": "the"
+          },
+          {
+            "start": 74.3,
+            "end": 74.48,
+            "word": "bits"
+          },
+          {
+            "start": 74.48,
+            "end": 74.66,
+            "word": "that"
+          },
+          {
+            "start": 74.66,
+            "end": 75.0,
+            "word": "connect."
+          },
+          {
+            "start": 75.72,
+            "end": 76.24,
+            "word": "So"
+          },
+          {
+            "start": 76.24,
+            "end": 76.42,
+            "word": "you"
+          },
+          {
+            "start": 76.42,
+            "end": 76.56,
+            "word": "should"
+          },
+          {
+            "start": 76.56,
+            "end": 76.96,
+            "word": "have,"
+          },
+          {
+            "start": 77.04,
+            "end": 78.24,
+            "word": "you"
+          },
+          {
+            "start": 78.24,
+            "end": 78.44,
+            "word": "should"
+          },
+          {
+            "start": 78.44,
+            "end": 78.82,
+            "word": "have"
+          },
+          {
+            "start": 78.82,
+            "end": 79.54,
+            "word": "sort"
+          },
+          {
+            "start": 79.54,
+            "end": 79.68,
+            "word": "of"
+          },
+          {
+            "start": 79.68,
+            "end": 79.88,
+            "word": "two"
+          },
+          {
+            "start": 79.88,
+            "end": 80.26,
+            "word": "studs"
+          },
+          {
+            "start": 80.26,
+            "end": 80.5,
+            "word": "facing"
+          },
+          {
+            "start": 80.5,
+            "end": 80.64,
+            "word": "you"
+          },
+          {
+            "start": 80.64,
+            "end": 80.78,
+            "word": "this"
+          },
+          {
+            "start": 80.78,
+            "end": 81.02,
+            "word": "way,"
+          },
+          {
+            "start": 81.12,
+            "end": 81.38,
+            "word": "two"
+          },
+          {
+            "start": 81.38,
+            "end": 81.58,
+            "word": "studs"
+          },
+          {
+            "start": 81.58,
+            "end": 81.78,
+            "word": "back,"
+          },
+          {
+            "start": 82.08,
+            "end": 82.6,
+            "word": "one"
+          },
+          {
+            "start": 82.6,
+            "end": 82.62,
+            "word": "and"
+          },
+          {
+            "start": 82.62,
+            "end": 82.82,
+            "word": "two"
+          },
+          {
+            "start": 82.82,
+            "end": 83.0,
+            "word": "and"
+          },
+          {
+            "start": 83.0,
+            "end": 83.18,
+            "word": "out,"
+          },
+          {
+            "start": 83.28,
+            "end": 83.38,
+            "word": "out,"
+          },
+          {
+            "start": 83.5,
+            "end": 83.84,
+            "word": "okay."
+          },
+          {
+            "start": 86.56,
+            "end": 87.1,
+            "word": "Stop"
+          },
+          {
+            "start": 87.1,
+            "end": 87.52,
+            "word": "recording."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-tr2-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-tr2-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so for this one, we are only using the top left quadrant of the 2x2 grid, and there's going to be a red tall piece as the base, right? So this is in the top left quadrant. On top of the red tall piece is going to be a green piece that is oriented so that this sort of the skinny end is facing towards you, but it is placed in the middle is the part that connects to the red piece, right? So there should be, there should be, it essentially makes a T, right? So it's in the middle. Then on top of the green piece is a blue piece placed again in the middle, but perpendicular, right? So it's going to be, kind of makes a tree shape almost. So it's going to be red tall piece, green piece facing you, and then blue piece oriented perpendicular to the green piece. And so it's all connected kind of in one, in one, one column, right? There's only, only the middle sort of four are the bits that connect. So you should have, you should have sort of two studs facing you this way, two studs back, one and two and out, out, okay. Stop recording."
+}

@@ -1,0 +1,376 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P3",
+  "trial": 7,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P3/7/1",
+      "language": {
+        "text": "Okay, similar to before, but the red brick is on the top right grid, and then the green is on the red that's going up and down, that is centered on the red brick. So like before, it was centered on the red brick going up and down, and then the blue brick is centered on the green brick that's going side to side.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 11.24,
+            "text": "Okay, similar to before, but the red brick is on the top right grid, and then the green"
+          },
+          {
+            "start": 11.34,
+            "end": 21.27,
+            "text": "is on the red that's going up and down, that is centered on the red brick."
+          },
+          {
+            "start": 21.27,
+            "end": 25.76,
+            "text": "So like before, it was centered on the red brick going up and down, and then the blue"
+          },
+          {
+            "start": 25.94,
+            "end": 28.74,
+            "text": "brick is centered on the green brick that's going side to side."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.1,
+            "word": "Okay,"
+          },
+          {
+            "start": 1.2,
+            "end": 1.5,
+            "word": "similar"
+          },
+          {
+            "start": 1.5,
+            "end": 1.7,
+            "word": "to"
+          },
+          {
+            "start": 1.7,
+            "end": 2.1,
+            "word": "before,"
+          },
+          {
+            "start": 2.88,
+            "end": 3.3,
+            "word": "but"
+          },
+          {
+            "start": 3.3,
+            "end": 3.88,
+            "word": "the"
+          },
+          {
+            "start": 3.88,
+            "end": 4.14,
+            "word": "red"
+          },
+          {
+            "start": 4.14,
+            "end": 4.42,
+            "word": "brick"
+          },
+          {
+            "start": 4.42,
+            "end": 4.8,
+            "word": "is"
+          },
+          {
+            "start": 4.8,
+            "end": 5.0,
+            "word": "on"
+          },
+          {
+            "start": 5.0,
+            "end": 5.16,
+            "word": "the"
+          },
+          {
+            "start": 5.16,
+            "end": 5.6,
+            "word": "top"
+          },
+          {
+            "start": 5.6,
+            "end": 6.08,
+            "word": "right"
+          },
+          {
+            "start": 6.08,
+            "end": 7.08,
+            "word": "grid,"
+          },
+          {
+            "start": 7.98,
+            "end": 10.54,
+            "word": "and"
+          },
+          {
+            "start": 10.54,
+            "end": 10.72,
+            "word": "then"
+          },
+          {
+            "start": 10.72,
+            "end": 10.92,
+            "word": "the"
+          },
+          {
+            "start": 10.92,
+            "end": 11.24,
+            "word": "green"
+          },
+          {
+            "start": 11.34,
+            "end": 11.86,
+            "word": "is"
+          },
+          {
+            "start": 11.86,
+            "end": 12.2,
+            "word": "on"
+          },
+          {
+            "start": 12.2,
+            "end": 12.36,
+            "word": "the"
+          },
+          {
+            "start": 12.36,
+            "end": 12.72,
+            "word": "red"
+          },
+          {
+            "start": 12.72,
+            "end": 13.72,
+            "word": "that's"
+          },
+          {
+            "start": 13.72,
+            "end": 14.38,
+            "word": "going"
+          },
+          {
+            "start": 14.38,
+            "end": 14.62,
+            "word": "up"
+          },
+          {
+            "start": 14.62,
+            "end": 14.76,
+            "word": "and"
+          },
+          {
+            "start": 14.76,
+            "end": 15.18,
+            "word": "down,"
+          },
+          {
+            "start": 15.6,
+            "end": 15.84,
+            "word": "that"
+          },
+          {
+            "start": 15.84,
+            "end": 16.08,
+            "word": "is"
+          },
+          {
+            "start": 16.08,
+            "end": 20.24,
+            "word": "centered"
+          },
+          {
+            "start": 20.24,
+            "end": 20.62,
+            "word": "on"
+          },
+          {
+            "start": 20.62,
+            "end": 20.8,
+            "word": "the"
+          },
+          {
+            "start": 20.8,
+            "end": 21.02,
+            "word": "red"
+          },
+          {
+            "start": 21.02,
+            "end": 21.27,
+            "word": "brick."
+          },
+          {
+            "start": 21.27,
+            "end": 21.62,
+            "word": "So"
+          },
+          {
+            "start": 21.62,
+            "end": 22.2,
+            "word": "like"
+          },
+          {
+            "start": 22.2,
+            "end": 22.52,
+            "word": "before,"
+          },
+          {
+            "start": 22.6,
+            "end": 22.66,
+            "word": "it"
+          },
+          {
+            "start": 22.66,
+            "end": 22.8,
+            "word": "was"
+          },
+          {
+            "start": 22.8,
+            "end": 23.0,
+            "word": "centered"
+          },
+          {
+            "start": 23.0,
+            "end": 23.18,
+            "word": "on"
+          },
+          {
+            "start": 23.18,
+            "end": 23.36,
+            "word": "the"
+          },
+          {
+            "start": 23.36,
+            "end": 23.74,
+            "word": "red"
+          },
+          {
+            "start": 23.74,
+            "end": 23.92,
+            "word": "brick"
+          },
+          {
+            "start": 23.92,
+            "end": 24.14,
+            "word": "going"
+          },
+          {
+            "start": 24.14,
+            "end": 24.34,
+            "word": "up"
+          },
+          {
+            "start": 24.34,
+            "end": 24.46,
+            "word": "and"
+          },
+          {
+            "start": 24.46,
+            "end": 24.78,
+            "word": "down,"
+          },
+          {
+            "start": 24.96,
+            "end": 25.34,
+            "word": "and"
+          },
+          {
+            "start": 25.34,
+            "end": 25.46,
+            "word": "then"
+          },
+          {
+            "start": 25.46,
+            "end": 25.58,
+            "word": "the"
+          },
+          {
+            "start": 25.58,
+            "end": 25.76,
+            "word": "blue"
+          },
+          {
+            "start": 25.94,
+            "end": 26.22,
+            "word": "brick"
+          },
+          {
+            "start": 26.22,
+            "end": 26.48,
+            "word": "is"
+          },
+          {
+            "start": 26.48,
+            "end": 26.78,
+            "word": "centered"
+          },
+          {
+            "start": 26.78,
+            "end": 27.02,
+            "word": "on"
+          },
+          {
+            "start": 27.02,
+            "end": 27.14,
+            "word": "the"
+          },
+          {
+            "start": 27.14,
+            "end": 27.4,
+            "word": "green"
+          },
+          {
+            "start": 27.4,
+            "end": 27.62,
+            "word": "brick"
+          },
+          {
+            "start": 27.62,
+            "end": 27.86,
+            "word": "that's"
+          },
+          {
+            "start": 27.86,
+            "end": 28.08,
+            "word": "going"
+          },
+          {
+            "start": 28.08,
+            "end": 28.36,
+            "word": "side"
+          },
+          {
+            "start": 28.36,
+            "end": 28.52,
+            "word": "to"
+          },
+          {
+            "start": 28.52,
+            "end": 28.74,
+            "word": "side."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-tr4-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-tr4-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, similar to before, but the red brick is on the top right grid, and then the green is on the red that's going up and down, that is centered on the red brick. So like before, it was centered on the red brick going up and down, and then the blue brick is centered on the green brick that's going side to side."
+}

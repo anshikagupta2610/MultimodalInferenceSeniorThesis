@@ -1,0 +1,1692 @@
+{
+  "summary": {
+    "count": 12,
+    "warning": "Provisional V2 normalized proxies, not verified physical 3D accuracy",
+    "coverage_mean": 1.0,
+    "coverage_denominator": 12,
+    "shape_correct_mean": 1.0,
+    "shape_correct_denominator": 3,
+    "color_f1_mean": 0.95,
+    "color_f1_denominator": 12,
+    "xz_f1_mean": 0.8833,
+    "xz_f1_denominator": 12,
+    "xyz_f1_mean": 0.8167,
+    "xyz_f1_denominator": 12,
+    "oriented_f1_mean": 0.7889,
+    "oriented_f1_denominator": 12,
+    "full_tower_exact_mean": 0.6667,
+    "full_tower_exact_denominator": 12,
+    "ambiguous_or_no_tower": 0,
+    "participant": "P3",
+    "model": "gemini-2.5-flash",
+    "selection": "full-trial",
+    "attempted": 12,
+    "scored": 12,
+    "failed": 0,
+    "strict_note": "Full-tower exact is within the fixed V2 coordinate tolerance, not pixel accuracy"
+  },
+  "trials": [
+    {
+      "run": "outputs/p3_all/runs/P3_T01_full_trial",
+      "participant": "P3",
+      "trial": 1,
+      "step": 1,
+      "mode": "offline",
+      "source": "live_llm",
+      "tower_id": "t-8-tr3-translucent",
+      "status": "assumed",
+      "prediction_available": 1,
+      "shape_predicted": null,
+      "shape_target": "TREE",
+      "coverage": 1,
+      "shape_correct": null,
+      "target_block_count": 3,
+      "predicted_block_count": 3,
+      "color_f1": 1.0,
+      "xz_f1": 1.0,
+      "xyz_f1": 1.0,
+      "oriented_f1": 1.0,
+      "full_tower_exact": 1,
+      "error": null,
+      "matched_details": {
+        "color_matched": 3,
+        "color_precision": 1.0,
+        "color_recall": 1.0,
+        "color_f1": 1.0,
+        "color_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xz_matched": 3,
+        "xz_precision": 1.0,
+        "xz_recall": 1.0,
+        "xz_f1": 1.0,
+        "xz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xyz_matched": 3,
+        "xyz_precision": 1.0,
+        "xyz_recall": 1.0,
+        "xyz_f1": 1.0,
+        "xyz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "oriented_matched": 3,
+        "oriented_precision": 1.0,
+        "oriented_recall": 1.0,
+        "oriented_f1": 1.0,
+        "oriented_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "full_tower_exact": 1
+      },
+      "target_blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 0,
+          "z": 2.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 4,
+          "z": 1.0
+        },
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": -1.0,
+          "y": 5,
+          "z": 2.0
+        }
+      ],
+      "predicted_blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 2.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 4.0,
+          "z": 1.0
+        },
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": -1.0,
+          "y": 5.0,
+          "z": 2.0
+        }
+      ],
+      "calibration": "PROVISIONAL_UNITY_TO_V2_PROXY_NOT_PHYSICAL_ACCURACY",
+      "tolerance_v2_units": 0.25,
+      "flip_x": false,
+      "flip_z": false
+    },
+    {
+      "run": "outputs/p3_all/runs/P3_T02_full_trial",
+      "participant": "P3",
+      "trial": 2,
+      "step": 1,
+      "mode": "offline",
+      "source": "live_llm",
+      "tower_id": "t-8-c4-translucent",
+      "status": "ready",
+      "prediction_available": 1,
+      "shape_predicted": null,
+      "shape_target": "C",
+      "coverage": 1,
+      "shape_correct": null,
+      "target_block_count": 3,
+      "predicted_block_count": 3,
+      "color_f1": 1.0,
+      "xz_f1": 1.0,
+      "xyz_f1": 1.0,
+      "oriented_f1": 1.0,
+      "full_tower_exact": 1,
+      "error": null,
+      "matched_details": {
+        "color_matched": 3,
+        "color_precision": 1.0,
+        "color_recall": 1.0,
+        "color_f1": 1.0,
+        "color_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xz_matched": 3,
+        "xz_precision": 1.0,
+        "xz_recall": 1.0,
+        "xz_f1": 1.0,
+        "xz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xyz_matched": 3,
+        "xyz_precision": 1.0,
+        "xyz_recall": 1.0,
+        "xyz_f1": 1.0,
+        "xyz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "oriented_matched": 3,
+        "oriented_precision": 1.0,
+        "oriented_recall": 1.0,
+        "oriented_f1": 1.0,
+        "oriented_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "full_tower_exact": 1
+      },
+      "target_blocks": [
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 1,
+          "z": 0.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 5,
+          "z": 0.0
+        }
+      ],
+      "predicted_blocks": [
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 5.0,
+          "z": 0.0
+        }
+      ],
+      "calibration": "PROVISIONAL_UNITY_TO_V2_PROXY_NOT_PHYSICAL_ACCURACY",
+      "tolerance_v2_units": 0.25,
+      "flip_x": false,
+      "flip_z": false
+    },
+    {
+      "run": "outputs/p3_all/runs/P3_T03_full_trial",
+      "participant": "P3",
+      "trial": 3,
+      "step": 1,
+      "mode": "offline",
+      "source": "live_llm",
+      "tower_id": "t-8-l4-translucent",
+      "status": "ready",
+      "prediction_available": 1,
+      "shape_predicted": null,
+      "shape_target": "L",
+      "coverage": 1,
+      "shape_correct": null,
+      "target_block_count": 3,
+      "predicted_block_count": 3,
+      "color_f1": 1.0,
+      "xz_f1": 1.0,
+      "xyz_f1": 1.0,
+      "oriented_f1": 1.0,
+      "full_tower_exact": 1,
+      "error": null,
+      "matched_details": {
+        "color_matched": 3,
+        "color_precision": 1.0,
+        "color_recall": 1.0,
+        "color_f1": 1.0,
+        "color_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xz_matched": 3,
+        "xz_precision": 1.0,
+        "xz_recall": 1.0,
+        "xz_f1": 1.0,
+        "xz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xyz_matched": 3,
+        "xyz_precision": 1.0,
+        "xyz_recall": 1.0,
+        "xyz_f1": 1.0,
+        "xyz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "oriented_matched": 3,
+        "oriented_precision": 1.0,
+        "oriented_recall": 1.0,
+        "oriented_f1": 1.0,
+        "oriented_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "full_tower_exact": 1
+      },
+      "target_blocks": [
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 0.0,
+          "y": 0,
+          "z": 2.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 1,
+          "z": 2.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 5,
+          "z": 2.0
+        }
+      ],
+      "predicted_blocks": [
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 2.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 1.0,
+          "z": 2.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 5.0,
+          "z": 2.0
+        }
+      ],
+      "calibration": "PROVISIONAL_UNITY_TO_V2_PROXY_NOT_PHYSICAL_ACCURACY",
+      "tolerance_v2_units": 0.25,
+      "flip_x": false,
+      "flip_z": false
+    },
+    {
+      "run": "outputs/p3_all/runs/P3_T04_full_trial",
+      "participant": "P3",
+      "trial": 4,
+      "step": 1,
+      "mode": "offline",
+      "source": "live_llm",
+      "tower_id": "t-8-c1-translucent",
+      "status": "assumed",
+      "prediction_available": 1,
+      "shape_predicted": null,
+      "shape_target": "C",
+      "coverage": 1,
+      "shape_correct": null,
+      "target_block_count": 3,
+      "predicted_block_count": 2,
+      "color_f1": 0.8,
+      "xz_f1": 0.4,
+      "xyz_f1": 0.4,
+      "oriented_f1": 0.4,
+      "full_tower_exact": 0,
+      "error": null,
+      "matched_details": {
+        "color_matched": 2,
+        "color_precision": 1.0,
+        "color_recall": 0.6667,
+        "color_f1": 0.8,
+        "color_pairs": [
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 0
+          }
+        ],
+        "xz_matched": 1,
+        "xz_precision": 0.5,
+        "xz_recall": 0.3333,
+        "xz_f1": 0.4,
+        "xz_pairs": [
+          {
+            "target_index": 2,
+            "prediction_index": 0
+          }
+        ],
+        "xyz_matched": 1,
+        "xyz_precision": 0.5,
+        "xyz_recall": 0.3333,
+        "xyz_f1": 0.4,
+        "xyz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          }
+        ],
+        "oriented_matched": 1,
+        "oriented_precision": 0.5,
+        "oriented_recall": 0.3333,
+        "oriented_f1": 0.4,
+        "oriented_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          }
+        ],
+        "full_tower_exact": 0
+      },
+      "target_blocks": [
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 1,
+          "z": 2.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 5,
+          "z": 0.0
+        }
+      ],
+      "predicted_blocks": [
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 1.0,
+          "z": 3.0
+        }
+      ],
+      "calibration": "PROVISIONAL_UNITY_TO_V2_PROXY_NOT_PHYSICAL_ACCURACY",
+      "tolerance_v2_units": 0.25,
+      "flip_x": false,
+      "flip_z": false
+    },
+    {
+      "run": "outputs/p3_all/runs/P3_T05_full_trial",
+      "participant": "P3",
+      "trial": 5,
+      "step": 1,
+      "mode": "offline",
+      "source": "live_llm",
+      "tower_id": "t-8-tr2-translucent",
+      "status": "ready",
+      "prediction_available": 1,
+      "shape_predicted": "TREE",
+      "shape_target": "TREE",
+      "coverage": 1,
+      "shape_correct": 1,
+      "target_block_count": 3,
+      "predicted_block_count": 3,
+      "color_f1": 1.0,
+      "xz_f1": 1.0,
+      "xyz_f1": 1.0,
+      "oriented_f1": 1.0,
+      "full_tower_exact": 1,
+      "error": null,
+      "matched_details": {
+        "color_matched": 3,
+        "color_precision": 1.0,
+        "color_recall": 1.0,
+        "color_f1": 1.0,
+        "color_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xz_matched": 3,
+        "xz_precision": 1.0,
+        "xz_recall": 1.0,
+        "xz_f1": 1.0,
+        "xz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xyz_matched": 3,
+        "xyz_precision": 1.0,
+        "xyz_recall": 1.0,
+        "xyz_f1": 1.0,
+        "xyz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "oriented_matched": 3,
+        "oriented_precision": 1.0,
+        "oriented_recall": 1.0,
+        "oriented_f1": 1.0,
+        "oriented_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "full_tower_exact": 1
+      },
+      "target_blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 0,
+          "z": 0.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 4,
+          "z": -1.0
+        },
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": -1.0,
+          "y": 5,
+          "z": 0.0
+        }
+      ],
+      "predicted_blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 0.0,
+          "y": 4.0,
+          "z": -1.0
+        },
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": -1.0,
+          "y": 5.0,
+          "z": 0.0
+        }
+      ],
+      "calibration": "PROVISIONAL_UNITY_TO_V2_PROXY_NOT_PHYSICAL_ACCURACY",
+      "tolerance_v2_units": 0.25,
+      "flip_x": false,
+      "flip_z": false
+    },
+    {
+      "run": "outputs/p3_all/runs/P3_T06_full_trial",
+      "participant": "P3",
+      "trial": 6,
+      "step": 1,
+      "mode": "offline",
+      "source": "live_llm",
+      "tower_id": "t-8-l2-translucent",
+      "status": "ready",
+      "prediction_available": 1,
+      "shape_predicted": "L",
+      "shape_target": "L",
+      "coverage": 1,
+      "shape_correct": 1,
+      "target_block_count": 3,
+      "predicted_block_count": 3,
+      "color_f1": 1.0,
+      "xz_f1": 1.0,
+      "xyz_f1": 1.0,
+      "oriented_f1": 1.0,
+      "full_tower_exact": 1,
+      "error": null,
+      "matched_details": {
+        "color_matched": 3,
+        "color_precision": 1.0,
+        "color_recall": 1.0,
+        "color_f1": 1.0,
+        "color_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xz_matched": 3,
+        "xz_precision": 1.0,
+        "xz_recall": 1.0,
+        "xz_f1": 1.0,
+        "xz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xyz_matched": 3,
+        "xyz_precision": 1.0,
+        "xyz_recall": 1.0,
+        "xyz_f1": 1.0,
+        "xyz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "oriented_matched": 3,
+        "oriented_precision": 1.0,
+        "oriented_recall": 1.0,
+        "oriented_f1": 1.0,
+        "oriented_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "full_tower_exact": 1
+      },
+      "target_blocks": [
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 0.0,
+          "y": 0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 1,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 5,
+          "z": 0.0
+        }
+      ],
+      "predicted_blocks": [
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 0.0,
+          "y": 5.0,
+          "z": 0.0
+        }
+      ],
+      "calibration": "PROVISIONAL_UNITY_TO_V2_PROXY_NOT_PHYSICAL_ACCURACY",
+      "tolerance_v2_units": 0.25,
+      "flip_x": false,
+      "flip_z": false
+    },
+    {
+      "run": "outputs/p3_all/runs/P3_T07_full_trial",
+      "participant": "P3",
+      "trial": 7,
+      "step": 1,
+      "mode": "offline",
+      "source": "live_llm",
+      "tower_id": "t-8-tr4-translucent",
+      "status": "ready",
+      "prediction_available": 1,
+      "shape_predicted": null,
+      "shape_target": "TREE",
+      "coverage": 1,
+      "shape_correct": null,
+      "target_block_count": 3,
+      "predicted_block_count": 3,
+      "color_f1": 1.0,
+      "xz_f1": 1.0,
+      "xyz_f1": 1.0,
+      "oriented_f1": 0.6667,
+      "full_tower_exact": 0,
+      "error": null,
+      "matched_details": {
+        "color_matched": 3,
+        "color_precision": 1.0,
+        "color_recall": 1.0,
+        "color_f1": 1.0,
+        "color_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xz_matched": 3,
+        "xz_precision": 1.0,
+        "xz_recall": 1.0,
+        "xz_f1": 1.0,
+        "xz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xyz_matched": 3,
+        "xyz_precision": 1.0,
+        "xyz_recall": 1.0,
+        "xyz_f1": 1.0,
+        "xyz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "oriented_matched": 2,
+        "oriented_precision": 0.6667,
+        "oriented_recall": 0.6667,
+        "oriented_f1": 0.6667,
+        "oriented_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "full_tower_exact": 0
+      },
+      "target_blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 0,
+          "z": 0.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 4,
+          "z": -1.0
+        },
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 1.0,
+          "y": 5,
+          "z": 0.0
+        }
+      ],
+      "predicted_blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "color": "green",
+          "axis": "x",
+          "x": 1.0,
+          "y": 4.0,
+          "z": 0.0
+        },
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 1.0,
+          "y": 5.0,
+          "z": 0.0
+        }
+      ],
+      "calibration": "PROVISIONAL_UNITY_TO_V2_PROXY_NOT_PHYSICAL_ACCURACY",
+      "tolerance_v2_units": 0.25,
+      "flip_x": false,
+      "flip_z": false
+    },
+    {
+      "run": "outputs/p3_all/runs/P3_T08_full_trial",
+      "participant": "P3",
+      "trial": 8,
+      "step": 1,
+      "mode": "offline",
+      "source": "live_llm",
+      "tower_id": "t-8-c3-translucent",
+      "status": "assumed",
+      "prediction_available": 1,
+      "shape_predicted": null,
+      "shape_target": "C",
+      "coverage": 1,
+      "shape_correct": null,
+      "target_block_count": 3,
+      "predicted_block_count": 2,
+      "color_f1": 0.8,
+      "xz_f1": 0.8,
+      "xyz_f1": 0.0,
+      "oriented_f1": 0.0,
+      "full_tower_exact": 0,
+      "error": null,
+      "matched_details": {
+        "color_matched": 2,
+        "color_precision": 1.0,
+        "color_recall": 0.6667,
+        "color_f1": 0.8,
+        "color_pairs": [
+          {
+            "target_index": 1,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 1
+          }
+        ],
+        "xz_matched": 2,
+        "xz_precision": 1.0,
+        "xz_recall": 0.6667,
+        "xz_f1": 0.8,
+        "xz_pairs": [
+          {
+            "target_index": 1,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 1
+          }
+        ],
+        "xyz_matched": 0,
+        "xyz_precision": 0.0,
+        "xyz_recall": 0.0,
+        "xyz_f1": 0.0,
+        "xyz_pairs": [],
+        "oriented_matched": 0,
+        "oriented_precision": 0.0,
+        "oriented_recall": 0.0,
+        "oriented_f1": 0.0,
+        "oriented_pairs": [],
+        "full_tower_exact": 0
+      },
+      "target_blocks": [
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 1,
+          "z": 2.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 5,
+          "z": 0.0
+        }
+      ],
+      "predicted_blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 0.0,
+          "z": 2.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 4.0,
+          "z": 0.0
+        }
+      ],
+      "calibration": "PROVISIONAL_UNITY_TO_V2_PROXY_NOT_PHYSICAL_ACCURACY",
+      "tolerance_v2_units": 0.25,
+      "flip_x": false,
+      "flip_z": false
+    },
+    {
+      "run": "outputs/p3_all/runs/P3_T09_full_trial",
+      "participant": "P3",
+      "trial": 9,
+      "step": 1,
+      "mode": "offline",
+      "source": "live_llm",
+      "tower_id": "t-8-l1-translucent",
+      "status": "assumed",
+      "prediction_available": 1,
+      "shape_predicted": null,
+      "shape_target": "L",
+      "coverage": 1,
+      "shape_correct": null,
+      "target_block_count": 3,
+      "predicted_block_count": 3,
+      "color_f1": 1.0,
+      "xz_f1": 1.0,
+      "xyz_f1": 1.0,
+      "oriented_f1": 1.0,
+      "full_tower_exact": 1,
+      "error": null,
+      "matched_details": {
+        "color_matched": 3,
+        "color_precision": 1.0,
+        "color_recall": 1.0,
+        "color_f1": 1.0,
+        "color_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xz_matched": 3,
+        "xz_precision": 1.0,
+        "xz_recall": 1.0,
+        "xz_f1": 1.0,
+        "xz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xyz_matched": 3,
+        "xyz_precision": 1.0,
+        "xyz_recall": 1.0,
+        "xyz_f1": 1.0,
+        "xyz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "oriented_matched": 3,
+        "oriented_precision": 1.0,
+        "oriented_recall": 1.0,
+        "oriented_f1": 1.0,
+        "oriented_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "full_tower_exact": 1
+      },
+      "target_blocks": [
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 0.0,
+          "y": 0,
+          "z": 2.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 1,
+          "z": 2.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 5,
+          "z": 2.0
+        }
+      ],
+      "predicted_blocks": [
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 2.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 1.0,
+          "z": 2.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 5.0,
+          "z": 2.0
+        }
+      ],
+      "calibration": "PROVISIONAL_UNITY_TO_V2_PROXY_NOT_PHYSICAL_ACCURACY",
+      "tolerance_v2_units": 0.25,
+      "flip_x": false,
+      "flip_z": false
+    },
+    {
+      "run": "outputs/p3_all/runs/P3_T10_full_trial",
+      "participant": "P3",
+      "trial": 10,
+      "step": 1,
+      "mode": "offline",
+      "source": "live_llm",
+      "tower_id": "t-8-l3-translucent",
+      "status": "ready",
+      "prediction_available": 1,
+      "shape_predicted": "L",
+      "shape_target": "L",
+      "coverage": 1,
+      "shape_correct": 1,
+      "target_block_count": 3,
+      "predicted_block_count": 3,
+      "color_f1": 1.0,
+      "xz_f1": 1.0,
+      "xyz_f1": 1.0,
+      "oriented_f1": 1.0,
+      "full_tower_exact": 1,
+      "error": null,
+      "matched_details": {
+        "color_matched": 3,
+        "color_precision": 1.0,
+        "color_recall": 1.0,
+        "color_f1": 1.0,
+        "color_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xz_matched": 3,
+        "xz_precision": 1.0,
+        "xz_recall": 1.0,
+        "xz_f1": 1.0,
+        "xz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xyz_matched": 3,
+        "xyz_precision": 1.0,
+        "xyz_recall": 1.0,
+        "xyz_f1": 1.0,
+        "xyz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "oriented_matched": 3,
+        "oriented_precision": 1.0,
+        "oriented_recall": 1.0,
+        "oriented_f1": 1.0,
+        "oriented_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "full_tower_exact": 1
+      },
+      "target_blocks": [
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 0.0,
+          "y": 0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 1,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 5,
+          "z": 0.0
+        }
+      ],
+      "predicted_blocks": [
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 5.0,
+          "z": 0.0
+        }
+      ],
+      "calibration": "PROVISIONAL_UNITY_TO_V2_PROXY_NOT_PHYSICAL_ACCURACY",
+      "tolerance_v2_units": 0.25,
+      "flip_x": false,
+      "flip_z": false
+    },
+    {
+      "run": "outputs/p3_all/runs/P3_T11_full_trial",
+      "participant": "P3",
+      "trial": 11,
+      "step": 1,
+      "mode": "offline",
+      "source": "live_llm",
+      "tower_id": "t-8-c2-translucent",
+      "status": "assumed",
+      "prediction_available": 1,
+      "shape_predicted": null,
+      "shape_target": "C",
+      "coverage": 1,
+      "shape_correct": null,
+      "target_block_count": 3,
+      "predicted_block_count": 2,
+      "color_f1": 0.8,
+      "xz_f1": 0.4,
+      "xyz_f1": 0.4,
+      "oriented_f1": 0.4,
+      "full_tower_exact": 0,
+      "error": null,
+      "matched_details": {
+        "color_matched": 2,
+        "color_precision": 1.0,
+        "color_recall": 0.6667,
+        "color_f1": 0.8,
+        "color_pairs": [
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 0
+          }
+        ],
+        "xz_matched": 1,
+        "xz_precision": 0.5,
+        "xz_recall": 0.3333,
+        "xz_f1": 0.4,
+        "xz_pairs": [
+          {
+            "target_index": 2,
+            "prediction_index": 0
+          }
+        ],
+        "xyz_matched": 1,
+        "xyz_precision": 0.5,
+        "xyz_recall": 0.3333,
+        "xyz_f1": 0.4,
+        "xyz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          }
+        ],
+        "oriented_matched": 1,
+        "oriented_precision": 0.5,
+        "oriented_recall": 0.3333,
+        "oriented_f1": 0.4,
+        "oriented_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          }
+        ],
+        "full_tower_exact": 0
+      },
+      "target_blocks": [
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 1,
+          "z": 0.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 5,
+          "z": 0.0
+        }
+      ],
+      "predicted_blocks": [
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      ],
+      "calibration": "PROVISIONAL_UNITY_TO_V2_PROXY_NOT_PHYSICAL_ACCURACY",
+      "tolerance_v2_units": 0.25,
+      "flip_x": false,
+      "flip_z": false
+    },
+    {
+      "run": "outputs/p3_all/runs/P3_T12_full_trial",
+      "participant": "P3",
+      "trial": 12,
+      "step": 1,
+      "mode": "offline",
+      "source": "live_llm",
+      "tower_id": "t-8-tr1-translucent",
+      "status": "ready",
+      "prediction_available": 1,
+      "shape_predicted": null,
+      "shape_target": "TREE",
+      "coverage": 1,
+      "shape_correct": null,
+      "target_block_count": 3,
+      "predicted_block_count": 3,
+      "color_f1": 1.0,
+      "xz_f1": 1.0,
+      "xyz_f1": 1.0,
+      "oriented_f1": 1.0,
+      "full_tower_exact": 1,
+      "error": null,
+      "matched_details": {
+        "color_matched": 3,
+        "color_precision": 1.0,
+        "color_recall": 1.0,
+        "color_f1": 1.0,
+        "color_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xz_matched": 3,
+        "xz_precision": 1.0,
+        "xz_recall": 1.0,
+        "xz_f1": 1.0,
+        "xz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "xyz_matched": 3,
+        "xyz_precision": 1.0,
+        "xyz_recall": 1.0,
+        "xyz_f1": 1.0,
+        "xyz_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "oriented_matched": 3,
+        "oriented_precision": 1.0,
+        "oriented_recall": 1.0,
+        "oriented_f1": 1.0,
+        "oriented_pairs": [
+          {
+            "target_index": 0,
+            "prediction_index": 0
+          },
+          {
+            "target_index": 1,
+            "prediction_index": 1
+          },
+          {
+            "target_index": 2,
+            "prediction_index": 2
+          }
+        ],
+        "full_tower_exact": 1
+      },
+      "target_blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 0,
+          "z": 2.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 4,
+          "z": 1.0
+        },
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 1.0,
+          "y": 5,
+          "z": 2.0
+        }
+      ],
+      "predicted_blocks": [
+        {
+          "color": "red",
+          "axis": "y",
+          "x": 2.0,
+          "y": 0.0,
+          "z": 2.0
+        },
+        {
+          "color": "green",
+          "axis": "z",
+          "x": 2.0,
+          "y": 4.0,
+          "z": 1.0
+        },
+        {
+          "color": "blue",
+          "axis": "x",
+          "x": 1.0,
+          "y": 5.0,
+          "z": 2.0
+        }
+      ],
+      "calibration": "PROVISIONAL_UNITY_TO_V2_PROXY_NOT_PHYSICAL_ACCURACY",
+      "tolerance_v2_units": 0.25,
+      "flip_x": false,
+      "flip_z": false
+    }
+  ],
+  "skipped": []
+}
