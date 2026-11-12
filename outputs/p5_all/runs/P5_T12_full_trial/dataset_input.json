@@ -1,0 +1,226 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P5",
+  "trial": 12,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P5/12/1",
+      "language": {
+        "text": "Backwards L, or sorry, forwards L in the bottom half of the screen. So blue going this way, then two reds on the left-hand side stacked on top of each other. Nice little L shape.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 6.84,
+            "text": "Backwards L, or sorry, forwards L in the bottom half of the screen."
+          },
+          {
+            "start": 6.88,
+            "end": 13.12,
+            "text": "So blue going this way, then two reds on the left-hand side stacked on top of each other."
+          },
+          {
+            "start": 13.58,
+            "end": 14.66,
+            "text": "Nice little L shape."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.78,
+            "word": "Backwards"
+          },
+          {
+            "start": 1.78,
+            "end": 2.2,
+            "word": "L,"
+          },
+          {
+            "start": 2.64,
+            "end": 2.76,
+            "word": "or"
+          },
+          {
+            "start": 2.76,
+            "end": 3.1,
+            "word": "sorry,"
+          },
+          {
+            "start": 3.82,
+            "end": 4.12,
+            "word": "forwards"
+          },
+          {
+            "start": 4.12,
+            "end": 4.48,
+            "word": "L"
+          },
+          {
+            "start": 4.48,
+            "end": 4.78,
+            "word": "in"
+          },
+          {
+            "start": 4.78,
+            "end": 5.14,
+            "word": "the"
+          },
+          {
+            "start": 5.14,
+            "end": 5.62,
+            "word": "bottom"
+          },
+          {
+            "start": 5.62,
+            "end": 6.08,
+            "word": "half"
+          },
+          {
+            "start": 6.08,
+            "end": 6.38,
+            "word": "of"
+          },
+          {
+            "start": 6.38,
+            "end": 6.54,
+            "word": "the"
+          },
+          {
+            "start": 6.54,
+            "end": 6.84,
+            "word": "screen."
+          },
+          {
+            "start": 6.88,
+            "end": 7.16,
+            "word": "So"
+          },
+          {
+            "start": 7.16,
+            "end": 7.62,
+            "word": "blue"
+          },
+          {
+            "start": 7.62,
+            "end": 8.22,
+            "word": "going"
+          },
+          {
+            "start": 8.22,
+            "end": 8.5,
+            "word": "this"
+          },
+          {
+            "start": 8.5,
+            "end": 8.78,
+            "word": "way,"
+          },
+          {
+            "start": 8.92,
+            "end": 9.06,
+            "word": "then"
+          },
+          {
+            "start": 9.06,
+            "end": 9.36,
+            "word": "two"
+          },
+          {
+            "start": 9.36,
+            "end": 9.96,
+            "word": "reds"
+          },
+          {
+            "start": 9.96,
+            "end": 10.76,
+            "word": "on"
+          },
+          {
+            "start": 10.76,
+            "end": 10.94,
+            "word": "the"
+          },
+          {
+            "start": 10.94,
+            "end": 11.38,
+            "word": "left-hand"
+          },
+          {
+            "start": 11.38,
+            "end": 11.74,
+            "word": "side"
+          },
+          {
+            "start": 11.74,
+            "end": 12.12,
+            "word": "stacked"
+          },
+          {
+            "start": 12.12,
+            "end": 12.3,
+            "word": "on"
+          },
+          {
+            "start": 12.3,
+            "end": 12.52,
+            "word": "top"
+          },
+          {
+            "start": 12.52,
+            "end": 12.68,
+            "word": "of"
+          },
+          {
+            "start": 12.68,
+            "end": 12.84,
+            "word": "each"
+          },
+          {
+            "start": 12.84,
+            "end": 13.12,
+            "word": "other."
+          },
+          {
+            "start": 13.58,
+            "end": 13.88,
+            "word": "Nice"
+          },
+          {
+            "start": 13.88,
+            "end": 14.12,
+            "word": "little"
+          },
+          {
+            "start": 14.12,
+            "end": 14.34,
+            "word": "L"
+          },
+          {
+            "start": 14.34,
+            "end": 14.66,
+            "word": "shape."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-l4-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-l4-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Backwards L, or sorry, forwards L in the bottom half of the screen. So blue going this way, then two reds on the left-hand side stacked on top of each other. Nice little L shape."
+}

@@ -1,0 +1,601 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P4",
+  "trial": 10,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P4/10/1",
+      "language": {
+        "text": "Okay, so this is the same construction that starts out looking like a capital T from the side and looks like a plus sign from the top. But this time it starts, it's centered on the bottom right square of the 2x2 grid. So the row closest to you and then to the right. So then you put a red column brick over that square and then a green brick on top of it to then look like a capital T from the side. And then you put one more blue brick on top of the green brick so that it looks like a plus sign from above.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 9.42,
+            "text": "Okay, so this is the same construction that starts out looking like a capital T from the side and looks like a plus sign from the top."
+          },
+          {
+            "start": 9.7,
+            "end": 18.92,
+            "text": "But this time it starts, it's centered on the bottom right square of the 2x2 grid."
+          },
+          {
+            "start": 19.64,
+            "end": 22.44,
+            "text": "So the row closest to you and then to the right."
+          },
+          {
+            "start": 23.0,
+            "end": 30.97,
+            "text": "So then you put a red column brick over that square and then a green brick on top of it to then look like a capital T from the side."
+          },
+          {
+            "start": 30.97,
+            "end": 38.7,
+            "text": "And then you put one more blue brick on top of the green brick so that it looks like a plus sign from above."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.58,
+            "word": "Okay,"
+          },
+          {
+            "start": 1.74,
+            "end": 1.94,
+            "word": "so"
+          },
+          {
+            "start": 1.94,
+            "end": 2.16,
+            "word": "this"
+          },
+          {
+            "start": 2.16,
+            "end": 2.3,
+            "word": "is"
+          },
+          {
+            "start": 2.3,
+            "end": 2.46,
+            "word": "the"
+          },
+          {
+            "start": 2.46,
+            "end": 2.84,
+            "word": "same"
+          },
+          {
+            "start": 2.84,
+            "end": 3.46,
+            "word": "construction"
+          },
+          {
+            "start": 3.46,
+            "end": 3.86,
+            "word": "that"
+          },
+          {
+            "start": 3.86,
+            "end": 4.28,
+            "word": "starts"
+          },
+          {
+            "start": 4.28,
+            "end": 4.62,
+            "word": "out"
+          },
+          {
+            "start": 4.62,
+            "end": 5.16,
+            "word": "looking"
+          },
+          {
+            "start": 5.16,
+            "end": 5.38,
+            "word": "like"
+          },
+          {
+            "start": 5.38,
+            "end": 5.52,
+            "word": "a"
+          },
+          {
+            "start": 5.52,
+            "end": 5.84,
+            "word": "capital"
+          },
+          {
+            "start": 5.84,
+            "end": 6.14,
+            "word": "T"
+          },
+          {
+            "start": 6.14,
+            "end": 6.36,
+            "word": "from"
+          },
+          {
+            "start": 6.36,
+            "end": 6.52,
+            "word": "the"
+          },
+          {
+            "start": 6.52,
+            "end": 6.84,
+            "word": "side"
+          },
+          {
+            "start": 6.84,
+            "end": 7.66,
+            "word": "and"
+          },
+          {
+            "start": 7.66,
+            "end": 7.88,
+            "word": "looks"
+          },
+          {
+            "start": 7.88,
+            "end": 8.08,
+            "word": "like"
+          },
+          {
+            "start": 8.08,
+            "end": 8.2,
+            "word": "a"
+          },
+          {
+            "start": 8.2,
+            "end": 8.46,
+            "word": "plus"
+          },
+          {
+            "start": 8.46,
+            "end": 8.76,
+            "word": "sign"
+          },
+          {
+            "start": 8.76,
+            "end": 8.98,
+            "word": "from"
+          },
+          {
+            "start": 8.98,
+            "end": 9.12,
+            "word": "the"
+          },
+          {
+            "start": 9.12,
+            "end": 9.42,
+            "word": "top."
+          },
+          {
+            "start": 9.7,
+            "end": 10.12,
+            "word": "But"
+          },
+          {
+            "start": 10.12,
+            "end": 10.34,
+            "word": "this"
+          },
+          {
+            "start": 10.34,
+            "end": 10.68,
+            "word": "time"
+          },
+          {
+            "start": 10.68,
+            "end": 11.18,
+            "word": "it"
+          },
+          {
+            "start": 11.18,
+            "end": 11.62,
+            "word": "starts,"
+          },
+          {
+            "start": 11.86,
+            "end": 12.26,
+            "word": "it's"
+          },
+          {
+            "start": 12.26,
+            "end": 12.44,
+            "word": "centered"
+          },
+          {
+            "start": 12.44,
+            "end": 12.64,
+            "word": "on"
+          },
+          {
+            "start": 12.64,
+            "end": 12.84,
+            "word": "the"
+          },
+          {
+            "start": 12.84,
+            "end": 14.1,
+            "word": "bottom"
+          },
+          {
+            "start": 14.1,
+            "end": 14.6,
+            "word": "right"
+          },
+          {
+            "start": 14.6,
+            "end": 17.9,
+            "word": "square"
+          },
+          {
+            "start": 17.9,
+            "end": 18.12,
+            "word": "of"
+          },
+          {
+            "start": 18.12,
+            "end": 18.24,
+            "word": "the"
+          },
+          {
+            "start": 18.24,
+            "end": 18.68,
+            "word": "2x2"
+          },
+          {
+            "start": 18.68,
+            "end": 18.92,
+            "word": "grid."
+          },
+          {
+            "start": 19.64,
+            "end": 19.84,
+            "word": "So"
+          },
+          {
+            "start": 19.84,
+            "end": 20.8,
+            "word": "the"
+          },
+          {
+            "start": 20.8,
+            "end": 20.98,
+            "word": "row"
+          },
+          {
+            "start": 20.98,
+            "end": 21.28,
+            "word": "closest"
+          },
+          {
+            "start": 21.28,
+            "end": 21.54,
+            "word": "to"
+          },
+          {
+            "start": 21.54,
+            "end": 21.68,
+            "word": "you"
+          },
+          {
+            "start": 21.68,
+            "end": 21.84,
+            "word": "and"
+          },
+          {
+            "start": 21.84,
+            "end": 21.96,
+            "word": "then"
+          },
+          {
+            "start": 21.96,
+            "end": 22.06,
+            "word": "to"
+          },
+          {
+            "start": 22.06,
+            "end": 22.2,
+            "word": "the"
+          },
+          {
+            "start": 22.2,
+            "end": 22.44,
+            "word": "right."
+          },
+          {
+            "start": 23.0,
+            "end": 23.14,
+            "word": "So"
+          },
+          {
+            "start": 23.14,
+            "end": 23.24,
+            "word": "then"
+          },
+          {
+            "start": 23.24,
+            "end": 23.32,
+            "word": "you"
+          },
+          {
+            "start": 23.32,
+            "end": 23.46,
+            "word": "put"
+          },
+          {
+            "start": 23.46,
+            "end": 23.6,
+            "word": "a"
+          },
+          {
+            "start": 23.6,
+            "end": 23.8,
+            "word": "red"
+          },
+          {
+            "start": 23.8,
+            "end": 24.16,
+            "word": "column"
+          },
+          {
+            "start": 24.16,
+            "end": 24.42,
+            "word": "brick"
+          },
+          {
+            "start": 24.42,
+            "end": 24.7,
+            "word": "over"
+          },
+          {
+            "start": 24.7,
+            "end": 24.94,
+            "word": "that"
+          },
+          {
+            "start": 24.94,
+            "end": 25.4,
+            "word": "square"
+          },
+          {
+            "start": 25.4,
+            "end": 26.34,
+            "word": "and"
+          },
+          {
+            "start": 26.34,
+            "end": 26.62,
+            "word": "then"
+          },
+          {
+            "start": 26.62,
+            "end": 26.88,
+            "word": "a"
+          },
+          {
+            "start": 26.88,
+            "end": 27.16,
+            "word": "green"
+          },
+          {
+            "start": 27.16,
+            "end": 27.44,
+            "word": "brick"
+          },
+          {
+            "start": 27.44,
+            "end": 27.62,
+            "word": "on"
+          },
+          {
+            "start": 27.62,
+            "end": 27.9,
+            "word": "top"
+          },
+          {
+            "start": 27.9,
+            "end": 28.04,
+            "word": "of"
+          },
+          {
+            "start": 28.04,
+            "end": 28.26,
+            "word": "it"
+          },
+          {
+            "start": 28.26,
+            "end": 28.56,
+            "word": "to"
+          },
+          {
+            "start": 28.56,
+            "end": 28.72,
+            "word": "then"
+          },
+          {
+            "start": 28.72,
+            "end": 28.92,
+            "word": "look"
+          },
+          {
+            "start": 28.92,
+            "end": 29.12,
+            "word": "like"
+          },
+          {
+            "start": 29.12,
+            "end": 29.26,
+            "word": "a"
+          },
+          {
+            "start": 29.26,
+            "end": 29.62,
+            "word": "capital"
+          },
+          {
+            "start": 29.62,
+            "end": 30.04,
+            "word": "T"
+          },
+          {
+            "start": 30.04,
+            "end": 30.62,
+            "word": "from"
+          },
+          {
+            "start": 30.62,
+            "end": 30.8,
+            "word": "the"
+          },
+          {
+            "start": 30.8,
+            "end": 30.97,
+            "word": "side."
+          },
+          {
+            "start": 30.97,
+            "end": 31.94,
+            "word": "And"
+          },
+          {
+            "start": 31.94,
+            "end": 32.3,
+            "word": "then"
+          },
+          {
+            "start": 32.3,
+            "end": 32.96,
+            "word": "you"
+          },
+          {
+            "start": 32.96,
+            "end": 33.26,
+            "word": "put"
+          },
+          {
+            "start": 33.26,
+            "end": 34.06,
+            "word": "one"
+          },
+          {
+            "start": 34.06,
+            "end": 34.28,
+            "word": "more"
+          },
+          {
+            "start": 34.28,
+            "end": 34.62,
+            "word": "blue"
+          },
+          {
+            "start": 34.62,
+            "end": 35.0,
+            "word": "brick"
+          },
+          {
+            "start": 35.0,
+            "end": 35.38,
+            "word": "on"
+          },
+          {
+            "start": 35.38,
+            "end": 35.68,
+            "word": "top"
+          },
+          {
+            "start": 35.68,
+            "end": 35.84,
+            "word": "of"
+          },
+          {
+            "start": 35.84,
+            "end": 36.0,
+            "word": "the"
+          },
+          {
+            "start": 36.0,
+            "end": 36.18,
+            "word": "green"
+          },
+          {
+            "start": 36.18,
+            "end": 36.46,
+            "word": "brick"
+          },
+          {
+            "start": 36.46,
+            "end": 36.66,
+            "word": "so"
+          },
+          {
+            "start": 36.66,
+            "end": 36.8,
+            "word": "that"
+          },
+          {
+            "start": 36.8,
+            "end": 36.94,
+            "word": "it"
+          },
+          {
+            "start": 36.94,
+            "end": 37.14,
+            "word": "looks"
+          },
+          {
+            "start": 37.14,
+            "end": 37.42,
+            "word": "like"
+          },
+          {
+            "start": 37.42,
+            "end": 37.62,
+            "word": "a"
+          },
+          {
+            "start": 37.62,
+            "end": 37.88,
+            "word": "plus"
+          },
+          {
+            "start": 37.88,
+            "end": 38.18,
+            "word": "sign"
+          },
+          {
+            "start": 38.18,
+            "end": 38.42,
+            "word": "from"
+          },
+          {
+            "start": 38.42,
+            "end": 38.7,
+            "word": "above."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-tr1-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-tr1-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so this is the same construction that starts out looking like a capital T from the side and looks like a plus sign from the top. But this time it starts, it's centered on the bottom right square of the 2x2 grid. So the row closest to you and then to the right. So then you put a red column brick over that square and then a green brick on top of it to then look like a capital T from the side. And then you put one more blue brick on top of the green brick so that it looks like a plus sign from above."
+}

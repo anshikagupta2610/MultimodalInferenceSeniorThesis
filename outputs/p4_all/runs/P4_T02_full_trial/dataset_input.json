@@ -1,0 +1,801 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P4",
+  "trial": 2,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P4/2/1",
+      "language": {
+        "text": "Alright, so looking at the 2x2 grid, in the bottom left square, you're going to place one red column brick, just in the bottom left square of that grid. And then on top of the red column brick, you're going to take one green brick, take the short side facing you, and then you're going to place the middle four studs. You're going to place that right on top of the red column brick, so that from the left, it looks like the letter T. And then, right on top of the green brick, you're going to take one blue brick, take the long side facing you, and you're going to place the middle section of the blue brick right on top of the middle section of the green brick, so that if you look from the top, it looks like a plus sign.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 9.02,
+            "text": "Alright, so looking at the 2x2 grid, in the bottom left square, you're going to place"
+          },
+          {
+            "start": 9.12,
+            "end": 13.48,
+            "text": "one red column brick, just in the bottom left square of that grid."
+          },
+          {
+            "start": 14.54,
+            "end": 21.32,
+            "text": "And then on top of the red column brick, you're going to take one green brick, take the short"
+          },
+          {
+            "start": 21.32,
+            "end": 29.2,
+            "text": "side facing you, and then you're going to place the middle four studs."
+          },
+          {
+            "start": 30.2,
+            "end": 35.74,
+            "text": "You're going to place that right on top of the red column brick, so that from the left,"
+          },
+          {
+            "start": 35.8,
+            "end": 42.67,
+            "text": "it looks like the letter T. And then, right on top of the green brick, you're going to"
+          },
+          {
+            "start": 42.67,
+            "end": 49.82,
+            "text": "take one blue brick, take the long side facing you, and you're going to place the middle"
+          },
+          {
+            "start": 49.88,
+            "end": 56.52,
+            "text": "section of the blue brick right on top of the middle section of the green brick, so"
+          },
+          {
+            "start": 56.52,
+            "end": 61.72,
+            "text": "that if you look from the top, it looks like a plus sign."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 2.16,
+            "word": "Alright,"
+          },
+          {
+            "start": 2.34,
+            "end": 2.56,
+            "word": "so"
+          },
+          {
+            "start": 2.56,
+            "end": 2.9,
+            "word": "looking"
+          },
+          {
+            "start": 2.9,
+            "end": 3.12,
+            "word": "at"
+          },
+          {
+            "start": 3.12,
+            "end": 3.26,
+            "word": "the"
+          },
+          {
+            "start": 3.26,
+            "end": 3.82,
+            "word": "2x2"
+          },
+          {
+            "start": 3.82,
+            "end": 4.16,
+            "word": "grid,"
+          },
+          {
+            "start": 4.5,
+            "end": 5.02,
+            "word": "in"
+          },
+          {
+            "start": 5.02,
+            "end": 5.26,
+            "word": "the"
+          },
+          {
+            "start": 5.26,
+            "end": 5.92,
+            "word": "bottom"
+          },
+          {
+            "start": 5.92,
+            "end": 6.36,
+            "word": "left"
+          },
+          {
+            "start": 6.36,
+            "end": 6.92,
+            "word": "square,"
+          },
+          {
+            "start": 7.38,
+            "end": 7.64,
+            "word": "you're"
+          },
+          {
+            "start": 7.64,
+            "end": 7.82,
+            "word": "going"
+          },
+          {
+            "start": 7.82,
+            "end": 8.06,
+            "word": "to"
+          },
+          {
+            "start": 8.06,
+            "end": 9.02,
+            "word": "place"
+          },
+          {
+            "start": 9.12,
+            "end": 9.48,
+            "word": "one"
+          },
+          {
+            "start": 9.48,
+            "end": 9.9,
+            "word": "red"
+          },
+          {
+            "start": 9.9,
+            "end": 10.38,
+            "word": "column"
+          },
+          {
+            "start": 10.38,
+            "end": 10.84,
+            "word": "brick,"
+          },
+          {
+            "start": 11.26,
+            "end": 11.62,
+            "word": "just"
+          },
+          {
+            "start": 11.62,
+            "end": 11.76,
+            "word": "in"
+          },
+          {
+            "start": 11.76,
+            "end": 11.88,
+            "word": "the"
+          },
+          {
+            "start": 11.88,
+            "end": 12.2,
+            "word": "bottom"
+          },
+          {
+            "start": 12.2,
+            "end": 12.5,
+            "word": "left"
+          },
+          {
+            "start": 12.5,
+            "end": 12.86,
+            "word": "square"
+          },
+          {
+            "start": 12.86,
+            "end": 13.02,
+            "word": "of"
+          },
+          {
+            "start": 13.02,
+            "end": 13.18,
+            "word": "that"
+          },
+          {
+            "start": 13.18,
+            "end": 13.48,
+            "word": "grid."
+          },
+          {
+            "start": 14.54,
+            "end": 14.78,
+            "word": "And"
+          },
+          {
+            "start": 14.78,
+            "end": 14.94,
+            "word": "then"
+          },
+          {
+            "start": 14.94,
+            "end": 15.14,
+            "word": "on"
+          },
+          {
+            "start": 15.14,
+            "end": 15.46,
+            "word": "top"
+          },
+          {
+            "start": 15.46,
+            "end": 15.6,
+            "word": "of"
+          },
+          {
+            "start": 15.6,
+            "end": 15.74,
+            "word": "the"
+          },
+          {
+            "start": 15.74,
+            "end": 15.98,
+            "word": "red"
+          },
+          {
+            "start": 15.98,
+            "end": 16.36,
+            "word": "column"
+          },
+          {
+            "start": 16.36,
+            "end": 16.72,
+            "word": "brick,"
+          },
+          {
+            "start": 17.38,
+            "end": 17.54,
+            "word": "you're"
+          },
+          {
+            "start": 17.54,
+            "end": 17.66,
+            "word": "going"
+          },
+          {
+            "start": 17.66,
+            "end": 17.8,
+            "word": "to"
+          },
+          {
+            "start": 17.8,
+            "end": 18.06,
+            "word": "take"
+          },
+          {
+            "start": 18.06,
+            "end": 18.44,
+            "word": "one"
+          },
+          {
+            "start": 18.44,
+            "end": 18.88,
+            "word": "green"
+          },
+          {
+            "start": 18.88,
+            "end": 19.3,
+            "word": "brick,"
+          },
+          {
+            "start": 20.04,
+            "end": 20.36,
+            "word": "take"
+          },
+          {
+            "start": 20.36,
+            "end": 21.02,
+            "word": "the"
+          },
+          {
+            "start": 21.02,
+            "end": 21.32,
+            "word": "short"
+          },
+          {
+            "start": 21.32,
+            "end": 21.72,
+            "word": "side"
+          },
+          {
+            "start": 21.72,
+            "end": 22.2,
+            "word": "facing"
+          },
+          {
+            "start": 22.2,
+            "end": 22.52,
+            "word": "you,"
+          },
+          {
+            "start": 23.3,
+            "end": 23.5,
+            "word": "and"
+          },
+          {
+            "start": 23.5,
+            "end": 23.84,
+            "word": "then"
+          },
+          {
+            "start": 23.84,
+            "end": 24.5,
+            "word": "you're"
+          },
+          {
+            "start": 24.5,
+            "end": 24.62,
+            "word": "going"
+          },
+          {
+            "start": 24.62,
+            "end": 24.78,
+            "word": "to"
+          },
+          {
+            "start": 24.78,
+            "end": 25.3,
+            "word": "place"
+          },
+          {
+            "start": 25.3,
+            "end": 26.06,
+            "word": "the"
+          },
+          {
+            "start": 26.06,
+            "end": 26.56,
+            "word": "middle"
+          },
+          {
+            "start": 26.56,
+            "end": 27.64,
+            "word": "four"
+          },
+          {
+            "start": 27.64,
+            "end": 29.2,
+            "word": "studs."
+          },
+          {
+            "start": 30.2,
+            "end": 30.44,
+            "word": "You're"
+          },
+          {
+            "start": 30.44,
+            "end": 30.54,
+            "word": "going"
+          },
+          {
+            "start": 30.54,
+            "end": 30.66,
+            "word": "to"
+          },
+          {
+            "start": 30.66,
+            "end": 30.96,
+            "word": "place"
+          },
+          {
+            "start": 30.96,
+            "end": 31.18,
+            "word": "that"
+          },
+          {
+            "start": 31.18,
+            "end": 31.46,
+            "word": "right"
+          },
+          {
+            "start": 31.46,
+            "end": 31.64,
+            "word": "on"
+          },
+          {
+            "start": 31.64,
+            "end": 31.94,
+            "word": "top"
+          },
+          {
+            "start": 31.94,
+            "end": 32.34,
+            "word": "of"
+          },
+          {
+            "start": 32.34,
+            "end": 32.58,
+            "word": "the"
+          },
+          {
+            "start": 32.58,
+            "end": 33.24,
+            "word": "red"
+          },
+          {
+            "start": 33.24,
+            "end": 33.6,
+            "word": "column"
+          },
+          {
+            "start": 33.6,
+            "end": 34.0,
+            "word": "brick,"
+          },
+          {
+            "start": 34.46,
+            "end": 34.64,
+            "word": "so"
+          },
+          {
+            "start": 34.64,
+            "end": 34.82,
+            "word": "that"
+          },
+          {
+            "start": 34.82,
+            "end": 35.08,
+            "word": "from"
+          },
+          {
+            "start": 35.08,
+            "end": 35.28,
+            "word": "the"
+          },
+          {
+            "start": 35.28,
+            "end": 35.74,
+            "word": "left,"
+          },
+          {
+            "start": 35.8,
+            "end": 36.3,
+            "word": "it"
+          },
+          {
+            "start": 36.3,
+            "end": 36.56,
+            "word": "looks"
+          },
+          {
+            "start": 36.56,
+            "end": 36.9,
+            "word": "like"
+          },
+          {
+            "start": 36.9,
+            "end": 37.16,
+            "word": "the"
+          },
+          {
+            "start": 37.16,
+            "end": 37.4,
+            "word": "letter"
+          },
+          {
+            "start": 37.4,
+            "end": 37.8,
+            "word": "T."
+          },
+          {
+            "start": 38.66,
+            "end": 39.22,
+            "word": "And"
+          },
+          {
+            "start": 39.22,
+            "end": 39.52,
+            "word": "then,"
+          },
+          {
+            "start": 40.04,
+            "end": 40.44,
+            "word": "right"
+          },
+          {
+            "start": 40.44,
+            "end": 40.62,
+            "word": "on"
+          },
+          {
+            "start": 40.62,
+            "end": 40.9,
+            "word": "top"
+          },
+          {
+            "start": 40.9,
+            "end": 41.08,
+            "word": "of"
+          },
+          {
+            "start": 41.08,
+            "end": 41.24,
+            "word": "the"
+          },
+          {
+            "start": 41.24,
+            "end": 41.54,
+            "word": "green"
+          },
+          {
+            "start": 41.54,
+            "end": 41.88,
+            "word": "brick,"
+          },
+          {
+            "start": 42.2,
+            "end": 42.52,
+            "word": "you're"
+          },
+          {
+            "start": 42.52,
+            "end": 42.62,
+            "word": "going"
+          },
+          {
+            "start": 42.62,
+            "end": 42.67,
+            "word": "to"
+          },
+          {
+            "start": 42.67,
+            "end": 43.04,
+            "word": "take"
+          },
+          {
+            "start": 43.04,
+            "end": 43.6,
+            "word": "one"
+          },
+          {
+            "start": 43.6,
+            "end": 43.94,
+            "word": "blue"
+          },
+          {
+            "start": 43.94,
+            "end": 44.4,
+            "word": "brick,"
+          },
+          {
+            "start": 45.0,
+            "end": 45.26,
+            "word": "take"
+          },
+          {
+            "start": 45.26,
+            "end": 45.48,
+            "word": "the"
+          },
+          {
+            "start": 45.48,
+            "end": 45.84,
+            "word": "long"
+          },
+          {
+            "start": 45.84,
+            "end": 46.28,
+            "word": "side"
+          },
+          {
+            "start": 46.28,
+            "end": 46.7,
+            "word": "facing"
+          },
+          {
+            "start": 46.7,
+            "end": 47.04,
+            "word": "you,"
+          },
+          {
+            "start": 47.62,
+            "end": 48.0,
+            "word": "and"
+          },
+          {
+            "start": 48.0,
+            "end": 48.18,
+            "word": "you're"
+          },
+          {
+            "start": 48.18,
+            "end": 48.32,
+            "word": "going"
+          },
+          {
+            "start": 48.32,
+            "end": 48.5,
+            "word": "to"
+          },
+          {
+            "start": 48.5,
+            "end": 48.96,
+            "word": "place"
+          },
+          {
+            "start": 48.96,
+            "end": 49.56,
+            "word": "the"
+          },
+          {
+            "start": 49.56,
+            "end": 49.82,
+            "word": "middle"
+          },
+          {
+            "start": 49.88,
+            "end": 50.48,
+            "word": "section"
+          },
+          {
+            "start": 50.48,
+            "end": 51.24,
+            "word": "of"
+          },
+          {
+            "start": 51.24,
+            "end": 51.42,
+            "word": "the"
+          },
+          {
+            "start": 51.42,
+            "end": 51.66,
+            "word": "blue"
+          },
+          {
+            "start": 51.66,
+            "end": 52.1,
+            "word": "brick"
+          },
+          {
+            "start": 52.1,
+            "end": 52.58,
+            "word": "right"
+          },
+          {
+            "start": 52.58,
+            "end": 52.78,
+            "word": "on"
+          },
+          {
+            "start": 52.78,
+            "end": 53.06,
+            "word": "top"
+          },
+          {
+            "start": 53.06,
+            "end": 53.24,
+            "word": "of"
+          },
+          {
+            "start": 53.24,
+            "end": 53.38,
+            "word": "the"
+          },
+          {
+            "start": 53.38,
+            "end": 53.68,
+            "word": "middle"
+          },
+          {
+            "start": 53.68,
+            "end": 54.34,
+            "word": "section"
+          },
+          {
+            "start": 54.34,
+            "end": 55.16,
+            "word": "of"
+          },
+          {
+            "start": 55.16,
+            "end": 55.36,
+            "word": "the"
+          },
+          {
+            "start": 55.36,
+            "end": 55.62,
+            "word": "green"
+          },
+          {
+            "start": 55.62,
+            "end": 56.06,
+            "word": "brick,"
+          },
+          {
+            "start": 56.36,
+            "end": 56.52,
+            "word": "so"
+          },
+          {
+            "start": 56.52,
+            "end": 56.74,
+            "word": "that"
+          },
+          {
+            "start": 56.74,
+            "end": 56.88,
+            "word": "if"
+          },
+          {
+            "start": 56.88,
+            "end": 57.02,
+            "word": "you"
+          },
+          {
+            "start": 57.02,
+            "end": 57.44,
+            "word": "look"
+          },
+          {
+            "start": 57.44,
+            "end": 58.18,
+            "word": "from"
+          },
+          {
+            "start": 58.18,
+            "end": 58.38,
+            "word": "the"
+          },
+          {
+            "start": 58.38,
+            "end": 58.8,
+            "word": "top,"
+          },
+          {
+            "start": 59.42,
+            "end": 59.76,
+            "word": "it"
+          },
+          {
+            "start": 59.76,
+            "end": 60.06,
+            "word": "looks"
+          },
+          {
+            "start": 60.06,
+            "end": 60.44,
+            "word": "like"
+          },
+          {
+            "start": 60.44,
+            "end": 61.02,
+            "word": "a"
+          },
+          {
+            "start": 61.02,
+            "end": 61.36,
+            "word": "plus"
+          },
+          {
+            "start": 61.36,
+            "end": 61.72,
+            "word": "sign."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-tr3-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-tr3-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Alright, so looking at the 2x2 grid, in the bottom left square, you're going to place one red column brick, just in the bottom left square of that grid. And then on top of the red column brick, you're going to take one green brick, take the short side facing you, and then you're going to place the middle four studs. You're going to place that right on top of the red column brick, so that from the left, it looks like the letter T. And then, right on top of the green brick, you're going to take one blue brick, take the long side facing you, and you're going to place the middle section of the blue brick right on top of the middle section of the green brick, so that if you look from the top, it looks like a plus sign."
+}

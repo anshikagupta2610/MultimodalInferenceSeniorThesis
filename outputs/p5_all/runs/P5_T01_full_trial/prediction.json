@@ -1,0 +1,47 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: recording. Okay, so on the right-hand side of your little grid, take the green block and orient it lengthwise so that it's just covering the right-hand side of the grid. Then on the upper right-hand side, so on that block far away from you, put one of the red blocks. And then on top of that, put the other green block so that it is parallel to the last one. So the end should be, the end result should be sort of a C shape, where the curve of the C is curving away from you.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "s2Hzao-lKdHisbwPgsPk2Q8",
+  "source": "live_llm",
+  "prediction": {
+    "status": "assumed",
+    "shape": "C",
+    "blocks": [
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 2.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 2.0,
+        "y": 5.0,
+        "z": -1.0
+      }
+    ],
+    "assumptions": [
+      "The first green block is centered along the z-axis of the right column (x=[2,4], z=[0,4]).",
+      "The red block is centered on the back half of the first green block's footprint (x=[2,4], z=[0,2]).",
+      "The second green block is centered on the red block's footprint."
+    ],
+    "unresolved": [],
+    "evidence": [
+      "on the right-hand side of your little grid, take the green block and orient it lengthwise so that it's just covering the right-hand side of the grid.",
+      "Then on the upper right-hand side, so on that block far away from you, put one of the red blocks.",
+      "And then on top of that, put the other green block so that it is parallel to the last one.",
+      "So the end should be, the end result should be sort of a C shape, where the curve of the C is curving away from you."
+    ]
+  },
+  "validation_error": null
+}

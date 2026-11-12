@@ -1,0 +1,34 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": "C",
+  "status": "assumed",
+  "assumptions": [
+    "The instruction for the red block to be \"on the half of the green brick that's closest to you\" was superseded by the more precise instruction to be \"vertically aligned over the bottom left square\".",
+    "The initial green block's 'short side facing you' implies axis=x and placement in the front row (z=2).",
+    "The instruction to place the construction \"on the left side of the 2x2 grid\" for the base green block means its leftmost edge is at x=0, allowing it to span the entire grid width, as the vertical red element is explicitly placed in the left column."
+  ],
+  "blocks": [
+    {
+      "color": "green",
+      "axis": "x",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 0.0,
+      "y": 1.0,
+      "z": 2.0
+    },
+    {
+      "color": "green",
+      "axis": "x",
+      "x": 0.0,
+      "y": 5.0,
+      "z": 2.0
+    }
+  ]
+}

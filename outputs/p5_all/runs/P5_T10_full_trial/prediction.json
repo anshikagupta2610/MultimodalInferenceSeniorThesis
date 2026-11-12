@@ -1,0 +1,44 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: All right, left-hand side, C curve, green, red, green, with the red block closer towards you on the bottom half.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "DWPzavUKrpqi1A_06r_IAg",
+  "source": "live_llm",
+  "prediction": {
+    "status": "assumed",
+    "shape": "C",
+    "blocks": [
+      {
+        "color": "green",
+        "axis": "x",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 1.0,
+        "z": 2.0
+      },
+      {
+        "color": "green",
+        "axis": "x",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 2.0
+      }
+    ],
+    "assumptions": [
+      "The 'C' shape implies the green blocks are oriented along the x-axis (horizontal arms) and the red block is oriented along the y-axis (vertical spine).",
+      "The green blocks are aligned with each other.",
+      "The red block is placed at the left-front corner of the bottom green block to satisfy \"left-hand side\" and \"closer towards you\"."
+    ],
+    "unresolved": [],
+    "evidence": [
+      "All right, left-hand side, C curve, green, red, green, with the red block closer towards you on the bottom half."
+    ]
+  },
+  "validation_error": null
+}

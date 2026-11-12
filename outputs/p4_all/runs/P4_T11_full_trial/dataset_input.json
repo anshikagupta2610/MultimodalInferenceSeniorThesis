@@ -1,0 +1,326 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P4",
+  "trial": 11,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P4/11/1",
+      "language": {
+        "text": "All right, so this is the construction that from your perspective it uses the blue brick and the two red column bricks stacked on top of it, and it looks like a capital J from your perspective. But this time it's on the back row of the 2x2 grid, so furthest away from you.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 6.1,
+            "text": "All right, so this is the construction that from your perspective it uses the blue brick"
+          },
+          {
+            "start": 6.22,
+            "end": 11.57,
+            "text": "and the two red column bricks stacked on top of it, and it looks like a capital J from"
+          },
+          {
+            "start": 11.57,
+            "end": 12.28,
+            "text": "your perspective."
+          },
+          {
+            "start": 12.76,
+            "end": 18.52,
+            "text": "But this time it's on the back row of the 2x2 grid, so furthest away from you."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.54,
+            "word": "All"
+          },
+          {
+            "start": 1.54,
+            "end": 1.72,
+            "word": "right,"
+          },
+          {
+            "start": 1.94,
+            "end": 2.38,
+            "word": "so"
+          },
+          {
+            "start": 2.38,
+            "end": 2.58,
+            "word": "this"
+          },
+          {
+            "start": 2.58,
+            "end": 2.7,
+            "word": "is"
+          },
+          {
+            "start": 2.7,
+            "end": 2.84,
+            "word": "the"
+          },
+          {
+            "start": 2.84,
+            "end": 3.36,
+            "word": "construction"
+          },
+          {
+            "start": 3.36,
+            "end": 3.68,
+            "word": "that"
+          },
+          {
+            "start": 3.68,
+            "end": 3.84,
+            "word": "from"
+          },
+          {
+            "start": 3.84,
+            "end": 4.0,
+            "word": "your"
+          },
+          {
+            "start": 4.0,
+            "end": 4.56,
+            "word": "perspective"
+          },
+          {
+            "start": 4.56,
+            "end": 4.96,
+            "word": "it"
+          },
+          {
+            "start": 4.96,
+            "end": 5.24,
+            "word": "uses"
+          },
+          {
+            "start": 5.24,
+            "end": 5.52,
+            "word": "the"
+          },
+          {
+            "start": 5.52,
+            "end": 5.76,
+            "word": "blue"
+          },
+          {
+            "start": 5.76,
+            "end": 6.1,
+            "word": "brick"
+          },
+          {
+            "start": 6.22,
+            "end": 6.36,
+            "word": "and"
+          },
+          {
+            "start": 6.36,
+            "end": 6.52,
+            "word": "the"
+          },
+          {
+            "start": 6.52,
+            "end": 6.74,
+            "word": "two"
+          },
+          {
+            "start": 6.74,
+            "end": 7.12,
+            "word": "red"
+          },
+          {
+            "start": 7.12,
+            "end": 7.78,
+            "word": "column"
+          },
+          {
+            "start": 7.78,
+            "end": 8.04,
+            "word": "bricks"
+          },
+          {
+            "start": 8.04,
+            "end": 8.38,
+            "word": "stacked"
+          },
+          {
+            "start": 8.38,
+            "end": 8.54,
+            "word": "on"
+          },
+          {
+            "start": 8.54,
+            "end": 8.76,
+            "word": "top"
+          },
+          {
+            "start": 8.76,
+            "end": 8.92,
+            "word": "of"
+          },
+          {
+            "start": 8.92,
+            "end": 9.1,
+            "word": "it,"
+          },
+          {
+            "start": 9.12,
+            "end": 9.62,
+            "word": "and"
+          },
+          {
+            "start": 9.62,
+            "end": 9.74,
+            "word": "it"
+          },
+          {
+            "start": 9.74,
+            "end": 9.94,
+            "word": "looks"
+          },
+          {
+            "start": 9.94,
+            "end": 10.1,
+            "word": "like"
+          },
+          {
+            "start": 10.1,
+            "end": 10.24,
+            "word": "a"
+          },
+          {
+            "start": 10.24,
+            "end": 10.6,
+            "word": "capital"
+          },
+          {
+            "start": 10.6,
+            "end": 11.06,
+            "word": "J"
+          },
+          {
+            "start": 11.06,
+            "end": 11.57,
+            "word": "from"
+          },
+          {
+            "start": 11.57,
+            "end": 11.74,
+            "word": "your"
+          },
+          {
+            "start": 11.74,
+            "end": 12.28,
+            "word": "perspective."
+          },
+          {
+            "start": 12.76,
+            "end": 13.2,
+            "word": "But"
+          },
+          {
+            "start": 13.2,
+            "end": 13.42,
+            "word": "this"
+          },
+          {
+            "start": 13.42,
+            "end": 13.74,
+            "word": "time"
+          },
+          {
+            "start": 13.74,
+            "end": 14.04,
+            "word": "it's"
+          },
+          {
+            "start": 14.04,
+            "end": 14.18,
+            "word": "on"
+          },
+          {
+            "start": 14.18,
+            "end": 14.4,
+            "word": "the"
+          },
+          {
+            "start": 14.4,
+            "end": 14.9,
+            "word": "back"
+          },
+          {
+            "start": 14.9,
+            "end": 15.38,
+            "word": "row"
+          },
+          {
+            "start": 15.38,
+            "end": 16.16,
+            "word": "of"
+          },
+          {
+            "start": 16.16,
+            "end": 16.32,
+            "word": "the"
+          },
+          {
+            "start": 16.32,
+            "end": 16.84,
+            "word": "2x2"
+          },
+          {
+            "start": 16.84,
+            "end": 17.12,
+            "word": "grid,"
+          },
+          {
+            "start": 17.26,
+            "end": 17.38,
+            "word": "so"
+          },
+          {
+            "start": 17.38,
+            "end": 17.82,
+            "word": "furthest"
+          },
+          {
+            "start": 17.82,
+            "end": 18.12,
+            "word": "away"
+          },
+          {
+            "start": 18.12,
+            "end": 18.36,
+            "word": "from"
+          },
+          {
+            "start": 18.36,
+            "end": 18.52,
+            "word": "you."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-l3-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-l3-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: All right, so this is the construction that from your perspective it uses the blue brick and the two red column bricks stacked on top of it, and it looks like a capital J from your perspective. But this time it's on the back row of the 2x2 grid, so furthest away from you."
+}

@@ -1,0 +1,42 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so we're going to build essentially the same basic structure. This time the blue block is going to be in the top two part of the grid. And instead the red blocks are going to be on the left-hand side of the grid. So your final product should actually look like an L facing the proper direction.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "0WHzaqegB_HAsbwPoJSl2A0",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "L",
+    "blocks": [
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "the blue block is going to be in the top two part of the grid.",
+      "the red blocks are going to be on the left-hand side of the grid.",
+      "So your final product should actually look like an L facing the proper direction."
+    ]
+  },
+  "validation_error": null
+}

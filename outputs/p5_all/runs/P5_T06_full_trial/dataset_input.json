@@ -1,0 +1,451 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P5",
+  "trial": 6,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P5/6/1",
+      "language": {
+        "text": "Alright, we're building another one of those little cross beam structures. So upper right, put a red block, then pointing this way, put a green block on top of that, centered on it so there's two pips of overhang on each side, then again, blue block on top of that, oriented this way instead so they're perpendicular, and again with two pips hanging off of it so it's like a little cross on top of a red block.",
+        "sentences": [
+          {
+            "start": 0.6,
+            "end": 4.49,
+            "text": "Alright, we're building another one of those little cross beam structures."
+          },
+          {
+            "start": 4.49,
+            "end": 12.82,
+            "text": "So upper right, put a red block, then pointing this way, put a green block on top of that,"
+          },
+          {
+            "start": 13.86,
+            "end": 19.67,
+            "text": "centered on it so there's two pips of overhang on each side, then again, blue block on top"
+          },
+          {
+            "start": 19.67,
+            "end": 27.2,
+            "text": "of that, oriented this way instead so they're perpendicular, and again with two pips hanging"
+          },
+          {
+            "start": 27.96,
+            "end": 33.42,
+            "text": "off of it so it's like a little cross on top of a red block."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.6,
+            "end": 1.16,
+            "word": "Alright,"
+          },
+          {
+            "start": 1.4,
+            "end": 1.62,
+            "word": "we're"
+          },
+          {
+            "start": 1.62,
+            "end": 1.82,
+            "word": "building"
+          },
+          {
+            "start": 1.82,
+            "end": 2.1,
+            "word": "another"
+          },
+          {
+            "start": 2.1,
+            "end": 2.24,
+            "word": "one"
+          },
+          {
+            "start": 2.24,
+            "end": 2.38,
+            "word": "of"
+          },
+          {
+            "start": 2.38,
+            "end": 2.52,
+            "word": "those"
+          },
+          {
+            "start": 2.52,
+            "end": 2.82,
+            "word": "little"
+          },
+          {
+            "start": 2.82,
+            "end": 3.66,
+            "word": "cross"
+          },
+          {
+            "start": 3.66,
+            "end": 4.02,
+            "word": "beam"
+          },
+          {
+            "start": 4.02,
+            "end": 4.49,
+            "word": "structures."
+          },
+          {
+            "start": 4.49,
+            "end": 4.98,
+            "word": "So"
+          },
+          {
+            "start": 4.98,
+            "end": 5.48,
+            "word": "upper"
+          },
+          {
+            "start": 5.48,
+            "end": 7.0,
+            "word": "right,"
+          },
+          {
+            "start": 7.28,
+            "end": 7.56,
+            "word": "put"
+          },
+          {
+            "start": 7.56,
+            "end": 8.0,
+            "word": "a"
+          },
+          {
+            "start": 8.0,
+            "end": 8.2,
+            "word": "red"
+          },
+          {
+            "start": 8.2,
+            "end": 8.6,
+            "word": "block,"
+          },
+          {
+            "start": 9.04,
+            "end": 9.36,
+            "word": "then"
+          },
+          {
+            "start": 9.36,
+            "end": 9.92,
+            "word": "pointing"
+          },
+          {
+            "start": 9.92,
+            "end": 10.28,
+            "word": "this"
+          },
+          {
+            "start": 10.28,
+            "end": 10.62,
+            "word": "way,"
+          },
+          {
+            "start": 10.78,
+            "end": 11.04,
+            "word": "put"
+          },
+          {
+            "start": 11.04,
+            "end": 11.26,
+            "word": "a"
+          },
+          {
+            "start": 11.26,
+            "end": 11.56,
+            "word": "green"
+          },
+          {
+            "start": 11.56,
+            "end": 11.98,
+            "word": "block"
+          },
+          {
+            "start": 11.98,
+            "end": 12.18,
+            "word": "on"
+          },
+          {
+            "start": 12.18,
+            "end": 12.42,
+            "word": "top"
+          },
+          {
+            "start": 12.42,
+            "end": 12.58,
+            "word": "of"
+          },
+          {
+            "start": 12.58,
+            "end": 12.82,
+            "word": "that,"
+          },
+          {
+            "start": 13.86,
+            "end": 14.34,
+            "word": "centered"
+          },
+          {
+            "start": 14.34,
+            "end": 14.58,
+            "word": "on"
+          },
+          {
+            "start": 14.58,
+            "end": 14.74,
+            "word": "it"
+          },
+          {
+            "start": 14.74,
+            "end": 14.88,
+            "word": "so"
+          },
+          {
+            "start": 14.88,
+            "end": 15.14,
+            "word": "there's"
+          },
+          {
+            "start": 15.14,
+            "end": 15.36,
+            "word": "two"
+          },
+          {
+            "start": 15.36,
+            "end": 15.74,
+            "word": "pips"
+          },
+          {
+            "start": 15.74,
+            "end": 15.96,
+            "word": "of"
+          },
+          {
+            "start": 15.96,
+            "end": 16.48,
+            "word": "overhang"
+          },
+          {
+            "start": 16.48,
+            "end": 16.76,
+            "word": "on"
+          },
+          {
+            "start": 16.76,
+            "end": 17.04,
+            "word": "each"
+          },
+          {
+            "start": 17.04,
+            "end": 17.44,
+            "word": "side,"
+          },
+          {
+            "start": 17.86,
+            "end": 18.0,
+            "word": "then"
+          },
+          {
+            "start": 18.0,
+            "end": 18.28,
+            "word": "again,"
+          },
+          {
+            "start": 18.52,
+            "end": 18.68,
+            "word": "blue"
+          },
+          {
+            "start": 18.68,
+            "end": 19.12,
+            "word": "block"
+          },
+          {
+            "start": 19.12,
+            "end": 19.42,
+            "word": "on"
+          },
+          {
+            "start": 19.42,
+            "end": 19.67,
+            "word": "top"
+          },
+          {
+            "start": 19.67,
+            "end": 19.86,
+            "word": "of"
+          },
+          {
+            "start": 19.86,
+            "end": 20.14,
+            "word": "that,"
+          },
+          {
+            "start": 20.52,
+            "end": 20.9,
+            "word": "oriented"
+          },
+          {
+            "start": 20.9,
+            "end": 21.74,
+            "word": "this"
+          },
+          {
+            "start": 21.74,
+            "end": 22.06,
+            "word": "way"
+          },
+          {
+            "start": 22.06,
+            "end": 22.44,
+            "word": "instead"
+          },
+          {
+            "start": 22.44,
+            "end": 22.66,
+            "word": "so"
+          },
+          {
+            "start": 22.66,
+            "end": 22.84,
+            "word": "they're"
+          },
+          {
+            "start": 22.84,
+            "end": 23.48,
+            "word": "perpendicular,"
+          },
+          {
+            "start": 24.22,
+            "end": 24.4,
+            "word": "and"
+          },
+          {
+            "start": 24.4,
+            "end": 24.66,
+            "word": "again"
+          },
+          {
+            "start": 24.66,
+            "end": 24.84,
+            "word": "with"
+          },
+          {
+            "start": 24.84,
+            "end": 25.06,
+            "word": "two"
+          },
+          {
+            "start": 25.06,
+            "end": 25.56,
+            "word": "pips"
+          },
+          {
+            "start": 25.56,
+            "end": 27.2,
+            "word": "hanging"
+          },
+          {
+            "start": 27.96,
+            "end": 28.18,
+            "word": "off"
+          },
+          {
+            "start": 28.18,
+            "end": 28.32,
+            "word": "of"
+          },
+          {
+            "start": 28.32,
+            "end": 28.54,
+            "word": "it"
+          },
+          {
+            "start": 28.54,
+            "end": 28.78,
+            "word": "so"
+          },
+          {
+            "start": 28.78,
+            "end": 29.06,
+            "word": "it's"
+          },
+          {
+            "start": 29.06,
+            "end": 29.28,
+            "word": "like"
+          },
+          {
+            "start": 29.28,
+            "end": 29.44,
+            "word": "a"
+          },
+          {
+            "start": 29.44,
+            "end": 29.76,
+            "word": "little"
+          },
+          {
+            "start": 29.76,
+            "end": 30.84,
+            "word": "cross"
+          },
+          {
+            "start": 30.84,
+            "end": 32.22,
+            "word": "on"
+          },
+          {
+            "start": 32.22,
+            "end": 32.72,
+            "word": "top"
+          },
+          {
+            "start": 32.72,
+            "end": 32.88,
+            "word": "of"
+          },
+          {
+            "start": 32.88,
+            "end": 32.98,
+            "word": "a"
+          },
+          {
+            "start": 32.98,
+            "end": 33.12,
+            "word": "red"
+          },
+          {
+            "start": 33.12,
+            "end": 33.42,
+            "word": "block."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-tr4-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-tr4-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Alright, we're building another one of those little cross beam structures. So upper right, put a red block, then pointing this way, put a green block on top of that, centered on it so there's two pips of overhang on each side, then again, blue block on top of that, oriented this way instead so they're perpendicular, and again with two pips hanging off of it so it's like a little cross on top of a red block."
+}

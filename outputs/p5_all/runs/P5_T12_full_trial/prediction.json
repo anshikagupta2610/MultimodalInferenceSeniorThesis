@@ -1,0 +1,42 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Backwards L, or sorry, forwards L in the bottom half of the screen. So blue going this way, then two reds on the left-hand side stacked on top of each other. Nice little L shape.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "RWPzatvbKt-YotQP3rq04AE",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "L",
+    "blocks": [
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 4.0,
+        "z": 2.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "forwards L in the bottom half of the screen",
+      "blue going this way",
+      "then two reds on the left-hand side stacked on top of each other"
+    ]
+  },
+  "validation_error": "Two blocks overlap."
+}

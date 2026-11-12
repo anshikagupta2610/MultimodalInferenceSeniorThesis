@@ -1,0 +1,42 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: So in a previous trial, you constructed using that, you constructed that capital L shape using the blue brick and then the two red column bricks stacked on top of each other. This is the exact same thing, except now the blue brick lays on the front half of the 2x2 grid. So it's on the front of it, and then the red column bricks are stacked on top of each other above the left half of the blue brick, so that once again it looks like a capital L from your perspective.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "amLzaoOtOMCOotQPoqiQsAs",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "L",
+    "blocks": [
+      {
+        "color": "blue",
+        "axis": "x",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 1.0,
+        "z": 2.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 2.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "the blue brick lays on the front half of the 2x2 grid",
+      "the red column bricks are stacked on top of each other above the left half of the blue brick",
+      "so that once again it looks like a capital L from your perspective"
+    ]
+  },
+  "validation_error": null
+}

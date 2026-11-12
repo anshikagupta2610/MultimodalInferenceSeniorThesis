@@ -1,0 +1,366 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P5",
+  "trial": 4,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P5/4/1",
+      "language": {
+        "text": "Okay, so we're going to build essentially the same basic structure. This time the blue block is going to be in the top two part of the grid. And instead the red blocks are going to be on the left-hand side of the grid. So your final product should actually look like an L facing the proper direction.",
+        "sentences": [
+          {
+            "start": 0.3,
+            "end": 3.56,
+            "text": "Okay, so we're going to build essentially the same basic"
+          },
+          {
+            "start": 3.6,
+            "end": 4.1,
+            "text": "structure."
+          },
+          {
+            "start": 4.54,
+            "end": 7.02,
+            "text": "This time the blue block is going to be"
+          },
+          {
+            "start": 7.34,
+            "end": 10.08,
+            "text": "in the top two part of the grid."
+          },
+          {
+            "start": 10.42,
+            "end": 13.97,
+            "text": "And instead the red blocks are going to be"
+          },
+          {
+            "start": 13.97,
+            "end": 16.18,
+            "text": "on the left-hand side of the grid."
+          },
+          {
+            "start": 16.76,
+            "end": 19.13,
+            "text": "So your final product should actually look"
+          },
+          {
+            "start": 19.13,
+            "end": 23.18,
+            "text": "like an L facing the proper direction."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.3,
+            "end": 1.0,
+            "word": "Okay,"
+          },
+          {
+            "start": 1.18,
+            "end": 1.34,
+            "word": "so"
+          },
+          {
+            "start": 1.34,
+            "end": 1.5,
+            "word": "we're"
+          },
+          {
+            "start": 1.5,
+            "end": 1.58,
+            "word": "going"
+          },
+          {
+            "start": 1.58,
+            "end": 1.66,
+            "word": "to"
+          },
+          {
+            "start": 1.66,
+            "end": 1.94,
+            "word": "build"
+          },
+          {
+            "start": 1.94,
+            "end": 2.46,
+            "word": "essentially"
+          },
+          {
+            "start": 2.46,
+            "end": 2.72,
+            "word": "the"
+          },
+          {
+            "start": 2.72,
+            "end": 3.1,
+            "word": "same"
+          },
+          {
+            "start": 3.1,
+            "end": 3.56,
+            "word": "basic"
+          },
+          {
+            "start": 3.6,
+            "end": 4.1,
+            "word": "structure."
+          },
+          {
+            "start": 4.54,
+            "end": 4.78,
+            "word": "This"
+          },
+          {
+            "start": 4.78,
+            "end": 5.1,
+            "word": "time"
+          },
+          {
+            "start": 5.1,
+            "end": 5.3,
+            "word": "the"
+          },
+          {
+            "start": 5.3,
+            "end": 5.54,
+            "word": "blue"
+          },
+          {
+            "start": 5.54,
+            "end": 5.96,
+            "word": "block"
+          },
+          {
+            "start": 5.96,
+            "end": 6.26,
+            "word": "is"
+          },
+          {
+            "start": 6.26,
+            "end": 6.5,
+            "word": "going"
+          },
+          {
+            "start": 6.5,
+            "end": 6.72,
+            "word": "to"
+          },
+          {
+            "start": 6.72,
+            "end": 7.02,
+            "word": "be"
+          },
+          {
+            "start": 7.34,
+            "end": 7.5,
+            "word": "in"
+          },
+          {
+            "start": 7.5,
+            "end": 7.7,
+            "word": "the"
+          },
+          {
+            "start": 7.7,
+            "end": 8.12,
+            "word": "top"
+          },
+          {
+            "start": 8.12,
+            "end": 8.64,
+            "word": "two"
+          },
+          {
+            "start": 8.64,
+            "end": 9.54,
+            "word": "part"
+          },
+          {
+            "start": 9.54,
+            "end": 9.66,
+            "word": "of"
+          },
+          {
+            "start": 9.66,
+            "end": 9.78,
+            "word": "the"
+          },
+          {
+            "start": 9.78,
+            "end": 10.08,
+            "word": "grid."
+          },
+          {
+            "start": 10.42,
+            "end": 10.74,
+            "word": "And"
+          },
+          {
+            "start": 10.74,
+            "end": 11.24,
+            "word": "instead"
+          },
+          {
+            "start": 11.24,
+            "end": 11.74,
+            "word": "the"
+          },
+          {
+            "start": 11.74,
+            "end": 12.86,
+            "word": "red"
+          },
+          {
+            "start": 12.86,
+            "end": 13.36,
+            "word": "blocks"
+          },
+          {
+            "start": 13.36,
+            "end": 13.6,
+            "word": "are"
+          },
+          {
+            "start": 13.6,
+            "end": 13.74,
+            "word": "going"
+          },
+          {
+            "start": 13.74,
+            "end": 13.82,
+            "word": "to"
+          },
+          {
+            "start": 13.82,
+            "end": 13.97,
+            "word": "be"
+          },
+          {
+            "start": 13.97,
+            "end": 14.24,
+            "word": "on"
+          },
+          {
+            "start": 14.24,
+            "end": 14.44,
+            "word": "the"
+          },
+          {
+            "start": 14.44,
+            "end": 15.28,
+            "word": "left-hand"
+          },
+          {
+            "start": 15.28,
+            "end": 15.64,
+            "word": "side"
+          },
+          {
+            "start": 15.64,
+            "end": 15.78,
+            "word": "of"
+          },
+          {
+            "start": 15.78,
+            "end": 15.88,
+            "word": "the"
+          },
+          {
+            "start": 15.88,
+            "end": 16.18,
+            "word": "grid."
+          },
+          {
+            "start": 16.76,
+            "end": 17.2,
+            "word": "So"
+          },
+          {
+            "start": 17.2,
+            "end": 17.48,
+            "word": "your"
+          },
+          {
+            "start": 17.48,
+            "end": 17.82,
+            "word": "final"
+          },
+          {
+            "start": 17.82,
+            "end": 18.26,
+            "word": "product"
+          },
+          {
+            "start": 18.26,
+            "end": 18.6,
+            "word": "should"
+          },
+          {
+            "start": 18.6,
+            "end": 18.92,
+            "word": "actually"
+          },
+          {
+            "start": 18.92,
+            "end": 19.13,
+            "word": "look"
+          },
+          {
+            "start": 19.13,
+            "end": 19.4,
+            "word": "like"
+          },
+          {
+            "start": 19.4,
+            "end": 19.6,
+            "word": "an"
+          },
+          {
+            "start": 19.6,
+            "end": 20.06,
+            "word": "L"
+          },
+          {
+            "start": 20.06,
+            "end": 21.54,
+            "word": "facing"
+          },
+          {
+            "start": 21.54,
+            "end": 22.08,
+            "word": "the"
+          },
+          {
+            "start": 22.08,
+            "end": 22.64,
+            "word": "proper"
+          },
+          {
+            "start": 22.64,
+            "end": 23.18,
+            "word": "direction."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-l2-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-l2-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so we're going to build essentially the same basic structure. This time the blue block is going to be in the top two part of the grid. And instead the red blocks are going to be on the left-hand side of the grid. So your final product should actually look like an L facing the proper direction."
+}

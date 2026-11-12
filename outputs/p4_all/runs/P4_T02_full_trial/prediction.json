@@ -1,0 +1,42 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Alright, so looking at the 2x2 grid, in the bottom left square, you're going to place one red column brick, just in the bottom left square of that grid. And then on top of the red column brick, you're going to take one green brick, take the short side facing you, and then you're going to place the middle four studs. You're going to place that right on top of the red column brick, so that from the left, it looks like the letter T. And then, right on top of the green brick, you're going to take one blue brick, take the long side facing you, and you're going to place the middle section of the blue brick right on top of the middle section of the green brick, so that if you look from the top, it looks like a plus sign.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "A2LzauD5COTXsbwPm6_CsAg",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "TREE",
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2.0
+      },
+      {
+        "color": "green",
+        "axis": "x",
+        "x": -1.0,
+        "y": 4.0,
+        "z": 2.0
+      },
+      {
+        "color": "blue",
+        "axis": "z",
+        "x": 0.0,
+        "y": 5.0,
+        "z": 1.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "in the bottom left square, you're going to place one red column brick",
+      "on top of the red column brick, you're going to take one green brick, take the short side facing you, and then you're going to place the middle four studs. You're going to place that right on top of the red column brick, so that from the left, it looks like the letter T.",
+      "right on top of the green brick, you're going to take one blue brick, take the long side facing you, and you're going to place the middle section of the blue brick right on top of the middle section of the green brick, so that if you look from the top, it looks like a plus sign."
+    ]
+  },
+  "validation_error": null
+}

@@ -1,0 +1,146 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P5",
+  "trial": 10,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P5/10/1",
+      "language": {
+        "text": "All right, left-hand side, C curve, green, red, green, with the red block closer towards you on the bottom half.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 9.04,
+            "text": "All right, left-hand side, C curve, green, red, green,"
+          },
+          {
+            "start": 9.42,
+            "end": 14.48,
+            "text": "with the red block closer towards you on the bottom half."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.48,
+            "word": "All"
+          },
+          {
+            "start": 1.48,
+            "end": 1.64,
+            "word": "right,"
+          },
+          {
+            "start": 1.82,
+            "end": 2.44,
+            "word": "left-hand"
+          },
+          {
+            "start": 2.44,
+            "end": 2.92,
+            "word": "side,"
+          },
+          {
+            "start": 3.58,
+            "end": 3.7,
+            "word": "C"
+          },
+          {
+            "start": 3.7,
+            "end": 4.26,
+            "word": "curve,"
+          },
+          {
+            "start": 4.94,
+            "end": 7.04,
+            "word": "green,"
+          },
+          {
+            "start": 7.34,
+            "end": 8.28,
+            "word": "red,"
+          },
+          {
+            "start": 8.48,
+            "end": 9.04,
+            "word": "green,"
+          },
+          {
+            "start": 9.42,
+            "end": 9.68,
+            "word": "with"
+          },
+          {
+            "start": 9.68,
+            "end": 10.08,
+            "word": "the"
+          },
+          {
+            "start": 10.08,
+            "end": 10.72,
+            "word": "red"
+          },
+          {
+            "start": 10.72,
+            "end": 11.28,
+            "word": "block"
+          },
+          {
+            "start": 11.28,
+            "end": 12.8,
+            "word": "closer"
+          },
+          {
+            "start": 12.8,
+            "end": 13.16,
+            "word": "towards"
+          },
+          {
+            "start": 13.16,
+            "end": 13.32,
+            "word": "you"
+          },
+          {
+            "start": 13.32,
+            "end": 13.46,
+            "word": "on"
+          },
+          {
+            "start": 13.46,
+            "end": 13.8,
+            "word": "the"
+          },
+          {
+            "start": 13.8,
+            "end": 14.06,
+            "word": "bottom"
+          },
+          {
+            "start": 14.06,
+            "end": 14.48,
+            "word": "half."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-c1-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-c1-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: All right, left-hand side, C curve, green, red, green, with the red block closer towards you on the bottom half."
+}

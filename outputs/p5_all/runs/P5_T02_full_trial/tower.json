@@ -1,0 +1,35 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": "TREE",
+  "status": "assumed",
+  "assumptions": [
+    "The red block is placed at (0,0,0) within the upper-left grid cell.",
+    "\"lengthwise\" for the green block implies its longer dimension (z-axis) is aligned with the z-axis of the grid, making its dimensions (2,1,4).",
+    "\"rotated so that it's oriented this way\" for the blue block implies its longer dimension (x-axis) is aligned with the x-axis of the grid, making its dimensions (4,1,2), and it is rotated 90 degrees relative to the green block.",
+    "\"two little pips poking out on each side\" and \"two pips hanging off of each side\" means an overhang of 1 unit on each side of the supporting block's footprint in the relevant dimension."
+  ],
+  "blocks": [
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "color": "green",
+      "axis": "z",
+      "x": 0.0,
+      "y": 4.0,
+      "z": -1.0
+    },
+    {
+      "color": "blue",
+      "axis": "x",
+      "x": -1.0,
+      "y": 5.0,
+      "z": 0.0
+    }
+  ]
+}

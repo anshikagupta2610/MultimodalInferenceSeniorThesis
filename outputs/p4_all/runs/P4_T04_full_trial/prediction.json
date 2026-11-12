@@ -1,0 +1,42 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Alright, so two trials ago, we made the construction with the red column brick, the green on top of it to look like the letter T from the side, and then the blue brick on top of that to look like a plus sign from the top. So you're going to create the exact same thing, but you're going to start with the red column brick on the back right, like the top right square of the 2x2 grid. So it'll be a red column brick, a green brick with the short side facing you, and the middle section on top of the red brick, and then one blue brick with the long side facing you on top with its middle section over the middle section of the green brick.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "LGLzasqjJu7ll7oPit6S2Aw",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": null,
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "x",
+        "x": 1.0,
+        "y": 4.0,
+        "z": 0.0
+      },
+      {
+        "color": "blue",
+        "axis": "z",
+        "x": 2.0,
+        "y": 5.0,
+        "z": -1.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "red column brick on the back right, like the top right square of the 2x2 grid",
+      "a green brick with the short side facing you, and the middle section on top of the red brick",
+      "one blue brick with the long side facing you on top with its middle section over the middle section of the green brick"
+    ]
+  },
+  "validation_error": null
+}

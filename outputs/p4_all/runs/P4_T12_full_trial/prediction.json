@@ -1,0 +1,43 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Alright, so this is the construction that looks like a capital C from the side, although this time it's going to be that you place the starting green brick on the right side of the 2x2 grid, and then you're going to put the red column brick on the front half of that green brick, and then one more green brick vertically aligned with the bottom one, so that this time it looks like a capital C from the right side.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "t2LzaqSoEo2XotQPqorLmQI",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": "C",
+    "blocks": [
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 2.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 1.0,
+        "z": 2.0
+      },
+      {
+        "color": "green",
+        "axis": "z",
+        "x": 2.0,
+        "y": 5.0,
+        "z": 0.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "place the starting green brick on the right side of the 2x2 grid",
+      "red column brick on the front half of that green brick",
+      "one more green brick vertically aligned with the bottom one",
+      "it looks like a capital C from the right side"
+    ]
+  },
+  "validation_error": null
+}

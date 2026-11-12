@@ -1,0 +1,34 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": "TREE",
+  "status": "assumed",
+  "assumptions": [
+    "The red block is placed in the upper-right grid cell (x=[2,4], z=[0,2]).",
+    "The phrase \"two pips of overhang on each side\" means 1 unit of overhang on each side along the block's primary axis.",
+    "The green block is oriented along the x-axis, and the blue block along the z-axis, to be perpendicular to each other and form a 'cross' as described."
+  ],
+  "blocks": [
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "color": "green",
+      "axis": "x",
+      "x": 1.0,
+      "y": 4.0,
+      "z": 0.0
+    },
+    {
+      "color": "blue",
+      "axis": "z",
+      "x": 2.0,
+      "y": 5.0,
+      "z": -1.0
+    }
+  ]
+}

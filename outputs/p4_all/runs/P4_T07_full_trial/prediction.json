@@ -1,0 +1,43 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: All right, in two previous trials, you've constructed that red column brick and then the green, green brick with the short side facing you on top of it to look like a T, capital T from the side, and then the blue brick on top with the long side facing you and its middle section aligned with the green brick so that it looks like a plus sign from above. This is the exact same construction, but this time you start with the red column brick on the back left, the top left square of the 2x2 grid. So that's the green so that it looks like capital T from the side, and then the blue on top so that it looks like a plus sign from above.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "YGLzasavJIqTotQPi-SbyQs",
+  "source": "live_llm",
+  "prediction": {
+    "status": "ready",
+    "shape": null,
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "x",
+        "x": -1.0,
+        "y": 4.0,
+        "z": 0.0
+      },
+      {
+        "color": "blue",
+        "axis": "z",
+        "x": 0.0,
+        "y": 5.0,
+        "z": -1.0
+      }
+    ],
+    "assumptions": [],
+    "unresolved": [],
+    "evidence": [
+      "red column brick",
+      "on the back left, the top left square of the 2x2 grid",
+      "green, green brick with the short side facing you on top of it to look like a T, capital T from the side",
+      "blue brick on top with the long side facing you and its middle section aligned with the green brick so that it looks like a plus sign from above"
+    ]
+  },
+  "validation_error": null
+}

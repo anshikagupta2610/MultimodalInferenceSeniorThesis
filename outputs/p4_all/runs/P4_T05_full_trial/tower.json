@@ -1,0 +1,37 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": "C",
+  "status": "assumed",
+  "assumptions": [
+    "The 'C' shape is formed by two horizontal green blocks and one vertical red block.",
+    "The instruction 'one green brick with a short side facing you' implies the green block has axis=x (dimensions 4x1x2).",
+    "The instruction 'a red column brick on its back two rows' means the red block's z-extent aligns with the bottom green block's z-extent.",
+    "The instruction 'vertically aligned with the bottom green brick' means the top green block's footprint is directly above the bottom green block's footprint.",
+    "The instruction 'on the right side of the 2x2 grid' means the vertical red block is placed in the right column (x=[2,4]), and the horizontal green blocks span the full x-width of the grid (x=[0,4]).",
+    "The C shape is centered in the z-dimension of the grid (z=[1,3])."
+  ],
+  "blocks": [
+    {
+      "color": "green",
+      "axis": "x",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    {
+      "color": "green",
+      "axis": "x",
+      "x": 0.0,
+      "y": 5.0,
+      "z": 1.0
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P5",
+  "trial": 9,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P5/9/1",
+      "language": {
+        "text": "All right, we're building another cross structure. So the red block is going to be in the bottom right. Green block pointed that way, centered. Blue block pointed that way, centered.",
+        "sentences": [
+          {
+            "start": 0.54,
+            "end": 4.32,
+            "text": "All right, we're building another cross structure."
+          },
+          {
+            "start": 4.48,
+            "end": 8.74,
+            "text": "So the red block is going to be in the bottom right."
+          },
+          {
+            "start": 9.4,
+            "end": 12.56,
+            "text": "Green block pointed that way, centered."
+          },
+          {
+            "start": 13.26,
+            "end": 15.92,
+            "text": "Blue block pointed that way, centered."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.54,
+            "end": 1.32,
+            "word": "All"
+          },
+          {
+            "start": 1.32,
+            "end": 1.5,
+            "word": "right,"
+          },
+          {
+            "start": 1.84,
+            "end": 2.06,
+            "word": "we're"
+          },
+          {
+            "start": 2.06,
+            "end": 2.34,
+            "word": "building"
+          },
+          {
+            "start": 2.34,
+            "end": 2.7,
+            "word": "another"
+          },
+          {
+            "start": 2.7,
+            "end": 3.32,
+            "word": "cross"
+          },
+          {
+            "start": 3.32,
+            "end": 4.32,
+            "word": "structure."
+          },
+          {
+            "start": 4.48,
+            "end": 4.8,
+            "word": "So"
+          },
+          {
+            "start": 4.8,
+            "end": 5.06,
+            "word": "the"
+          },
+          {
+            "start": 5.06,
+            "end": 5.3,
+            "word": "red"
+          },
+          {
+            "start": 5.3,
+            "end": 5.68,
+            "word": "block"
+          },
+          {
+            "start": 5.68,
+            "end": 5.92,
+            "word": "is"
+          },
+          {
+            "start": 5.92,
+            "end": 6.06,
+            "word": "going"
+          },
+          {
+            "start": 6.06,
+            "end": 6.12,
+            "word": "to"
+          },
+          {
+            "start": 6.12,
+            "end": 6.36,
+            "word": "be"
+          },
+          {
+            "start": 6.36,
+            "end": 7.08,
+            "word": "in"
+          },
+          {
+            "start": 7.08,
+            "end": 7.54,
+            "word": "the"
+          },
+          {
+            "start": 7.54,
+            "end": 8.42,
+            "word": "bottom"
+          },
+          {
+            "start": 8.42,
+            "end": 8.74,
+            "word": "right."
+          },
+          {
+            "start": 9.4,
+            "end": 10.2,
+            "word": "Green"
+          },
+          {
+            "start": 10.2,
+            "end": 10.7,
+            "word": "block"
+          },
+          {
+            "start": 10.7,
+            "end": 11.58,
+            "word": "pointed"
+          },
+          {
+            "start": 11.58,
+            "end": 11.86,
+            "word": "that"
+          },
+          {
+            "start": 11.86,
+            "end": 12.08,
+            "word": "way,"
+          },
+          {
+            "start": 12.2,
+            "end": 12.56,
+            "word": "centered."
+          },
+          {
+            "start": 13.26,
+            "end": 13.74,
+            "word": "Blue"
+          },
+          {
+            "start": 13.74,
+            "end": 14.22,
+            "word": "block"
+          },
+          {
+            "start": 14.22,
+            "end": 14.76,
+            "word": "pointed"
+          },
+          {
+            "start": 14.76,
+            "end": 15.04,
+            "word": "that"
+          },
+          {
+            "start": 15.04,
+            "end": 15.34,
+            "word": "way,"
+          },
+          {
+            "start": 15.64,
+            "end": 15.92,
+            "word": "centered."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-tr1-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-tr1-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: All right, we're building another cross structure. So the red block is going to be in the bottom right. Green block pointed that way, centered. Blue block pointed that way, centered."
+}

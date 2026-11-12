@@ -1,0 +1,591 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P5",
+  "trial": 2,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P5/2/1",
+      "language": {
+        "text": "Okay, so first in the upper left-hand grid put one of your red blocks. Then you want to put a green block on top of that, sort of facing lengthwise like I have my fingers pinched out here. You want to center it on the red block so there's two little pips poking out on each side of it. And then on top of that green block put a blue block centered at that same space but rotated so that it's oriented this way. And the blue block should also be centered so that there's two pips hanging off of each side.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 7.6,
+            "text": "Okay, so first in the upper left-hand grid put one of your red blocks."
+          },
+          {
+            "start": 8.0,
+            "end": 15.33,
+            "text": "Then you want to put a green block on top of that, sort of facing lengthwise like I"
+          },
+          {
+            "start": 15.33,
+            "end": 16.88,
+            "text": "have my fingers pinched out here."
+          },
+          {
+            "start": 17.1,
+            "end": 22.16,
+            "text": "You want to center it on the red block so there's two little pips poking out on each"
+          },
+          {
+            "start": 22.2,
+            "end": 22.84,
+            "text": "side of it."
+          },
+          {
+            "start": 23.4,
+            "end": 31.83,
+            "text": "And then on top of that green block put a blue block centered at that same space but"
+          },
+          {
+            "start": 31.83,
+            "end": 40.74,
+            "text": "rotated so that it's oriented this way."
+          },
+          {
+            "start": 41.3,
+            "end": 45.62,
+            "text": "And the blue block should also be centered so that there's two pips hanging off of each"
+          },
+          {
+            "start": 45.62,
+            "end": 45.98,
+            "text": "side."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.3,
+            "word": "Okay,"
+          },
+          {
+            "start": 1.74,
+            "end": 2.0,
+            "word": "so"
+          },
+          {
+            "start": 2.0,
+            "end": 2.4,
+            "word": "first"
+          },
+          {
+            "start": 2.4,
+            "end": 2.74,
+            "word": "in"
+          },
+          {
+            "start": 2.74,
+            "end": 3.2,
+            "word": "the"
+          },
+          {
+            "start": 3.2,
+            "end": 4.66,
+            "word": "upper"
+          },
+          {
+            "start": 4.66,
+            "end": 5.52,
+            "word": "left-hand"
+          },
+          {
+            "start": 5.52,
+            "end": 5.96,
+            "word": "grid"
+          },
+          {
+            "start": 5.96,
+            "end": 6.34,
+            "word": "put"
+          },
+          {
+            "start": 6.34,
+            "end": 6.74,
+            "word": "one"
+          },
+          {
+            "start": 6.74,
+            "end": 6.86,
+            "word": "of"
+          },
+          {
+            "start": 6.86,
+            "end": 6.98,
+            "word": "your"
+          },
+          {
+            "start": 6.98,
+            "end": 7.2,
+            "word": "red"
+          },
+          {
+            "start": 7.2,
+            "end": 7.6,
+            "word": "blocks."
+          },
+          {
+            "start": 8.0,
+            "end": 8.3,
+            "word": "Then"
+          },
+          {
+            "start": 8.3,
+            "end": 8.5,
+            "word": "you"
+          },
+          {
+            "start": 8.5,
+            "end": 8.78,
+            "word": "want"
+          },
+          {
+            "start": 8.78,
+            "end": 8.98,
+            "word": "to"
+          },
+          {
+            "start": 8.98,
+            "end": 9.34,
+            "word": "put"
+          },
+          {
+            "start": 9.34,
+            "end": 9.64,
+            "word": "a"
+          },
+          {
+            "start": 9.64,
+            "end": 9.98,
+            "word": "green"
+          },
+          {
+            "start": 9.98,
+            "end": 10.44,
+            "word": "block"
+          },
+          {
+            "start": 10.44,
+            "end": 10.74,
+            "word": "on"
+          },
+          {
+            "start": 10.74,
+            "end": 11.1,
+            "word": "top"
+          },
+          {
+            "start": 11.1,
+            "end": 11.28,
+            "word": "of"
+          },
+          {
+            "start": 11.28,
+            "end": 11.64,
+            "word": "that,"
+          },
+          {
+            "start": 12.66,
+            "end": 12.9,
+            "word": "sort"
+          },
+          {
+            "start": 12.9,
+            "end": 13.14,
+            "word": "of"
+          },
+          {
+            "start": 13.14,
+            "end": 13.88,
+            "word": "facing"
+          },
+          {
+            "start": 13.88,
+            "end": 15.06,
+            "word": "lengthwise"
+          },
+          {
+            "start": 15.06,
+            "end": 15.24,
+            "word": "like"
+          },
+          {
+            "start": 15.24,
+            "end": 15.33,
+            "word": "I"
+          },
+          {
+            "start": 15.33,
+            "end": 15.5,
+            "word": "have"
+          },
+          {
+            "start": 15.5,
+            "end": 15.68,
+            "word": "my"
+          },
+          {
+            "start": 15.68,
+            "end": 16.04,
+            "word": "fingers"
+          },
+          {
+            "start": 16.04,
+            "end": 16.48,
+            "word": "pinched"
+          },
+          {
+            "start": 16.48,
+            "end": 16.6,
+            "word": "out"
+          },
+          {
+            "start": 16.6,
+            "end": 16.88,
+            "word": "here."
+          },
+          {
+            "start": 17.1,
+            "end": 17.3,
+            "word": "You"
+          },
+          {
+            "start": 17.3,
+            "end": 17.42,
+            "word": "want"
+          },
+          {
+            "start": 17.42,
+            "end": 17.58,
+            "word": "to"
+          },
+          {
+            "start": 17.58,
+            "end": 17.9,
+            "word": "center"
+          },
+          {
+            "start": 17.9,
+            "end": 18.12,
+            "word": "it"
+          },
+          {
+            "start": 18.12,
+            "end": 18.26,
+            "word": "on"
+          },
+          {
+            "start": 18.26,
+            "end": 18.42,
+            "word": "the"
+          },
+          {
+            "start": 18.42,
+            "end": 18.62,
+            "word": "red"
+          },
+          {
+            "start": 18.62,
+            "end": 18.9,
+            "word": "block"
+          },
+          {
+            "start": 18.9,
+            "end": 19.08,
+            "word": "so"
+          },
+          {
+            "start": 19.08,
+            "end": 19.32,
+            "word": "there's"
+          },
+          {
+            "start": 19.32,
+            "end": 19.58,
+            "word": "two"
+          },
+          {
+            "start": 19.58,
+            "end": 19.88,
+            "word": "little"
+          },
+          {
+            "start": 19.88,
+            "end": 20.42,
+            "word": "pips"
+          },
+          {
+            "start": 20.42,
+            "end": 21.32,
+            "word": "poking"
+          },
+          {
+            "start": 21.32,
+            "end": 21.66,
+            "word": "out"
+          },
+          {
+            "start": 21.66,
+            "end": 21.88,
+            "word": "on"
+          },
+          {
+            "start": 21.88,
+            "end": 22.16,
+            "word": "each"
+          },
+          {
+            "start": 22.2,
+            "end": 22.5,
+            "word": "side"
+          },
+          {
+            "start": 22.5,
+            "end": 22.64,
+            "word": "of"
+          },
+          {
+            "start": 22.64,
+            "end": 22.84,
+            "word": "it."
+          },
+          {
+            "start": 23.4,
+            "end": 23.48,
+            "word": "And"
+          },
+          {
+            "start": 23.48,
+            "end": 23.58,
+            "word": "then"
+          },
+          {
+            "start": 23.58,
+            "end": 23.76,
+            "word": "on"
+          },
+          {
+            "start": 23.76,
+            "end": 24.12,
+            "word": "top"
+          },
+          {
+            "start": 24.12,
+            "end": 24.28,
+            "word": "of"
+          },
+          {
+            "start": 24.28,
+            "end": 24.66,
+            "word": "that"
+          },
+          {
+            "start": 24.66,
+            "end": 25.92,
+            "word": "green"
+          },
+          {
+            "start": 25.92,
+            "end": 26.66,
+            "word": "block"
+          },
+          {
+            "start": 26.66,
+            "end": 27.34,
+            "word": "put"
+          },
+          {
+            "start": 27.34,
+            "end": 28.56,
+            "word": "a"
+          },
+          {
+            "start": 28.56,
+            "end": 28.78,
+            "word": "blue"
+          },
+          {
+            "start": 28.78,
+            "end": 29.28,
+            "word": "block"
+          },
+          {
+            "start": 29.28,
+            "end": 29.78,
+            "word": "centered"
+          },
+          {
+            "start": 29.78,
+            "end": 29.98,
+            "word": "at"
+          },
+          {
+            "start": 29.98,
+            "end": 30.16,
+            "word": "that"
+          },
+          {
+            "start": 30.16,
+            "end": 30.5,
+            "word": "same"
+          },
+          {
+            "start": 30.5,
+            "end": 31.16,
+            "word": "space"
+          },
+          {
+            "start": 31.16,
+            "end": 31.83,
+            "word": "but"
+          },
+          {
+            "start": 31.83,
+            "end": 32.8,
+            "word": "rotated"
+          },
+          {
+            "start": 32.8,
+            "end": 37.84,
+            "word": "so"
+          },
+          {
+            "start": 37.84,
+            "end": 38.06,
+            "word": "that"
+          },
+          {
+            "start": 38.06,
+            "end": 39.04,
+            "word": "it's"
+          },
+          {
+            "start": 39.04,
+            "end": 39.72,
+            "word": "oriented"
+          },
+          {
+            "start": 39.72,
+            "end": 40.4,
+            "word": "this"
+          },
+          {
+            "start": 40.4,
+            "end": 40.74,
+            "word": "way."
+          },
+          {
+            "start": 41.3,
+            "end": 41.52,
+            "word": "And"
+          },
+          {
+            "start": 41.52,
+            "end": 41.66,
+            "word": "the"
+          },
+          {
+            "start": 41.66,
+            "end": 41.84,
+            "word": "blue"
+          },
+          {
+            "start": 41.84,
+            "end": 42.08,
+            "word": "block"
+          },
+          {
+            "start": 42.08,
+            "end": 42.24,
+            "word": "should"
+          },
+          {
+            "start": 42.24,
+            "end": 42.44,
+            "word": "also"
+          },
+          {
+            "start": 42.44,
+            "end": 42.66,
+            "word": "be"
+          },
+          {
+            "start": 42.66,
+            "end": 43.06,
+            "word": "centered"
+          },
+          {
+            "start": 43.06,
+            "end": 43.3,
+            "word": "so"
+          },
+          {
+            "start": 43.3,
+            "end": 43.44,
+            "word": "that"
+          },
+          {
+            "start": 43.44,
+            "end": 43.64,
+            "word": "there's"
+          },
+          {
+            "start": 43.64,
+            "end": 43.84,
+            "word": "two"
+          },
+          {
+            "start": 43.84,
+            "end": 44.22,
+            "word": "pips"
+          },
+          {
+            "start": 44.22,
+            "end": 44.64,
+            "word": "hanging"
+          },
+          {
+            "start": 44.64,
+            "end": 45.34,
+            "word": "off"
+          },
+          {
+            "start": 45.34,
+            "end": 45.48,
+            "word": "of"
+          },
+          {
+            "start": 45.48,
+            "end": 45.62,
+            "word": "each"
+          },
+          {
+            "start": 45.62,
+            "end": 45.98,
+            "word": "side."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-tr2-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-tr2-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so first in the upper left-hand grid put one of your red blocks. Then you want to put a green block on top of that, sort of facing lengthwise like I have my fingers pinched out here. You want to center it on the red block so there's two little pips poking out on each side of it. And then on top of that green block put a blue block centered at that same space but rotated so that it's oriented this way. And the blue block should also be centered so that there's two pips hanging off of each side."
+}

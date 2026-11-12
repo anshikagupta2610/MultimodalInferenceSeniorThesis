@@ -1,0 +1,35 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": "L",
+  "status": "assumed",
+  "assumptions": [
+    "The blue block's 'this way' orientation is axis=x (default for blue).",
+    "The red blocks are upright (axis=y) by default.",
+    "The 'bottom two squares' refers to the front row (z=[2,4]).",
+    "The 'bottom right-hand little bit here' refers to the front-right cell (x=[2,4], z=[2,4])."
+  ],
+  "blocks": [
+    {
+      "color": "blue",
+      "axis": "x",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 1.0,
+      "z": 2.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 5.0,
+      "z": 2.0
+    }
+  ]
+}

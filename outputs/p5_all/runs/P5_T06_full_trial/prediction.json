@@ -1,0 +1,47 @@
+{
+  "instruction": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Alright, we're building another one of those little cross beam structures. So upper right, put a red block, then pointing this way, put a green block on top of that, centered on it so there's two pips of overhang on each side, then again, blue block on top of that, oriented this way instead so they're perpendicular, and again with two pips hanging off of it so it's like a little cross on top of a red block.",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "response_id": "jGLzaufVBP6botQP4b3-oAs",
+  "source": "live_llm",
+  "prediction": {
+    "status": "assumed",
+    "shape": "TREE",
+    "blocks": [
+      {
+        "color": "red",
+        "axis": "y",
+        "x": 2.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "color": "green",
+        "axis": "x",
+        "x": 1.0,
+        "y": 4.0,
+        "z": 0.0
+      },
+      {
+        "color": "blue",
+        "axis": "z",
+        "x": 2.0,
+        "y": 5.0,
+        "z": -1.0
+      }
+    ],
+    "assumptions": [
+      "The red block is placed in the upper-right grid cell (x=[2,4], z=[0,2]).",
+      "The phrase \"two pips of overhang on each side\" means 1 unit of overhang on each side along the block's primary axis.",
+      "The green block is oriented along the x-axis, and the blue block along the z-axis, to be perpendicular to each other and form a 'cross' as described."
+    ],
+    "unresolved": [],
+    "evidence": [
+      "Alright, we're building another one of those little cross beam structures.",
+      "So upper right, put a red block,",
+      "then pointing this way, put a green block on top of that, centered on it so there's two pips of overhang on each side,",
+      "then again, blue block on top of that, oriented this way instead so they're perpendicular, and again with two pips hanging off of it so it's like a little cross on top of a red block."
+    ]
+  },
+  "validation_error": null
+}

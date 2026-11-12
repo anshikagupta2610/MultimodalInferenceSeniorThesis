@@ -476,13 +476,19 @@ def make_vertex_client():
     location = os.environ.get("GOOGLE_CLOUD_LOCATION", "global").strip()
     if not project:
         raise RuntimeError("Set GOOGLE_CLOUD_PROJECT in .env (example: cos-multimodalinputs).")
+    try:
+        timeout_ms = int(os.environ.get("VERTEX_REQUEST_TIMEOUT_MS", "60000"))
+    except ValueError:
+        raise ValueError("VERTEX_REQUEST_TIMEOUT_MS must be a positive integer") from None
+    if timeout_ms <= 0:
+        raise ValueError("VERTEX_REQUEST_TIMEOUT_MS must be a positive integer")
     from google import genai
     from google.genai import types
     return genai.Client(
         vertexai=True,
         project=project,
         location=location,
-        http_options=types.HttpOptions(timeout=60000),
+        http_options=types.HttpOptions(timeout=timeout_ms),
     )
 
 

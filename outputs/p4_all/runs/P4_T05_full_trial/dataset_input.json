@@ -1,0 +1,631 @@
+{
+  "schema": "gta-v2-language-input-v1",
+  "participant": "P4",
+  "trial": 5,
+  "selection_mode": "cumulative_through_step",
+  "steps": [
+    {
+      "step_num": 1,
+      "relative_directory": "P4/5/1",
+      "language": {
+        "text": "Okay, so in a previous trial, you created using one green brick with a short side facing you, a red column brick on its back two rows, and then another green brick that was on top of the red column brick and vertically aligned with the bottom green brick. So it would look like the letter C if you look at it from the left. So this is the same construction, but now instead of putting it on the left side of the 2x2 grid, you're going to place it on the right side so that still when you look at it from the left, it will look like a letter C.",
+        "sentences": [
+          {
+            "start": 0.0,
+            "end": 9.61,
+            "text": "Okay, so in a previous trial, you created using one green brick with a short side facing"
+          },
+          {
+            "start": 9.61,
+            "end": 17.86,
+            "text": "you, a red column brick on its back two rows, and then another green brick that was on top"
+          },
+          {
+            "start": 17.86,
+            "end": 22.44,
+            "text": "of the red column brick and vertically aligned with the bottom green brick."
+          },
+          {
+            "start": 22.84,
+            "end": 26.42,
+            "text": "So it would look like the letter C if you look at it from the left."
+          },
+          {
+            "start": 27.38,
+            "end": 32.78,
+            "text": "So this is the same construction, but now instead of putting it on the left side of"
+          },
+          {
+            "start": 32.78,
+            "end": 38.52,
+            "text": "the 2x2 grid, you're going to place it on the right side so that still when you look"
+          },
+          {
+            "start": 38.52,
+            "end": 41.52,
+            "text": "at it from the left, it will look like a letter C."
+          }
+        ],
+        "words": [
+          {
+            "start": 0.0,
+            "end": 1.6,
+            "word": "Okay,"
+          },
+          {
+            "start": 2.28,
+            "end": 2.96,
+            "word": "so"
+          },
+          {
+            "start": 2.96,
+            "end": 3.44,
+            "word": "in"
+          },
+          {
+            "start": 3.44,
+            "end": 3.56,
+            "word": "a"
+          },
+          {
+            "start": 3.56,
+            "end": 3.92,
+            "word": "previous"
+          },
+          {
+            "start": 3.92,
+            "end": 4.42,
+            "word": "trial,"
+          },
+          {
+            "start": 5.0,
+            "end": 5.1,
+            "word": "you"
+          },
+          {
+            "start": 5.1,
+            "end": 5.66,
+            "word": "created"
+          },
+          {
+            "start": 5.66,
+            "end": 7.18,
+            "word": "using"
+          },
+          {
+            "start": 7.18,
+            "end": 7.54,
+            "word": "one"
+          },
+          {
+            "start": 7.54,
+            "end": 8.36,
+            "word": "green"
+          },
+          {
+            "start": 8.36,
+            "end": 8.64,
+            "word": "brick"
+          },
+          {
+            "start": 8.64,
+            "end": 8.84,
+            "word": "with"
+          },
+          {
+            "start": 8.84,
+            "end": 8.94,
+            "word": "a"
+          },
+          {
+            "start": 8.94,
+            "end": 9.1,
+            "word": "short"
+          },
+          {
+            "start": 9.1,
+            "end": 9.34,
+            "word": "side"
+          },
+          {
+            "start": 9.34,
+            "end": 9.61,
+            "word": "facing"
+          },
+          {
+            "start": 9.61,
+            "end": 9.96,
+            "word": "you,"
+          },
+          {
+            "start": 10.28,
+            "end": 10.5,
+            "word": "a"
+          },
+          {
+            "start": 10.5,
+            "end": 10.7,
+            "word": "red"
+          },
+          {
+            "start": 10.7,
+            "end": 11.08,
+            "word": "column"
+          },
+          {
+            "start": 11.08,
+            "end": 11.44,
+            "word": "brick"
+          },
+          {
+            "start": 11.44,
+            "end": 12.0,
+            "word": "on"
+          },
+          {
+            "start": 12.0,
+            "end": 12.3,
+            "word": "its"
+          },
+          {
+            "start": 12.3,
+            "end": 12.58,
+            "word": "back"
+          },
+          {
+            "start": 12.58,
+            "end": 12.8,
+            "word": "two"
+          },
+          {
+            "start": 12.8,
+            "end": 13.22,
+            "word": "rows,"
+          },
+          {
+            "start": 13.5,
+            "end": 13.86,
+            "word": "and"
+          },
+          {
+            "start": 13.86,
+            "end": 14.2,
+            "word": "then"
+          },
+          {
+            "start": 14.2,
+            "end": 14.96,
+            "word": "another"
+          },
+          {
+            "start": 14.96,
+            "end": 15.44,
+            "word": "green"
+          },
+          {
+            "start": 15.44,
+            "end": 15.88,
+            "word": "brick"
+          },
+          {
+            "start": 15.88,
+            "end": 16.78,
+            "word": "that"
+          },
+          {
+            "start": 16.78,
+            "end": 17.0,
+            "word": "was"
+          },
+          {
+            "start": 17.0,
+            "end": 17.64,
+            "word": "on"
+          },
+          {
+            "start": 17.64,
+            "end": 17.86,
+            "word": "top"
+          },
+          {
+            "start": 17.86,
+            "end": 17.98,
+            "word": "of"
+          },
+          {
+            "start": 17.98,
+            "end": 18.1,
+            "word": "the"
+          },
+          {
+            "start": 18.1,
+            "end": 18.34,
+            "word": "red"
+          },
+          {
+            "start": 18.34,
+            "end": 18.66,
+            "word": "column"
+          },
+          {
+            "start": 18.66,
+            "end": 18.92,
+            "word": "brick"
+          },
+          {
+            "start": 18.92,
+            "end": 19.14,
+            "word": "and"
+          },
+          {
+            "start": 19.14,
+            "end": 19.56,
+            "word": "vertically"
+          },
+          {
+            "start": 19.56,
+            "end": 20.76,
+            "word": "aligned"
+          },
+          {
+            "start": 20.76,
+            "end": 21.36,
+            "word": "with"
+          },
+          {
+            "start": 21.36,
+            "end": 21.52,
+            "word": "the"
+          },
+          {
+            "start": 21.52,
+            "end": 21.78,
+            "word": "bottom"
+          },
+          {
+            "start": 21.78,
+            "end": 22.08,
+            "word": "green"
+          },
+          {
+            "start": 22.08,
+            "end": 22.44,
+            "word": "brick."
+          },
+          {
+            "start": 22.84,
+            "end": 23.0,
+            "word": "So"
+          },
+          {
+            "start": 23.0,
+            "end": 23.12,
+            "word": "it"
+          },
+          {
+            "start": 23.12,
+            "end": 23.26,
+            "word": "would"
+          },
+          {
+            "start": 23.26,
+            "end": 23.46,
+            "word": "look"
+          },
+          {
+            "start": 23.46,
+            "end": 23.66,
+            "word": "like"
+          },
+          {
+            "start": 23.66,
+            "end": 23.82,
+            "word": "the"
+          },
+          {
+            "start": 23.82,
+            "end": 24.04,
+            "word": "letter"
+          },
+          {
+            "start": 24.04,
+            "end": 24.44,
+            "word": "C"
+          },
+          {
+            "start": 24.44,
+            "end": 25.32,
+            "word": "if"
+          },
+          {
+            "start": 25.32,
+            "end": 25.44,
+            "word": "you"
+          },
+          {
+            "start": 25.44,
+            "end": 25.62,
+            "word": "look"
+          },
+          {
+            "start": 25.62,
+            "end": 25.72,
+            "word": "at"
+          },
+          {
+            "start": 25.72,
+            "end": 25.82,
+            "word": "it"
+          },
+          {
+            "start": 25.82,
+            "end": 25.96,
+            "word": "from"
+          },
+          {
+            "start": 25.96,
+            "end": 26.12,
+            "word": "the"
+          },
+          {
+            "start": 26.12,
+            "end": 26.42,
+            "word": "left."
+          },
+          {
+            "start": 27.38,
+            "end": 27.48,
+            "word": "So"
+          },
+          {
+            "start": 27.48,
+            "end": 27.74,
+            "word": "this"
+          },
+          {
+            "start": 27.74,
+            "end": 27.9,
+            "word": "is"
+          },
+          {
+            "start": 27.9,
+            "end": 28.06,
+            "word": "the"
+          },
+          {
+            "start": 28.06,
+            "end": 28.32,
+            "word": "same"
+          },
+          {
+            "start": 28.32,
+            "end": 29.0,
+            "word": "construction,"
+          },
+          {
+            "start": 29.46,
+            "end": 29.9,
+            "word": "but"
+          },
+          {
+            "start": 29.9,
+            "end": 30.18,
+            "word": "now"
+          },
+          {
+            "start": 30.18,
+            "end": 30.48,
+            "word": "instead"
+          },
+          {
+            "start": 30.48,
+            "end": 30.6,
+            "word": "of"
+          },
+          {
+            "start": 30.6,
+            "end": 30.84,
+            "word": "putting"
+          },
+          {
+            "start": 30.84,
+            "end": 31.02,
+            "word": "it"
+          },
+          {
+            "start": 31.02,
+            "end": 31.18,
+            "word": "on"
+          },
+          {
+            "start": 31.18,
+            "end": 31.36,
+            "word": "the"
+          },
+          {
+            "start": 31.36,
+            "end": 31.7,
+            "word": "left"
+          },
+          {
+            "start": 31.7,
+            "end": 32.18,
+            "word": "side"
+          },
+          {
+            "start": 32.18,
+            "end": 32.78,
+            "word": "of"
+          },
+          {
+            "start": 32.78,
+            "end": 33.06,
+            "word": "the"
+          },
+          {
+            "start": 33.06,
+            "end": 33.56,
+            "word": "2x2"
+          },
+          {
+            "start": 33.56,
+            "end": 33.92,
+            "word": "grid,"
+          },
+          {
+            "start": 34.3,
+            "end": 34.52,
+            "word": "you're"
+          },
+          {
+            "start": 34.52,
+            "end": 34.62,
+            "word": "going"
+          },
+          {
+            "start": 34.62,
+            "end": 34.78,
+            "word": "to"
+          },
+          {
+            "start": 34.78,
+            "end": 35.04,
+            "word": "place"
+          },
+          {
+            "start": 35.04,
+            "end": 35.22,
+            "word": "it"
+          },
+          {
+            "start": 35.22,
+            "end": 35.38,
+            "word": "on"
+          },
+          {
+            "start": 35.38,
+            "end": 35.54,
+            "word": "the"
+          },
+          {
+            "start": 35.54,
+            "end": 35.82,
+            "word": "right"
+          },
+          {
+            "start": 35.82,
+            "end": 36.24,
+            "word": "side"
+          },
+          {
+            "start": 36.24,
+            "end": 37.16,
+            "word": "so"
+          },
+          {
+            "start": 37.16,
+            "end": 37.44,
+            "word": "that"
+          },
+          {
+            "start": 37.44,
+            "end": 37.96,
+            "word": "still"
+          },
+          {
+            "start": 37.96,
+            "end": 38.18,
+            "word": "when"
+          },
+          {
+            "start": 38.18,
+            "end": 38.3,
+            "word": "you"
+          },
+          {
+            "start": 38.3,
+            "end": 38.52,
+            "word": "look"
+          },
+          {
+            "start": 38.52,
+            "end": 38.66,
+            "word": "at"
+          },
+          {
+            "start": 38.66,
+            "end": 38.82,
+            "word": "it"
+          },
+          {
+            "start": 38.82,
+            "end": 39.0,
+            "word": "from"
+          },
+          {
+            "start": 39.0,
+            "end": 39.16,
+            "word": "the"
+          },
+          {
+            "start": 39.16,
+            "end": 39.5,
+            "word": "left,"
+          },
+          {
+            "start": 39.8,
+            "end": 39.94,
+            "word": "it"
+          },
+          {
+            "start": 39.94,
+            "end": 40.08,
+            "word": "will"
+          },
+          {
+            "start": 40.08,
+            "end": 40.34,
+            "word": "look"
+          },
+          {
+            "start": 40.34,
+            "end": 40.72,
+            "word": "like"
+          },
+          {
+            "start": 40.72,
+            "end": 41.02,
+            "word": "a"
+          },
+          {
+            "start": 41.02,
+            "end": 41.2,
+            "word": "letter"
+          },
+          {
+            "start": 41.2,
+            "end": 41.52,
+            "word": "C."
+          }
+        ],
+        "clock": "audio_seconds_per_step",
+        "source": "sentence_csv",
+        "sentence_file": "audio_transcript_timestamp.csv",
+        "word_file": "audio_transcript_word_timestamp.csv"
+      }
+    }
+  ],
+  "target_for_local_log_only": {
+    "tower_id": "t-8-c2-translucent",
+    "source": "tower_list.txt",
+    "observed_step_targets": [
+      {
+        "step": 1,
+        "file": "metadata.json",
+        "tower_id": "t-8-c2-translucent"
+      }
+    ],
+    "warnings": []
+  },
+  "model_input": "Reconstruct the final tower described by these successive speech messages from one trial. Later messages can correct earlier ones. A correction that depends on an unseen Builder state may remain ambiguous.\n\nMessage 1: Okay, so in a previous trial, you created using one green brick with a short side facing you, a red column brick on its back two rows, and then another green brick that was on top of the red column brick and vertically aligned with the bottom green brick. So it would look like the letter C if you look at it from the left. So this is the same construction, but now instead of putting it on the left side of the 2x2 grid, you're going to place it on the right side so that still when you look at it from the left, it will look like a letter C."
+}

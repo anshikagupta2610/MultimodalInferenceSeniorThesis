@@ -1,0 +1,35 @@
+{
+  "schema": "gta-world-v2",
+  "coordinate_frame": "viewer_grid",
+  "shape": "L",
+  "status": "assumed",
+  "assumptions": [
+    "The blue block is placed on the ground (y=0). The phrase \"at the top\" is interpreted as referring to the back row (z=0) or a general placement on the grid, not an elevated position.",
+    "\"Pointing this way\" for the blue block (default axis=x) means it is oriented along the x-axis.",
+    "The \"backwards L\" implies the red stack is on the right end of the blue block.",
+    "The red blocks are centered on the right end of the blue block's top surface."
+  ],
+  "blocks": [
+    {
+      "color": "blue",
+      "axis": "x",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 1.0,
+      "z": 0.0
+    },
+    {
+      "color": "red",
+      "axis": "y",
+      "x": 2.0,
+      "y": 5.0,
+      "z": 0.0
+    }
+  ]
+}
